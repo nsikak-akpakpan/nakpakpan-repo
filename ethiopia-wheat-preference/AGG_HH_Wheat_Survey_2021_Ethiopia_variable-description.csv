@@ -1,0 +1,1133 @@
+File,Sheet,Page,Language,Variable Name,Variable Description,Data_type,Unit_of_Measurment,Key
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,Region,Region,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,Zone,Zone,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,District,District,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,PA,PA,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,Village,Village,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,HHH_Name,Name of HH head,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,HHH_Sex,Sex of Household head,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,HHH_Age,Age of household head,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,HHH_Edcn,Education of household head,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,Intro_Study,ENUMERATOR: Please introduce the study:,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,Consent_Resp,Has the respondent given his/her consent to be interviewed? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,HH_Replacement,"If not, proceed to the next sample Household in the list. If households in list are already contacted look for a replacement",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,New_HH_Id,"If a respondent is a replacement household, give a new ID starting from 300",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 1,English,Wheat_Cult,Have you cultivated wheat in any of your plots during the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,GPS,GPS coordinates of the main dwelling,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,GPS_Lat,Farmer GPS Location - Latitude,Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,GPS_Long,Farmer GPS Location - Longitude,Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,Interview_Date,Date of Interview,Date,DDMMYYYY,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,Supervisor,Supervisor,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,Enumerator_Name,Enumerator,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,MHH_FHH,Is this a MHH or FHH?,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,MHH_Name,Male household head (MHH) name,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,FHH_Name,Female household head (FHH) name,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,MHH_Phone,Mobile phone number of MHH,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,FHH_Phone,Mobile phone number of FHH,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,Respondent_Othr,Is the repondent other person in the HH than the MHH or FHH? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,Respondent_Name,"Name of respondent, if not MHH or FHH (Please ensure that the respondent belons to the study household)",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,Respondent_Phone,"Mobile phone number of the respondent, if not MHH or FHH",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 2,English,HH_Intvw_LastRound_Yn,Was this household interviewed in the last round of the survey (check from the list provided) (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_HH_Memb,How many adult members are there in your household in total? (number of members of age 15 or above; Living in the house and eating from the same kitchen for at least 4 months during the past one year,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_HH_Boys,Number of BOYS (below 15 years of age) in the household:,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_HH_Girl,Number of GIRLS (below 15 years of age) in the household:,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_Boys_AttndSchool,Number of BOYS (below 15 years of age) attending school (online or in person),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_Girl_AttndSchool,Number of GIRLS (below 15 years of age) attending school (online or in person),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Total_Num_OM,"TOTAL number of close family members, who stay outside for >4 months during",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_OM_Work,Of those how many stayed outside >4 months FOR WORK:,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_OM_Study,Of those how many stayed outside >4 months FOR STUDY:,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_OM_Other,Of those how many stayed utside >4 months FOR OTHER PURPOSES:,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Main_Language,Main language used by the household members (Code 10),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Language_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,MHH_Relgn,Religion of the MHH (Code 11),Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,MHH_Relgn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,FHH_Relgn,Religion of the FHH (Code 11),Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,FHH_Relgn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1,Page number 3,English,Num_HH_AdultMemb,Household adult member (15 years or older) roster,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HH_Member_Roster,Household adult member (15 years or older) roster [Number of rows = number of,,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HH_Member_Id,HH member ID,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HH_Member_Name,Name of the household member,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HH_Mem_Gender,Gender of household member (Code 2),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HH_Mem_Age,Age (years),Integer,Years,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,HHH_Reln,Relation to HH head (Code 3),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Marital_Status,Marital Status (Code 7),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Primary_Occpn,Primary occupation in the last 12 months - Type of work (Code 4),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Primary_Occpn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Month_Worked,Months worked during the last 12 months,Integer,Months,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Working_Hrs_Week,Working hours per week during months worked,Integer,Hours,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Sec_Occpn,Secondary occupation in the last 12 months - Type of work (Code 4),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Sec_Occpn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Month_Worked,Months worked during the last 12 months,Integer,Months,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Working_Hrs_Week,Working hours per week during months worked,Integer,Hours,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Read_Write_Yn,Can read and/or write any language (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Education,Education (Code 5),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Education_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.8,Page number 3,English,Decision_Involvment,Involved in decision-making regarding crop production? (Code 6),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,Outside_HH_Mem_Num,Number of close family members who live outside the household for >4 months out of the last 12 months and whose husband/wife or parents (in case the person is unmarried) live in the surveyed household.,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,HH_OM_Id,HH member ID of outside family members,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,HH_OM_Name,Name of the household member,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,HH_OM_Gender,Gender (Code 2),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,HH_OM_Age,Age (years),Integer,Years,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,HHH_OM_Rlen,Relation to HH head (Code 3),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Marital_Status,Marital Status (Code 7),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Primary_Occupn,Primary occupation in the last 12 months - Type of work (Code 4),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Primary_Occupn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Month_Worked,Months worked during the last 12 months,Integer,Months,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Working_Hrs_Week,Working hours per week during months worked,Integer,Hours,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Outside_Period,How long has this member been staying outside the house? (MONTHS),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Current_Place,Current place this person resides (name),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,Dist_House_Place,Distance from house to the place where he/she resides (km),Integer,Km,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Vist_Freq,Frequency of visit (once in _________ months),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Read_Write,Can read and/or write any language (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Educn,Education (Code 5),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Educn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Decn_Making,Actively involved in decision-making regarding crop production Over phone or when he or she visits(Code 6),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.2.9,Page number 4,English,OM_Monetary_Flow,Type of monetary flow,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Farm_Size,Farm size of household,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Module_Resp,Respondent of this module,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Land_Unit,Land unit used by the farmer,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Land_Unit_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,LU_Convrsn_Rate,LU conversion rate - 1 Ha =_________ LU,Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Total_Cult_Area,Total cultivable area owned [LU],Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Lease_In_Area,Area leased-in [LU],Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Lease_In_Charge,Lease-in charge [Birr/LU],Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Lease_Out_Area,Area leased-out [LU],Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Lease_Out_Charge,Lease-out charge [Birr/LU],Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Sharecrop_Area,"Total land area brought in under sharecropping arrangement [LU, if zero go to",Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop1,start from a crop with largest area under sharecropping - Crop 1 (Code 9),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop1_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop1_Area,Area (LU),Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop1_Harv,Share of harvest obtained by HH (%),Float,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop2,start from a crop with largest area under sharecropping - Crop 2 (Code 9),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop2_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop2_Area,Area (LU),Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop2_Harv,Share of harvest obtained by HH (%),Float,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop3,start from a crop with largest area under sharecropping - Crop 3 (Code 9),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop3_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop3_Area,Area (LU),Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Share_Crop3_Harv,Share of harvest obtained by HH (%),Float,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Cult_Area,Area cultivated jointly with friends or family members outside the home,Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop1,start from a crop with largest area under joint arrangement - Crop 1,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop1_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop1_ Area,Area (LU),Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop1_ Harv,Share of harvest obtained by HH (%),Float,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop2,start from a crop with largest area under joint arrangement - Crop 2,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop2_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop2_ Area,Area (LU),Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop2_ Harv,Share of harvest obtained by HH (%),Float,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop3,start from a crop with largest area under joint arrangement - Crop 3,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop3_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop3_ Area,Area (LU),Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Joint_Crop3_ Harv,Share of harvest obtained by HH (%),Float,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Othr_Land_Area,"Area of other land used for cultivation (e.g., community land) [LU]",Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,MortageLand_Area,Area of land mortgaged out to someone [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Total_CultArea_Meher,Total area cultivated in Meher season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Rice_CultArea_Meher,Total rice area cultivated in Meher season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Maize_CultArea_Meher,Total maize cultivated in Meher season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Wheat_CultArea_Meher,Total wheat area cultivated in Meher season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Total_CultArea_Belg,Total area cultivated in Belg season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Rice_CultArea_Belg,Total rice area cultivated in Belg season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Maize_CultArea_Belg,Total maize cultivated in Belg season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Wheat_CultArea_Belg,Total wheat area cultivated in Belg season [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Total_Area_BtwSeason,Total area cultivated (if any) between the two seasons (between Meher and Berg),Float,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Num_Plots_CropGrown,"During the last 12 months, on how many specific plots have you grown crops",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,1.3,Page number 6,English,Info_Collect ,"[ENUMERATOR: Collect this information for each cultivable plot, starting with the largest in plot area. Include max 8 plot",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Num_Plots_CropGrown,"During the last 12 months, on how many specific plots have you grown crops",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Id,Plot ID,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Area,Plot area [LU],Float,LU,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Dist_WalkMin,Distance from home to this plot (minutes of walking - one way),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Locn_Name,Name/area where the specific plot is located,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,PrimaryCrop_Seasn1,Primary crop during season 1 or rainy/Summer/Meher 2020/21 (Code 14),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,PrimaryCrop_Seasn1_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,PrimaryCrop_Seasn2,Primary crop during season 2 or Dry/winter/Belg 2021 (Code 14),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,PrimaryCrop_Seasn2_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Slope,Slope (Code 15),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Soil_Type,Soil type(Code 16),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Soil_Fert,Soil fertility (Code 17),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Erosion_Yn,Have you had erosion problems with the plot? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Soil_Salinity_Yn,Have you had soil salinity or sodicity problems with the plot?(Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Soil_Acidity_Yn,Have you had soil acidity problems with the plot? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,WaterLogging_Yn,Have you had water logging problems with the plot? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Tenure_Stat,Tenure status,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Tenure_Stat_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,PlotOwn_Inherited_Yn,"If owned, is the plot of land inherited from parents? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_SelfManage_10Yrs,Was this plot under your management 10 years back? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Land_Title_FamMemb,Land title available in the name of any of the family members? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,LandTitle_Holder,"If yes to Q16, who is the title holder? (Code 19)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Manager,Who manages the crops grown in the plot for most time (Code 19),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Irrgn_Yn,Is irrigation available for the specific plot? (Code 20),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Irrgn_Src,"If irrigation is available at least (sometime or always), the source",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Irrgn_Src_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,SoilWater_Consrvn_Str,Have you constructed soil and water conservation structures in this plot during the last 3 years (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Chem_Herbicides_Yn,Have you adopted chemical herbicides in this plot during the last two season,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Plot_Intercropping_Yn,you adopted intercropping in this plot during the last two seasons? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.1b,Page number 7,English,Add_Plot,Is there an additional plot? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Id,Plot ID,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Area,Plot area [LU],LU,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,PrimaryCrop_Seasn1,Primary crop during season 1 or rainy/Summer/Meher 2020/21 (Code 14),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,PrimaryCrop_Seasn2,Primary crop during season 2 or Dry/winter/Belg 2021 (Code 14),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Random_Plot_Id,Is this the the major wheat plot?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Num_Tillage,many times the plot was tilled before sowing wheat?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Seed_Use,How much seed did you use for the entire plot? (kg),Float,Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Wheat_Var,What was the wheat variety grown on this plot?,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Wheat_InterCrop,Was wheat intercropped with other crops? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Sec_Crop,What was the other/secondary crop (intercrop) (Code 14),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_Sec_Crop_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_MainCrop_PrevSeason,What was the main crop grown during the previous season in this plot? (Code 14),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_MainCrop_PS_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Residue_PrevCrop_Burn,Was the residue of previous crop (crop before wheat) burnt? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Residue_Mulch_Yn,"If not, had you used the crop residue from the previous crop as mulch for wheat? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Residue_PrevWheat_Burn,Was the residue of previous wheat crop burnt (partly or all)? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,WheatResiued_Use,"If not, had you used the wheat residue as mulch for the next crop? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Sowing_Week_2020,Week of sowing (of 2020),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Sowing_Month_2020,month of sowing (of 2020),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Sowing_Date_Covid,Did COVID-19 affect the sowing date/week? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Main_Seed_Src,Main seed source (Code 21),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Main_Seed_Src_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Harvest_Week,"Week of harvesting (of 2020 or 2021) [If not harvested, expected week",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Harvest_Month,"Month of harvesting (of 2020 or 2021) [If not harvested, expected week",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Harvest_Date_Covid,Did COVID-19 affect the harvesting date/week? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Plot_GrainYield_Qnt,"Grain yield from this plot Quantity in KG [If not harvested, expected yield]",Integer,Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Share_MrktdGrain,"Share of grain marketed (%) [If not harvested, expected share]",Integer,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Share_StoredGrain,"Share stored for household consumption (%) [If not harvested, expected",Integer,Percentage,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Avg_Selling_Price,Average selling price (ETB/kg),Integer,ETB/Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 8,English,Income_Resd_Selling,Income from selling the crop residue (ETB/plot),Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input1_Manure_PlantRes,Have you applied Manure: Plant residue (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input1_Name,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input1_Unit,Unit of measurement,Integer,Per Quintals,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input1_Qnt,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input1_Avg_Price,Average price of input as used during last season (Birr per measurement),Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input1_Covid_Aff,Did the COVID-19 situation affected your expected use of the specific input? (Code 1) input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input2_AnimalWaste,Have you applied Manure: Animal waste/manure (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input2_Name,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input2_Unit,Unit of measurement,Integer,Per Quintals,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input2_Qnt,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input2_Avg_Price,Average price of input as used during last season (Birr per measurement,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input2_Covid_Aff,Did the COVID-19 situation affected your expected use of the specific input? (Code 1) inuput?(Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_ChemFert_1,Have you applied Chemical fertilizers - Type 1 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Name_1,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Unit_1,Unit of measurement,Integer,Per Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Qnt_1,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Avg_Price_1,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Covid_Aff_1,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_ChemFert_2,Have you applied Chemical fertilizers - Type 2 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Name_2,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Unit_2,Unit of measurement,Integer,Per Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Qnt_2,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Avg_Price_2,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Covid_Aff_2,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_ChemFert_3,Have you applied Chemical fertilizers - Type 3 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Name_3,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Unit_3,Unit of measurement,Integer,Per Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Qnt_3,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Avg_Price_3,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input3_Covid_Aff_3,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Herbicide_1,Have you applied Herbicides - Type 1 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Name_1,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Unit_1,Unit of measurement,Integer,Per Lt or Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Qnt_1,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Avg_Price_1,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Covid_Aff_1,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Herbicide_2,Have you applied Herbicides - Type 2 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Name_2,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Unit_2,Unit of measurement,Integer,Per Lt or Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Qnt_2,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Avg_Price_2,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input4_Covid_Aff_2,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_OthrPesticide_1,Have you applied Other pesticides (fungicides and insecticides) - Type 1 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Name_1,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Unit_1,Unit of measurement,Integer,Per Lt or Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Qnt_1,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Avg_Price_1,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Covid_Aff_1,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_OthrPesticide_2,Have you applied Other pesticides (fungicides and insecticides) - Type 2 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Name_2,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Unit_2,Unit of measurement,Integer,Per Lt or Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Qnt_2,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Avg_Price_2,Average price of input as used during last season (Birr per measuremen,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input5_Covid_Aff_2,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input6_Lime,Have you applied Lime or soil conditioner (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input6_Name,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input6_Unit,Unit of measurement,Integer,Per Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input6_Qnt,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input6_Avg_Price,Average price of input as used during last season (Birr per measurement,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input6_Covid_Aff,Did the COVID-19 situation affected your expected use of the specific input? (Code 1) i,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input7_Irrgn_Fuel,Have you applied Irrigation fuel cost (excluding labor cost) (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input7_Name,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input7_Unit,Unit of measurement,Integer,Per Application,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input7_Qnt,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input7_Avg_Price,Average price of input as used during last season (Birr per measurement,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input7_Covid_Aff,Did the COVID-19 situation affected your expected use of the specific input? (Code 1) i,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input8_Electricity_Cost,Have you applied Electricity cost (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input8_Name,Name of input,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input8_Unit,Unit of measurement,Integer,Per Unit,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input8_Qnt,Total quantity used (QU/plot/season) (not per times),Integer,QU/plot/season,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input8_Avg_Price,Average price of input as used during last season (Birr per measurement,Integer,Birr,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 9,English,Input8_Covid_Aff,Did the COVID-19 situation affected your expected use of the specific input? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_LandLevelling_1,No. of Land levelling and cleaning operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op1,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op1,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op1,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op1,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op1,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op1,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op1,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op1,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op1,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op1,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op1,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op1,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op1,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op1,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op1,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_LandPreprn_2,No. of Land preparation (tillage) operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op2,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op2,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op2,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op2,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op2,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op2,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op2,per day) Male,Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op2,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op2,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op2,"If not contracted out all the time, the wage rate paid (ETB. per day) Mechine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op2,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op2,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op2,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op2,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op2,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Sowing_3,No. of Seeding/planting/sowing operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op3,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op3,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op3,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op3,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op3,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op3,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op3,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op3,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op3,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op3,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op3,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op3,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op3,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op3,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op3,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_MWeed_PreSowing_4,No. of Manual weeding (pre-sowing) operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op4,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op4,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op4,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op4,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op4,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op4,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op4,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op4,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op4,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op4,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op4,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op4,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op4,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op4,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op4,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_MWeed_PostSowing_5,No. of Manual weeding (post-sowing) operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op5,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op5,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op5,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op5,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op5,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op5,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op5,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op5,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op5,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op5,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op5,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op5,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op5,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op5,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op5,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_ChemWeed_PreSowng_6,No. of Chemical weeding (pre-sowing) operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op6,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op6,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op6,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op6,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op6,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op6,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op6,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op6,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op6,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op6,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op6,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op6,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op6,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op6,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op6,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_ChemWeed_PostSowng_7,No. of Chemical weeding (post- sowing) operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op7,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op7,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op7,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op7,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op7,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op7,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op7,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op7,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op7,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op7,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op7,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op7,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op7,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op7,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op7,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Irrgn_8,No. of Irrigation operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op8,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op8,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op8,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op8,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op8,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op8,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op8,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op8,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op8,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op8,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op8,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op8,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op8,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op8,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op8,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_FertAppcn_9,No. of Fertilizer application operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op9,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op9,Number of times the activity was contracted out (< or = total number of,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op9,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op9,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op9,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op9,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op9,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op9,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op9,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op9,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op9,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op9,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op9,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op9,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op9,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_ManureAppcn_10,No. of Manure application operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op10,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op10,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op10,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op10,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op10,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op10,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op10,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op10,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op10,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op10,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op10,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op10,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op10,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op10,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op10,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_HerbAppcn_11,No. of Herbicide application operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op11,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op11,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op11,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op11,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op11,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op11,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op11,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op11,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op11,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op11,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op11,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op11,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op11,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op11,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op11,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_PesticideAppcn_12,No. of Pesticide/Fungicide application operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op12,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op12,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op12,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op12,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op12,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op12,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op12,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op12,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op12,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op12,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op12,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op12,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op12,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op12,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op12,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_LimeAppcn_13,No. of Lime application operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op13,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op13,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op13,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op13,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op13,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op13,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op13,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op13,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op13,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op13,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op13,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op13,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op13,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op13,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op13,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Harv_Oprn_14,No. of Harvesting operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op14,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op14,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op14,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op14,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op14,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op14,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op14,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op14,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op14,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op14,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op14,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op14,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op14,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op14,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op14,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Transport_15,No. of Transporting operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op15,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op15,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op15,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op15,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op15,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op15,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op15,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op15,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op15,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op15,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op15,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op15,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op15,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op15,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op15,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Threshing_16,No. of Threshing operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op16,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op16,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op16,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op16,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op16,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op16,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op16,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op16,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op16,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op16,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op16,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op16,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op16,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op16,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op16,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_CleanDryOprn_17,No. of Cleaning and drying operations per season,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Days_Req_Op17,No. of days required to complete 1 operation,Integer,Days,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Contracted_Out_Op17,Number of times the activity was contracted out (< or = total number o,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MLab_Op17,Average no. of MALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_FLab_Op17,Average no. of FEMALE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_AnimLab_Op17,Average no. of ANIMAL hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Hired_MechLab_Op17,Average no. of MACHINE hired labor used per day of operation,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MLab_WageRate_Op17,"If not contracted out all the time, the wage rate paid (ETB. per day) Male",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,FLab_WageRate_Op17,"If not contracted out all the time, the wage rate paid (ETB. per day) Female",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,AnimLab_WageRate_Op17,"If not contracted out all the time, the wage rate paid (ETB. per day) Animal",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,MechLab_WageRate_Op17,"If not contracted out all the time, the wage rate paid (ETB. per day) Machine",Integer,ETB/Day,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,RentalFee_OutContract_Op17,"If contracted out at least once, rental fee (ETB. per operation)",Integer,ETB,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MLab_Op17,No. of own MALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_FLab_Op17,No. of own FEMALE labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_AnimLab_Op17,No. of own ANIMAL labor used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,2.2.a,Page number 10,English,Num_Own_MechLab_Op17,No. of own MACHINE used per day of work,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,SocioEconomic_Intro,Socioeconomic and biophysical constraints to wheat production,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Module_Resp,Respondent of this module,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Next_Season_Plan,Plan for the next Rainy/Meher/Kiremt season.,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Area_Change ,Would there be a change in the area under wheat in the coming wheat season? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WArea_Change_CovidEff,"If Code 1=1 or 2, is this change related to the effect of COVID-19? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Replace_Crop,"If Code 1 = 1, which crop would be replaced by wheat? (Code 14)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Replace_OthrCrop,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_ReplaceBy_Crop,"If Code 1 = 2, what would be the new crop replacing wheat? (Code 14)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_ReplaceBy_OthrCrop,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Cult_NextSeason_Yn,"If Code 1 = 2, would you be not cultivating wheat in the next season? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Area_Change_Rsn ,"If Code 1 = 1 or 2, the reason for change in area under wheat (Code 26)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Area_Change_OthrRsn ,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WheatSeed_Qnt_Change,Would there be a change in the quantity of [wheat] seed you expect to sow per LU? (Code 27),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Increse_Input_Yn,"If Q7 is answered with NO, do you have a plan to use more inputs for wheat per LU? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Increse_Input_Rsn,"If yes, why do you want to increase the intensity of wheat production? (Code 26)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Increse_Input_OthrRsn,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,Wheat_Constraints,Which one of the following major constraints in terms of wheat production,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_SeedAvlblty,Timely unavailability of improved seeds (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_SeedPrice,High price of improved seeds (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_SeedQlty,Poor quality of seeds (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_SeedCredit,Lack of access to credit to buy seeds (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_FertAvlblty,Timely unavailability of fertilizer (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_FertPrice,High price of fertilizer (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_FertCredit,Unavailability of credit to buy fertilizer (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_QltyChemFert,Poor quality of chemical fertilizers (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_HumanLabour,Timely unavailability of human labor (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_WageRate,High wage rate (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_SkilledLabour,Low skilled labor force (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_AvlbltyChemHerb,Timely unavailability of chemical herbicides (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_HerbicidePrice,High price of herbicides (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_HerbicideCredit,Unavailability of credit to buy herbicides (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_QltyHerbicide,Poor quality of herbicides (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 11,English,WConstraints_OutputMrkt,Lack of access to output markets (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,SocioEconomic_Intro_M,Socioeconomic and biophysical constraints to wheat production [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Module_Resp_M,Respondent of this module [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Next_Season_Plan_M,Plan for the next Rainy/Meher/Kiremt season. [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Area_Change _M,Would there be a change in the area under wheat in the coming wheat season? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WArea_Change_CovidEff_M,"If Code 1=1 or 2, is this change related to the effect of COVID-19? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Replace_Crop_M,"If Code 1 = 1, which crop would be replaced by wheat? (Code 14) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Replace_OthrCrop_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_ReplaceBy_Crop_M,"If Code 1 = 2, what would be the new crop replacing wheat? (Code 14) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_ReplaceBy_OthrCrop_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Cult_NextSeason_Yn_M,"If Code 1 = 2, would you be not cultivating wheat in the next season? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Area_Change_Rsn _M,"If Code 1 = 1 or 2, the reason for change in area under wheat (Code 26) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Area_Change_OthrRsn _M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WheatSeed_Qnt_Change_M,Would there be a change in the quantity of [wheat] seed you expect to sow per LU? (Code 27) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Increse_Input_Yn_M,"If Q7 is answered with NO, do you have a plan to use more inputs for wheat per LU? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Increse_Input_Rsn_M,"If yes, why do you want to increase the intensity of wheat production? (Code 26) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Increse_Input_OthrRsn_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,Wheat_Constraints_M,Which one of the following major constraints in terms of wheat production [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_SeedAvlblty_M,Timely unavailability of improved seeds (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_SeedPrice_M,High price of improved seeds (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_SeedQlty_M,Poor quality of seeds (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_SeedCredit_M,Lack of access to credit to buy seeds (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_FertAvlblty_M,Timely unavailability of fertilizer (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_FertPrice_M,High price of fertilizer (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_FertCredit_M,Unavailability of credit to buy fertilizer (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_QltyChemFert_M,Poor quality of chemical fertilizers (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_HumanLabour_M,Timely unavailability of human labor (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_WageRate_M,High wage rate (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_SkilledLabour_M,Low skilled labor force (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_AvlbltyChemHerb_M,Timely unavailability of chemical herbicides (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_HerbicidePrice_M,High price of herbicides (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_HerbicideCredit_M,Unavailability of credit to buy herbicides (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_QltyHerbicide_M,Poor quality of herbicides (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 11,English,WConstraints_OutputMrkt_M,Lack of access to output markets (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_AccessInfo,Lack of access to information (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_GrainPrice,Low grain prices (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_AvlbltyFamLab,Reduction in family labor availability (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_Drought,Prolonged draught (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_Flood,Frequent/irregular floods (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_Heat,High heat during the milking stage (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_Pest,Increased pest infestation (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_Disease,Increased disease infestation (including rust) (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraints_SoilFert,Soil fertility decline (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraint_Rank,Rank the three most important constraints in terms of wheat production?,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraint_Rank1,Rank the three most important constraints in terms of wheat production,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraint_Rank2,Rank the three most important constraints in terms of wheat production,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F3.1_F3.2,Page number 12,English,WConstraint_Rank3,Rank the three most important constraints in terms of wheat production,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_AccessInfo_M,Lack of access to information (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_GrainPrice_M,Low grain prices (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_AvlbltyFamLab_M,Reduction in family labor availability (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_Drought_M,Prolonged draught (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_Flood_M,Frequent/irregular floods (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_Heat_M,High heat during the milking stage (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_Pest_M,Increased pest infestation (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_Disease_M,Increased disease infestation (including rust) (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraints_SoilFert_M,Soil fertility decline (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraint_Rank_M,Rank the three most important constraints in terms of wheat production? [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraint_Rank1_M,Rank the three most important constraints in terms of wheat production [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraint_Rank2_M,Rank the three most important constraints in terms of wheat production [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M3.1_M3.2.,Page number 12,English,WConstraint_Rank3_M,Rank the three most important constraints in terms of wheat production [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Src,Seed source (Code 27),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Src_LastSeason,Was [seed source] a source of seed you cultivated during the last wheat season (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Src_Select_Exp,Did you select the source based on your past experience with the source? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Num_WheatVar_FromSrc,Number of wheat varieties procured from this source in the last 12 months.,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Qnt_Seed_FromSrc,Quantity of seed that you obtained from this source during the wheat season,Integer,Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,WheatVar_Name,Name of the main varieties obtained from this source (more than one name possible),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,WheatVar_Type,What type of variety was that? (Code 28),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,SeedSrc_Aquired,How was the seed acquired from this source? (Code 29),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,SeedSrc_Aquired_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Involve_Seed_Arrange,Who was involved in arranging seeds from this source? (Code 30),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Involve_Seed_Arrange_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Var_Bfr_Src_Yn,Did you select the variety to be cultivated before selecting this seed source? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Avlbl_Time,At what time was the seed available? (Code 31),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Acquire_Where,Where did you obtain the seeds from? (Code 32),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Acquire_How,How did you acquire the seed? (Code 33),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Price_Seed,"If acquired cash, credit or bartered, how was the price or the term of tradde? (Code 34)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Clean_Yn,Was the seed clean? (Code 35),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Seed_Germintn,How was the germination of the seed? (Code 36),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,SeedVar_Yld_Rate,How do you rate the yield performance of the variety? (Code 37),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,ByPdct_Perfm_Rate,"How do you rate the performance of byproducts (straw, biomass, etc.) of the variety? (Code 37)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Var_Choose_Rsn,Why did you choose to use this variety? (Code 38),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.1,Page number 13,English,Var_Choose_Rsn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Src_M,Seed source (Code 27) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Src_LastSeason_M,Was [seed source] a source of seed you cultivated during the last wheat season (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Src_Select_Exp_M,Did you select the source based on your past experience with the source? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Num_WheatVar_FromSrc_M,Number of wheat varieties procured from this source in the last 12 months. [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Qnt_Seed_FromSrc_M,Quantity of seed that you obtained from this source during the wheat season [MHH],Integer,Kg,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,WheatVar_Name_M,Name of the main varieties obtained from this source (more than one name possible) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,WheatVar_Type_M,What type of variety was that? (Code 28) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,SeedSrc_Aquired_M,How was the seed acquired from this source? (Code 29) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,SeedSrc_Aquired_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Involve_Seed_Arrange_M,Who was involved in arranging seeds from this source? (Code 30) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Involve_Seed_Arrange_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Var_Bfr_Src_Yn_M,Did you select the variety to be cultivated before selecting this seed source? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Avlbl_Time_M,At what time was the seed available? (Code 31) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Acquire_Where_M,Where did you obtain the seeds from? (Code 32) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Acquire_How_M,How did you acquire the seed? (Code 33) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Price_Seed_M,"If acquired cash, credit or bartered, how was the price or the term of tradde? (Code 34) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Clean_Yn_M,Was the seed clean? (Code 35) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Seed_Germintn_M,How was the germination of the seed? (Code 36) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,SeedVar_Yld_Rate_M,How do you rate the yield performance of the variety? (Code 37) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,ByPdct_Perfm_Rate_M,"How do you rate the performance of byproducts (straw, biomass, etc.) of the variety? (Code 37) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Var_Choose_Rsn_M,Why did you choose to use this variety? (Code 38) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.1,Page number 13,English,Var_Choose_Rsn_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.2,Page number 14,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F4.2,Page number 14,English,New_Var_Last5Yrs_Yn,"In the last 5 years, have you ever cultivated a new wheat variety? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.2,Page number 14,English,Num_Cult_Variety,"If yes, how many of the wheat varieties cultivated by you in the last 5 years",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.2,Page number 14,English,Info_Var,Please provide the following information to each of the new variety that you cultivated in the past 5 years,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,New_Var_Last5Yrs_Yn,"In the last 5 years, have you ever cultivated a new wheat variety? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,Num_Cult_Variety,"If yes, how many of the wheat varieties cultivated by you in the last 5 years",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,SL_No,Serial Number,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,Variety_Name,Variety name,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,VarSeed_Src,Source of initial seed (Code 39),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,VarSeed_Src_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,HowVar_Acquire,How did you acquire the seeds? (Code 40),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,HowVar_Acquire_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,When_First_Grwn,"When did you get for the first time? (Ethiopian Calendar, year)",Integer,YYYY,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,Still_Grwng_Yn,Are you still growing it? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,Still_Grwng_Why,"If still growing, why? (Code 41)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,Still_Grwng_Why_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,NotStill_Grwng_Why,"If discontinued, why? (Code 42)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.5,Page number 14,English,NotStill_Grwng_WhyOthr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.2,Page number 14,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M4.2,Page number 14,English,New_Var_Last5Yrs_Yn_M,"In the last 5 years, have you ever cultivated a new wheat variety? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.2,Page number 14,English,Num_Cult_Variety_M,"If yes, how many of the wheat varieties cultivated by you in the last 5 years [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.2,Page number 14,English,Info_Var_M,Please provide the following information to each of the new variety that you cultivated in the past 5 years [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,New_Var_Last5Yrs_Yn_M,"In the last 5 years, have you ever cultivated a new wheat variety? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,Num_Cult_Variety_M,"If yes, how many of the wheat varieties cultivated by you in the last 5 years [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,SL_No_M,Serial Number [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,Variety_Name_M,Variety name [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,VarSeed_Src_M,Source of initial seed (Code 39) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,VarSeed_Src_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,HowVar_Acquire_M,How did you acquire the seeds? (Code 40) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,HowVar_Acquire_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,When_First_Grwn_M,"When did you get for the first time? (Ethiopian Calendar, year) [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,Still_Grwng_Yn_M,Are you still growing it? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,Still_Grwng_Why_M,"If still growing, why? (Code 41) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,Still_Grwng_Why_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,NotStill_Grwng_Why_M,"If discontinued, why? (Code 42) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.5,Page number 14,English,NotStill_Grwng_WhyOthr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Impr_WheatVar_Trait,"If you were to choose improved wheat varieties, which of these traits are you prefering",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_HighYld,Have high yielding potential (yield) under ideal conditions (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Adaption,Can yield in good weather years or bad weather years (adaptation) (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_High_StawYld,Have high straw yield (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Taller,Are taller in height (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Shorter,Are shorter in height (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Lodging_Tol,Lodging tolerance (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Disese_Res,Are disease resistant (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_BoldGrain,Have bold grain (grain size) (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Duration,Have shorter or longer duration (maturity or crop cycle time difference (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_GoodTillering,Have good tillering capacity (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_SeedRate,Require less seed (seed rate) per LU (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_EasyThreshing,Can be threshed easily (grains can be separated easily) (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Storability,Can be stored longer (storability) without damage (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_FlourColour,Have appealing flour color (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_MineralRich,"Are fortified with minerals (e.g., zinc) for better nutrition (Code1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_BreadMaking,Are good for injera/bread making (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_HighProtein,Have better protein content (how elastic the dough is?) (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_HighFibre,Have better Fiber content (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Taste,Taste of the cooked product (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Milling_Qlty,Milling quality/de-husking (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Grain_Price,Price of grain (Code1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Rank,"If important, rank the three main attribute",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Rank_1,"If important, rank the three main attributes",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Rank_2,"If important, rank the three main attributes",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 15,English,Trait_Rank_3,"If important, rank the three main attributes",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Impr_WheatVar_Trait_M,"If you were to choose improved wheat varieties, which of these traits are you prefering [MHH]",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_HighYld_M,Have high yielding potential (yield) under ideal conditions (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Adaption_M,Can yield in good weather years or bad weather years (adaptation) (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_High_StawYld_M,Have high straw yield (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Taller_M,Are taller in height (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Shorter_M,Are shorter in height (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Lodging_Tol_M,Lodging tolerance (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Disese_Res_M,Are disease resistant (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_BoldGrain_M,Have bold grain (grain size) (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Duration_M,Have shorter or longer duration (maturity or crop cycle time difference (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_GoodTillering_M,Have good tillering capacity (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_SeedRate_M,Require less seed (seed rate) per LU (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_EasyThreshing_M,Can be threshed easily (grains can be separated easily) (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Storability_M,Can be stored longer (storability) without damage (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_FlourColour_M,Have appealing flour color (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_MineralRich_M,"Are fortified with minerals (e.g., zinc) for better nutrition (Code1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_BreadMaking_M,Are good for injera/bread making (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_HighProtein_M,Have better protein content (how elastic the dough is?) (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_HighFibre_M,Have better Fiber content (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Taste_M,Taste of the cooked product (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Milling_Qlty_M,Milling quality/de-husking (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Grain_Price_M,Price of grain (Code1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Rank_M,"If important, rank the three main attribute [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Rank_1_M,"If important, rank the three main attributes [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Rank_2_M,"If important, rank the three main attributes [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 15,English,Trait_Rank_3_M,"If important, rank the three main attributes [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_Saving,"Do you think there will be enough wheat seeds available for the farmers, Own production/Savings (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_SocialNetwork,"Do you think there will be enough wheat seeds available for the farmers, Social network (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_Markets,"Do you think there will be enough wheat seeds available for the farmers, Markets (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_ComntySeedGrp,"Do you think there will be enough wheat seeds available for the farmers, Community based seed groups (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_GovAgency,"Do you think there will be enough wheat seeds available for the farmers, Governmaent agency (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_GovAgency1,"Overall, do you think there will be enough wheat seeds available for farmers, Other Government agency (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_NonGov,"Do you think there will be enough wheat seeds available for the farmers, Non Government agency (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_Other,"Do you think there will be enough wheat seeds available for the farmers, Other (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Src_Specify,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Market_1,"If you buy seed from market, from which market would you buy your wheat",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Seed_Market_2,"If you buy seed from market, from which market would you buy your wheat",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.6_F4.8,Page number 16,English,Last_Seasn_OwnWSeed,"Please answer the following questions, if you have used own saved wheat seed In the last Meher/rainy/Kiremt season",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Last_Seasn_OwnWSeed,"Please answer the following questions, if you have used own saved wheat seed In the last Meher/rainy/Kiremt season",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,SL_No,Serial Number,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Variety_Name,Variety name,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Store_Seperate,Did you store wheat selected for seed separate from other wheat? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Storage_Place,Where do you store the seed? (Code 43),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Storage_Place_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Storage_Prob,What major storage problem do you have? (Code 44),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Storage_Prob_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Disease_Prob,Did you experience any disease problems with the variety? (Code 45),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Disease_Prob,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Seed_Replace_freq,"On average, how often do you replace your wheat seed? [Once in____ years]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,SeedVar_Unique_Chara,What is the unique character that you find useful in this variety? (Code 46),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,SeedVar_Unique_Chara_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F4.9,Page number 16,English,Additional_Variety,Is there an additional wheat variety used from own saved seed during the last season Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_Saving_M,"Do you think there will be enough wheat seeds available for the farmers, Own production/Savings (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_SocialNetwork_M,"Do you think there will be enough wheat seeds available for the farmers, Social network (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_Markets_M,"Do you think there will be enough wheat seeds available for the farmers, Markets (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_ComntySeedGrp_M,"Do you think there will be enough wheat seeds available for the farmers, Community based seed groups (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_GovAgency_M,"Do you think there will be enough wheat seeds available for the farmers, Governmaent agency (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_GovAgency1_M,"Overall, do you think there will be enough wheat seeds available for farmers, Other Government agency (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_NonGov_M,"Do you think there will be enough wheat seeds available for the farmers, Non Government agency (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_Other_M,"Do you think there will be enough wheat seeds available for the farmers, Other (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Src_Specify_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Market_1_M,"If you buy seed from market, from which market would you buy your wheat [MHH]",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Seed_Market_2_M,"If you buy seed from market, from which market would you buy your wheat [MHH]",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.6_M4.8,Page number 16,English,Last_Seasn_OwnWSeed_M,"Please answer the following questions, if you have used own saved wheat seed In the last Meher/rainy/Kiremt season [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Last_Seasn_OwnWSeed_M,"Please answer the following questions, if you have used own saved wheat seed In the last Meher/rainy/Kiremt season [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,SL_No_M,Serial Number [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Variety_Name_M,Variety name [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Store_Seperate_M,Did you store wheat selected for seed separate from other wheat? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Storage_Place_M,Where do you store the seed? (Code 43) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Storage_Place_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Storage_Prob_M,What major storage problem do you have? (Code 44) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Storage_Prob_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Disease_Prob_M,Did you experience any disease problems with the variety? (Code 45) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Disease_Prob_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Seed_Replace_freq_M,"On average, how often do you replace your wheat seed? [Once in____ years] [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,SeedVar_Unique_Chara_M,What is the unique character that you find useful in this variety? (Code 46) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,SeedVar_Unique_Chara_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M4.9,Page number 16,English,Additional_Variety_M,Is there an additional wheat variety used from own saved seed during the last season Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5,Page number 17,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F5,Page number 17,English,Decision_Intro,Role in household decision-making around production and income generated,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5,Page number 17,English,Influence_Decision_Income,How much influence did you have in decisions on the use of income generate(Code 48),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5.1,Page number 17,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F5.1,Page number 17,English,HH_Activity,Activity (Code 51),Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5.1,Page number 17,English,Activity_Part,"Did you yourself participate in [ACTIVITY] in the past 12 months, from [PRESENT MONTH] last year to [PRESENT MONTH] this year (Code 47)",Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5.1,Page number 17,English,Decision_maker_Actvty,"When decisions are made regarding [ACTIVITY], who is it that normally takes the decision? (Code 48)",Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5.1,Page number 17,English,Influence_Decision_Actvty,How much influence did you have in making decisions about [ACTIVITY]? (Code 49),Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,F5.1,Page number 17,English,Own_Decision_Actvty,To what extent do you feel you can make your own personal decisions regarding activity if you wanted to? (Code 50),Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5,Page number 17,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M5,Page number 17,English,Decision_Intro_M,Role in household decision-making around production and income generated [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5,Page number 17,English,Influence_Decision_Income_M,How much influence did you have in decisions on the use of income generate(Code 48) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5.1,Page number 17,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M5.1,Page number 17,English,HH_Activity_M,Activity (Code 51) [MHH],Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5.1,Page number 17,English,Activity_Part_M,"Did you yourself participate in [ACTIVITY] in the past 12 months, from [PRESENT MONTH] last year to [PRESENT MONTH] this year (Code 47) [MHH]",Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5.1,Page number 17,English,Decision_maker_Actvty_M,"When decisions are made regarding [ACTIVITY], who is it that normally takes the decision? (Code 48) [MHH]",Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5.1,Page number 17,English,Influence_Decision_Actvty_M,How much influence did you have in making decisions about [ACTIVITY]? (Code 49) [MHH],Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,M5.1,Page number 17,English,Own_Decision_Actvty_M,To what extent do you feel you can make your own personal decisions regarding activity if you wanted to? (Code 50) [MHH],Code ,,0
+AGG_HH_Survey_Ethiopia.xlsx,F7,Page number 18,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F7,Page number 18,English,Info_Src_Name,Source name (Code 52),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F7,Page number 18,English,Info_Access_Yn,Has anyone in your household got access to information from [SOURCE] in the past 12 months (Code 53),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F7,Page number 18,English,NoInfo_Access_Rsn,"If not accessed, the reason.(Code 54)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F7,Page number 18,English,NoInfo_Access_Rsn_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F7,Page number 18,English,Info_Access_Decision,"If accessed, Who made the decision to access [SOURCE] most of the time?(Code 55)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M7,Page number 18,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M7,Page number 18,English,Info_Src_Name_M,Source name (Code 52) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M7,Page number 18,English,Info_Access_Yn_M,Has anyone in your household got access to information from [SOURCE] in the past 12 months (Code 53) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M7,Page number 18,English,NoInfo_Access_Rsn_M,"If not accessed, the reason.(Code 54) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M7,Page number 18,English,NoInfo_Access_Rsn_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M7,Page number 18,English,Info_Access_Decision_M,"If accessed, Who made the decision to access [SOURCE] most of the time?(Code 55) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Memb_Yn,Have you been a member of formal and informal institutions associated with farming in the last 3 years? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Type,Type of group you are/were a member of (Code 57),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Memb_Self,Are you a member of this group? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Funcn_1,FIRST most important group function (Code 58),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Funcn_2_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Funcn_2,SECOND most important group function (Code 58),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Funcn_1_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Funcn_3,THIRD most important group function (Code 58),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Funcn_3_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Join_Yr,Year joined (ETH Calendar) (YYYY),Integer,YYYY,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Role,Role in the group (Code 59),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Memb_Still,Still a member now? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Left_Rsn_1,"If no, FIRST reason for leaving the group (Code 60)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Left_OthrRsn_1,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Left_Rsn_2,"If no, SECOND reason for leaving the group (Code 60)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Left_OthrRsn_2,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Left_Rsn_3,"If no, THIRD reason for leaving the group (Code 60)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8,Page number 19,English,Group_Left_OthrRsn_3,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Memb_Yn_M,Have you been a member of formal and informal institutions associated with farming in the last 3 years? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Type_M,Type of group you are/were a member of (Code 57) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Memb_Self_M,Are you a member of this group? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Funcn_1_M,FIRST most important group function (Code 58) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Funcn_2_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Funcn_2_M,SECOND most important group function (Code 58) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Funcn_1_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Funcn_3_M,THIRD most important group function (Code 58) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Funcn_3_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Join_Yr_M,Year joined (ETH Calendar) (YYYY) [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Role_M,Role in the group (Code 59) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Memb_Still_M,Still a member now? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Left_Rsn_1_M,"If no, FIRST reason for leaving the group (Code 60) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Left_OthrRsn_1_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Left_Rsn_2_M,"If no, SECOND reason for leaving the group (Code 60) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Left_OthrRsn_2_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Left_Rsn_3_M,"If no, THIRD reason for leaving the group (Code 60) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8,Page number 19,English,Group_Left_OthrRsn_3_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,SocialNetwork_Intro,Social networks,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Num_YrsIn_Kebele,How many years have you been living in this Kebele?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_InKebele_FinanceNeed,Number of relatives People whom you can rely on for critical support in times of financial need within this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_InKebele_FinanceNeed,Number of friends People whom you can rely on for critical support in times of financial need within this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_InKebele_FinanceNeed,Number of acquaintances People whom you can rely on for critical support in times of financial need within this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_OutKebele_FinanceNeed,Number of relatives People you can rely on for support in times of financial need outside this kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_OutKebele_FinanceNeed,Number of friends People you can rely on for support in times of financial need outside this kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_OutKebele_FinanceNeed,Number of acquaintances People you can rely on for support in times of financial need outside this kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_Kebele_LeaderPositn,Number of relatives People in leadership positions in formal or informal institutions within and outside this kebele?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_Kebele_LeaderPositn,Number of friends People in leadership positions in formal or informal institutions within and outside this kebele?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_Kebele_LeaderPositn,Number of acquaintances People in leadership positions in formal or informal institutions within and outside this kebele?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_InKebele_QltySeed,Number of relatives People that you can rely on for quality wheat seeds within this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_InKebele_QltySeed,Number of friends People that you can rely on for quality wheat seeds within this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_InKebele_QltySeed,Number of acquaintances People that you can rely on for quality wheat seeds within this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_OutKebele_QltySeed,Number of relatives People you can rely on for quality wheat seeds outside this kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_OutKebele_QltySeed,Number of friends People you can rely on for quality wheat seeds outside this kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_OutKebele_QltySeed,Number of acquaintances People you can rely on for quality wheat seeds outside this kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_InKebele_GrainTrader,Number of relatives Grain traders that you know as friends or relatives within this Kebele who could buy wheat grain from you,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_InKebele_GrainTrader,Number of friends Grain traders that you know as friends or relatives within this Kebele who could buy wheat grain from you,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_InKebele_GrainTrader,Number of acquaintances Grain traders that you know as friends or relatives within this Kebele who could buy wheat grain from you,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_OutKebele_GrainTrader,Number of relatives Grain traders that you know as friends or relatives outside this Kebele who could buy your grain,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_OutKebele_GrainTrader,Number of friends Grain traders that you know as friends or relatives outside this Kebele who could buy your grain,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_OutKebele_GrainTrader,Number of acquaintances Grain traders that you know as friends or relatives outside this Kebele who could buy your grain,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_InKebele_InfoAccess,"Number of relatives People that you can rely on for information access on farming activities (e.g., opinion on new wheat varieties) within this Kebele",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_InKebele_InfoAccess,"Number of friends People that you can rely on for information access on farming activities (e.g., opinion on new wheat varieties) within this Kebele",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_InKebele_InfoAccess,"Number of acquaintances People that you can rely on for information access on farming activities (e.g., opinion on new wheat varieties) within this Kebele",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Reltv_OutKebele_InfoAccess,Number of relatives People that you can rely on for information access on farming activities outside this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Frnds_OutKebele_InfoAccess,Number of friends People that you can rely on for information access on farming activities outside this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Acquint_OutKebele_InfoAccess,Number of acquaintances People that you can rely on for information access on farming activities outside this Kebele,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Traders_Trust_Yn,"Generally speaking, do you say that most traders can be trusted. (Code 56)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Trader_Trust_Type,"If answer in Q11 above is 1, 2, or 3, then which types of traders do you trust more (Code 57)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Trader_Trust_Type_Othr,Other (specify),Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Trader_Trust_Why,"And why do you thrust these types of traders more? (Open ended, few keywords)",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Rely_GovSupp_Yn,"Do you think you can rely on government support (subsidies, food aid, etc.) if your crop fails? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,Rely_GovSupp_Covid,Did you rely on government support during the last 1 year (due to COVID lockdown) (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F8.3,Page number 20,English,GovOfficial_Skill_Conf,Are you confident enough on the skills of government officials including extension workers to do their job? (Code 56),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,SocialNetwork_Intro_M,Social networks [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Num_YrsIn_Kebele_M,How many years have you been living in this Kebele? [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_InKebele_FinanceNeed_M,Number of relatives People whom you can rely on for critical support in times of financial need within this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_InKebele_FinanceNeed_M,Number of friends People whom you can rely on for critical support in times of financial need within this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_InKebele_FinanceNeed_M,Number of acquaintances People whom you can rely on for critical support in times of financial need within this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_OutKebele_FinanceNeed_M,Number of relatives People you can rely on for support in times of financial need outside this kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_OutKebele_FinanceNeed_M,Number of friends People you can rely on for support in times of financial need outside this kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_OutKebele_FinanceNeed_M,Number of acquaintances People you can rely on for support in times of financial need outside this kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_Kebele_LeaderPositn_M,Number of relatives People in leadership positions in formal or informal institutions within and outside this kebele? [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_Kebele_LeaderPositn_M,Number of friends People in leadership positions in formal or informal institutions within and outside this kebele? [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_Kebele_LeaderPositn_M,Number of acquaintances People in leadership positions in formal or informal institutions within and outside this kebele? [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_InKebele_QltySeed_M,Number of relatives People that you can rely on for quality wheat seeds within this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_InKebele_QltySeed_M,Number of friends People that you can rely on for quality wheat seeds within this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_InKebele_QltySeed_M,Number of acquaintances People that you can rely on for quality wheat seeds within this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_OutKebele_QltySeed_M,Number of relatives People you can rely on for quality wheat seeds outside this kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_OutKebele_QltySeed_M,Number of friends People you can rely on for quality wheat seeds outside this kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_OutKebele_QltySeed_M,Number of acquaintances People you can rely on for quality wheat seeds outside this kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_InKebele_GrainTrader_M,Number of relatives Grain traders that you know as friends or relatives within this Kebele who could buy wheat grain from you [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_InKebele_GrainTrader_M,Number of friends Grain traders that you know as friends or relatives within this Kebele who could buy wheat grain from you [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_InKebele_GrainTrader_M,Number of acquaintances Grain traders that you know as friends or relatives within this Kebele who could buy wheat grain from you [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_OutKebele_GrainTrader_M,Number of relatives Grain traders that you know as friends or relatives outside this Kebele who could buy your grain [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_OutKebele_GrainTrader_M,Number of friends Grain traders that you know as friends or relatives outside this Kebele who could buy your grain [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_OutKebele_GrainTrader_M,Number of acquaintances Grain traders that you know as friends or relatives outside this Kebele who could buy your grain [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_InKebele_InfoAccess_M,"Number of relatives People that you can rely on for information access on farming activities (e.g., opinion on new wheat varieties) within this Kebele [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_InKebele_InfoAccess_M,"Number of friends People that you can rely on for information access on farming activities (e.g., opinion on new wheat varieties) within this Kebele [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_InKebele_InfoAccess_M,"Number of acquaintances People that you can rely on for information access on farming activities (e.g., opinion on new wheat varieties) within this Kebele [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Reltv_OutKebele_InfoAccess_M,Number of relatives People that you can rely on for information access on farming activities outside this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Frnds_OutKebele_InfoAccess_M,Number of friends People that you can rely on for information access on farming activities outside this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Acquint_OutKebele_InfoAccess_M,Number of acquaintances People that you can rely on for information access on farming activities outside this Kebele [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Traders_Trust_Yn_M,"Generally speaking, do you say that most traders can be trusted. (Code 56) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Trader_Trust_Type_M,"If answer in Q11 above is 1, 2, or 3, then which types of traders do you trust more (Code 57) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Trader_Trust_Type_Othr_M,Other (specify) [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Trader_Trust_Why_M,"And why do you thrust these types of traders more? (Open ended, few keywords) [MHH]",Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Rely_GovSupp_Yn_M,"Do you think you can rely on government support (subsidies, food aid, etc.) if your crop fails? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,Rely_GovSupp_Covid_M,Did you rely on government support during the last 1 year (due to COVID lockdown) (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M8.3,Page number 20,English,GovOfficial_Skill_Conf_M,Are you confident enough on the skills of government officials including extension workers to do their job? (Code 56) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Assets_Info,Assets and amenities,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_Elec,Does the household have Electricity over the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_PipeWater,Does the household have Piped water over the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_CookGas,Does the household have Cooking gas over the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_Internet,Does the household have Internet (broadband) over the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_Landline,Does the household have Landline phone connection over the last 12 month (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_Mobile,Does the household have Mobile phone connection over the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_PrivToilet,Does the household have Private toilet (for the family) over the last 12 (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_RoadAcc,Does the household have Road access for 4wheelers to the house over the (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_StrongWalls,Does the household have Stone / brick / concrete / cement walls (strong (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_ConcRoof,Does the household have Concrete roofing over the last 12 months? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_ConcFloor,Does the household have Concrete or tiled floor over the last 12 months (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_Fenced,Does the household have Protected (fenced or walled) compound over the (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.1,Page number 21,English,Aminity_Ownership,Now I want to ask you about your household?s ownership of a number of item (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.2,Page number 21,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F9.2,Page number 21,English,Asset_Name,Asset name (Code 63),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.2,Page number 21,English,Num_Items_Owned,Number of items owned by the household,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.2,Page number 21,English,Purch_Decision_Self,Was the decision to purchase it (most recently) yours? (Code 61),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F9.2,Page number 21,English,Asset_Owner_Name,In whose name is the recently bought item? (Code 62),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Assets_Info_M,Assets and amenities [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_Elec_M,Does the household have Electricity over the last 12 months? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_PipeWater_M,Does the household have Piped water over the last 12 months? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_CookGas_M,Does the household have Cooking gas over the last 12 months? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_Internet_M,Does the household have Internet (broadband) over the last 12 months? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_Landline_M,Does the household have Landline phone connection over the last 12 month (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_Mobile_M,Does the household have Mobile phone connection over the last 12 months? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_PrivToilet_M,Does the household have Private toilet (for the family) over the last 12 (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_RoadAcc_M,Does the household have Road access for 4wheelers to the house over the (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_StrongWalls_M,Does the household have Stone / brick / concrete / cement walls (strong (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_ConcRoof_M,Does the household have Concrete roofing over the last 12 months? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_ConcFloor_M,Does the household have Concrete or tiled floor over the last 12 months (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_Fenced_M,Does the household have Protected (fenced or walled) compound over the (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.1,Page number 21,English,Aminity_Ownership_M,Now I want to ask you about your household?s ownership of a number of item (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.2,Page number 21,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M9.2,Page number 21,English,Asset_Name_M,Asset name (Code 63) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.2,Page number 21,English,Num_Items_Owned_M,Number of items owned by the household [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.2,Page number 21,English,Purch_Decision_Self_M,Was the decision to purchase it (most recently) yours? (Code 61) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M9.2,Page number 21,English,Asset_Owner_Name_M,In whose name is the recently bought item? (Code 62) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,Food_Security_Intro,Food Insecurity,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,HH_Own_Wheat_Supp,How many months in a year can your own wheat grain production support the the consumption of your household? (Code 23),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoFood_Yn,"During the LAST 12 MONTHS, was there a time when You were worried you would runout of food bacause of the lack of money (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoFood_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoFood_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoHealthy_Food_Yn,"During the LAST 12 MONTHS, was there a time when You were unable to eat healthy and nutritious food because of the lack of money and resources? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoHealthy_Food_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoHealthy_Food_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,FewFood_Yn,"During the LAST 12 MONTHS, was there a time when You ate only a few kind of foods because of a lack of money or other resources? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,FewFood_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,FewFood_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,SkipMeal_Yn,"During the LAST 12 MONTHS, was there a time when You had to skip a meal because there was not enough money or other resources to get food? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,SkipMeal_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,SkipMeal_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,AteLess_Yn,"During the LAST 12 MONTHS, was there a time when You ate less than you than you thought because of the lack of money or other resources? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,AteLess_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,AteLess_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,RanOutFood_Yn,"During the LAST 12 MONTHS, was there a time when Your household ran out of food because of a lack of money or other resources? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,RanOutFood_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,RanOutFood_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,HungryNoEat_Yn,"During the LAST 12 MONTHS, was there a time when You were hungry but did not eat because there was not enough money or other resources for food? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,HungryNoEat_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,HungryNoEat_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoEat_WholeDay_Yn,"During the LAST 12 MONTHS, was there a time when You went without eating for a whole day because of a lack of money or other resources? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoEat_WholeDay_Period,"If the answer is yes, For how long? (Code 23)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F10,Page number 22,English,NoEat_WholeDay_CovidEff,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,Food_Insec_Intro_M,Food Insecurity MHH [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,HH_Own_Wheat_Supp_M,How many months in a year can your own wheat grain production support the consumption of your household? (Code 23) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,HH_Own_Wheat_Supp_M,How many months in a year can your own wheat grain production support the the consumption of your household? (Code 23) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoFood_Yn_M,"During the LAST 12 MONTHS, was there a time when You were worried you would runout of food bacause of the lack of money (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoFood_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoFood_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoHealthy_Food_Yn_M,"During the LAST 12 MONTHS, was there a time when You were unable to eat healthy and nutritious food because of the lack of money and resources? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoHealthy_Food_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoHealthy_Food_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,FewFood_Yn_M,"During the LAST 12 MONTHS, was there a time when You ate only a few kind of foods because of a lack of money or other resources? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,FewFood_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,FewFood_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,SkipMeal_Yn_M,"During the LAST 12 MONTHS, was there a time when You had to skip a meal because there was not enough money or other resources to get food? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,SkipMeal_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,SkipMeal_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,AteLess_Yn_M,"During the LAST 12 MONTHS, was there a time when You ate less than you than you thought because of the lack of money or other resources? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,AteLess_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,AteLess_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,RanOutFood_Yn_M,"During the LAST 12 MONTHS, was there a time when Your household ran out of food because of a lack of money or other resources? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,RanOutFood_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,RanOutFood_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,HungryNoEat_Yn_M,"During the LAST 12 MONTHS, was there a time when You were hungry but did not eat because there was not enough money or other resources for food? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,HungryNoEat_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,HungryNoEat_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoEat_WholeDay_Yn_M,"During the LAST 12 MONTHS, was there a time when You went without eating for a whole day because of a lack of money or other resources? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M10,Page number 22,English,NoEat_WholeDay_Period_M,"If the answer is yes, For how long? (Code 23) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Dietery_Intro,Dietary diversity,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Rate_Health,How would you rate your personal health currently? (Code 24),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Dignosed_Covid_Yn,Were you diagnosed as COVID positive in last 2 years? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Covid_Infecn_Date,"If yes, the month and year of COVID infection:",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Vegetarian_Yn,Are you a vegetarian? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Egg_Consumpn_Yn,"If available, do you consume eggs? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Milk_Consumpn_Yn,"If available, do you consume milk and milk products? (Code 1)",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Fasting_Day_Yn,F - Is this day a fasting day? (Code 1),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Cereals_Yn,"Did you eat CEREALS (Rice, wheat, millet, maize, ragi, other millets) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Tubers_Yn,"Did you eat WHITE ROOTS, TUBERS AND OTHER STARCHES (White potatoes, yam,sweet potato, cassava, arrow root, elephant foot yam) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Pulses_Yn,"Did you eat PULSES, BEANS, PEAS, LENTILS, COWPEA (Pulses- green gram, red gram, Bengal gram, black gram, horse gram, kidney beans, lentils, red peas, dried beans, lentils, dal etc.) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Nuts_Seed_Yn,"Did you eat NUTS AND SEEDS (groundnut, sesame, almonds, cashew nuts, walnuts, flax seed, rapeseed, sunflower etc.) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_MilkPrdct_Yn,"Did you eat MILK AND MILK PRODUCTS (milk, cheese, yoghurt, butter or other milk products) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_FleshFood_Yn,"Did you eat FLESH FOODS (chicken, mutton/meat, fish, fish products) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Egg_Yn,"Did you eat EGGS (eggs from chicken, duck, guinea fowl or any other egg) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_GreenLeafVeg_Yn,"Did you eat DARK GREEN LEAFY VEGETABLES (drum stick leaves, spinach, fenugreek, coriander leaves, amaranths, mint leaves, mustard green, cabbage, radish leaves) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_VitFruits_Yn,"Did you eat VITAMIN A RICH FRUITS (Mango, papaya etc.) in the last 24 hours",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_VitVeg_Yn,Did you eat VITAMIN A RICH VEGETABLES AND TUBERS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_OthrVeg_Yn,Did you eat ANY OTHER VEGETABLES in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_OthrFruit_Yn,Did you eat ANY OTHER FRUITS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Oil_Fat_Yn,Did you eat OILS AND FATS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Condiments_Yn,Did you eat CONDIMENTS AND SEASONINGS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Savory_Yn,Did you eat SAVORY AND FRIED SNACKS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_Sweet_Yn,Did you eat SWEETS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Eat_SugarBev_Yn,Did you eat SUGAR SWEETENED BEVERAGES in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Consume_Alcohol_Yn,Did you consume ALCOHOL in the LAST 24 HOURS in the last 24 hours,Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,F11,Page number 23,English,Food_Comments,F - Any comments on foods eaten in the last 24 hours,Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,NoEat_WholeDay_CovidEff_M,"If the answer is yes, Did the situation worsen due to COVID and associated lockdown in the last 12 months? (Code 22) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Dietery_Intro_M,Dietary diversity [MHH],Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Rate_Health_M,How would you rate your personal health currently? (Code 24) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Dignosed_Covid_Yn_M,Were you diagnosed as COVID positive in last 2 years? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Covid_Infecn_Date_M,"If yes, the month and year of COVID infection: [MHH]",Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Vegetarian_Yn_M,Are you a vegetarian? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Egg_Consumpn_Yn_M,"If available, do you consume eggs? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Milk_Consumpn_Yn_M,"If available, do you consume milk and milk products? (Code 1) [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Fasting_Day_Yn_M,F - Is this day a fasting day? (Code 1) [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Cereals_Yn_M,"Did you eat CEREALS (Rice, wheat, millet, maize, ragi, other millets) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Tubers_Yn_M,"Did you eat WHITE ROOTS, TUBERS AND OTHER STARCHES (White potatoes, yam,sweet potato, cassava, arrow root, elephant foot yam) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Pulses_Yn_M,"Did you eat PULSES, BEANS, PEAS, LENTILS, COWPEA (Pulses- green gram, red gram, Bengal gram, black gram, horse gram, kidney beans, lentils, red peas, dried beans, lentils, dal etc.) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Nuts_Seed_Yn_M,"Did you eat NUTS AND SEEDS (groundnut, sesame, almonds, cashew nuts, walnuts, flax seed, rapeseed, sunflower etc.) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_MilkPrdct_Yn_M,"Did you eat MILK AND MILK PRODUCTS (milk, cheese, yoghurt, butter or other milk products) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_FleshFood_Yn_M,"Did you eat FLESH FOODS (chicken, mutton/meat, fish, fish products) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Egg_Yn_M,"Did you eat EGGS (eggs from chicken, duck, guinea fowl or any other egg) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_GreenLeafVeg_Yn_M,"Did you eat DARK GREEN LEAFY VEGETABLES (drum stick leaves, spinach, fenugreek, coriander leaves, amaranths, mint leaves, mustard green, cabbage, radish leaves) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_VitFruits_Yn_M,"Did you eat VITAMIN A RICH FRUITS (Mango, papaya etc.) in the last 24 hours [MHH]",Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_VitVeg_Yn_M,Did you eat VITAMIN A RICH VEGETABLES AND TUBERS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_OthrVeg_Yn_M,Did you eat ANY OTHER VEGETABLES in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_OthrFruit_Yn_M,Did you eat ANY OTHER FRUITS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Oil_Fat_Yn_M,Did you eat OILS AND FATS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Condiments_Yn_M,Did you eat CONDIMENTS AND SEASONINGS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Savory_Yn_M,Did you eat SAVORY AND FRIED SNACKS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_Sweet_Yn_M,Did you eat SWEETS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Eat_SugarBev_Yn_M,Did you eat SUGAR SWEETENED BEVERAGES in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Consume_Alcohol_Yn_M,Did you consume ALCOHOL in the LAST 24 HOURS in the last 24 hours [MHH],Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,M11,Page number 23,English,Food_Comments_M,F - Any comments on foods eaten in the last 24 hours [MHH],Text,,0
+AGG_HH_Survey_Ethiopia.xlsx,12,Page number 24,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,12,Page number 24,English,Intro_FoodConsumpn,Food consumption by the households,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,12,Page number 24,English,Module_Resp_FC,Respondent of this module,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,12.1,Page number 24,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,12.1,Page number 24,English,Food_Item,Food Items (Code 12),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,12.1,Page number 24,English,Qnt_Consumed,"In the past 30 days, how much did your household consume - Quantity (Kg/",Integer,Kg/Lit,0
+AGG_HH_Survey_Ethiopia.xlsx,12.1,Page number 24,English,ETB_Value,what was the equivalent value in ETB?,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,12.2,Page number 25,English,HH_Id,Household ID (from the list provided),Integer,,1
+AGG_HH_Survey_Ethiopia.xlsx,12.2,Page number 25,English,Item_Consumed,Items consumed (Code 13),Code,,0
+AGG_HH_Survey_Ethiopia.xlsx,12.2,Page number 25,English,Money_Value_ETB,Money value In ETB,Integer,,0
+AGG_HH_Survey_Ethiopia.xlsx,12.2,Page number 25,English,Spent_Low_Yn,"Compared to the previous 5 years, was spending low last year? (Code 1)",Code,,0

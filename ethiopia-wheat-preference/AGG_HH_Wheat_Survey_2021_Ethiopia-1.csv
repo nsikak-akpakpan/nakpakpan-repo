@@ -1,0 +1,1089 @@
+HH_Id,Region,Zone,District,PA,Village,HHH_Name,HHH_Sex,HHH_Age,HHH_Edcn,Intro_Study,Consent_Resp,HH_Replacement,New_HH_Id,Wheat_Cult,GPS,GPS_Lat,GPS_Long,Interview_Date,Supervisor,Enumerator_Name,MHH_FHH,MHH_Name,FHH_Name,MHH_Phone,FHH_Phone,Respondent_Othr,Respondent_Name,Respondent_Phone,HH_Intvw_LastRound_Yn,Num_HH_Memb,Num_HH_Boys,Num_HH_Girl,Num_Boys_AttndSchool,Num_Girl_AttndSchool,Total_Num_OM,Num_OM_Work,Num_OM_Study,Num_OM_Other,Main_Language,Language_Othr,MHH_Relgn,MHH_Relgn_Othr,FHH_Relgn,FHH_Relgn_Othr,Num_HH_AdultMemb
+245,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Yezich,Removed,Male,47,Adult education or 1 year of education,1,1,,1,1,1,10.93,38.13,24072021,3,3,1,Removed,Removed,0,0,0, ,,1,3,2,1,2,0,0,,,,2, ,1, ,1, ,3
+246,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,mehal sefer (leba maserya),Removed,Male,40,8,1,1,,1,1,1,10.94,38.13,24072021,3,31,1,Removed,Removed,Removed,0,1,Removed,0,1,3,1,2,1,1,0,,,,2, ,1, ,1, ,3
+247,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Mehal sefir (Enegata),Removed,Male,48,2,1,1,,1,1,1,10.92,38.12,24072021,3,34,1,Removed,Removed,0,0,0, ,,1,5,2,2,1,0,0,,,,2, ,1, ,1, ,5
+251,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Leba Maseria(Mehalsefer),Removed,Male,49,3,1,1,,1,1,1,10.94,38.13,24072021,3,36,1,Removed,Removed,0,0,0, ,,1,6,1,2,1,0,0,,,,2, ,1, ,1, ,6
+252,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Yezich,Removed,Male,59,Adult education or 1 year of education,1,1,,1,1,1,10.92,38.17,24072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,2, ,1, ,1, ,2
+253,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Yezech,Removed,Female,40,None/Illiterate,1,1,,1,1,1,10.94,38.13,24072021,3,31,2, ,Removed,,0,0, ,,1,3,1,1,1,0,0,,,,2, ,, ,1, ,3
+255,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Mehal sefer,Removed,Male,44,None/Illiterate,1,1,,1,1,1,10.93,38.13,24072021,3,36,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,1,1,0,,,,2, ,1, ,1, ,3
+256,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,yezeche,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.92,38.16,23072021,3,33,1,Removed,Removed,0,0,0, ,,1,3,1,2,0,1,0,,,,2, ,1, ,1, ,3
+257,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Leba maserya (Mehalesefer),Removed,Male,36,3,1,1,,1,1,1,10.92,38.17,23072021,3,33,1,Removed,Removed,0,0,0, ,,1,3,1,1,0,0,0,,,,2, ,1, ,1, ,3
+258,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Amba,Removed,Male,42,4,1,1,,1,1,1,10.94,38.13,24072021,3,34,1,Removed,Removed,0,0,0, ,,1,4,1,3,1,2,0,,,,2, ,1, ,1, ,4
+383,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Mehale Amba,Removed,Male,46,None/Illiterate,1,1,,1,1,1,10.24,27.87,17072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,0,0,,,,2, ,1, ,1, ,3
+385,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,MEHAL AMBA,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.24,37.87,17072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+386,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Lumamie,Removed,Male,48,None/Illiterate,1,1,,1,1,1,10.22,37.94,17072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,0,1,,1,0,1,0,2, ,1, ,1, ,3
+388,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Mehal Amba,Removed,Male,51,Adult education or 1 year of education,1,1,,1,1,1,10.24,37.87,17072021,3,34,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,1,1,0,0,2, ,1, ,1, ,4
+389,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Lumame(Bejrond),Removed,Male,58,None/Illiterate,1,1,,1,1,1,10.22,37.94,17072021,3,36,1,Removed,Removed,0,0,0, ,,1,5,1,1,0,0,0,,,,2, ,1, ,1, ,5
+390,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Korch,Removed,Male,38,Adult education or 1 year of education,1,1,,1,1,1,10.22,37.94,17072021,3,3,1,Removed,Removed,Removed,0,0, ,,1,2,2,0,1,,0,,,,2, ,1, ,1, ,2
+391,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,KORCH,Removed,Male,47,Adult education or 1 year of education,1,1,,1,1,1,10.21,37.95,17072021,3,37,1,Removed,Removed,Removed,0,1,Removed,0,1,3,1,2,0,1,0,,,,2, ,1, ,1, ,3
+392,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Bejrond/Lumame/,Removed,Male,50,None/Illiterate,1,1,,1,1,1,10.22,37.94,17072021,3,33,1,Removed,Removed,0,0,0, ,,1,4,1,2,1,1,0,,,,2, ,1, ,1, ,4
+393,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,LUMAME,Removed,Male,76,None/Illiterate,1,1,,1,1,1,10.24,37.94,17072021,3,31,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+394,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Lumamie,Removed,Male,46,None/Illiterate,1,1,,1,1,1,10.22,37.94,17072021,3,33,1,Removed,Removed,0,0,0, ,,1,5,0,3,,2,0,,,,2, ,1, ,1, ,5
+395,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,Beklo Seber (Korch),Removed,Male,66,None/Illiterate,1,1,,1,1,1,10.22,37.94,17072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,6,4,3,0,1,1,1,0,0,2, ,1, ,1, ,6
+529,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Atariamba,Removed,Male,36,8,1,1,,1,1,1,10.17,39.73,07082021,3,33,1,Removed,Removed,0,0,0, ,,1,2,2,0,1,,0,,,,2, ,1, ,1, ,2
+531,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Wolo Maseriya,Removed,Male,31,7,1,1,,1,1,1,10.17,39.73,05082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,3,1,0,1,,0,,,,2, ,1, ,1, ,3
+532,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,WELO MASERIA,Removed,Male,73,None/Illiterate,1,1,,1,1,1,10.16,39.70,07082021,3,33,1,Removed,Removed,0,0,0, ,,1,2,0,1,,1,0,,,,2, ,1, ,1, ,2
+533,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Aytassa,Removed,Male,52,None/Illiterate,1,1,,1,1,1,10.12,39.76,05082021,3,34,1,Removed,Removed,0,0,0, ,,1,2,0,1,,1,1,1,0,0,2, ,1, ,1, ,2
+535,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Wulomaseria,Removed,Male,51,4,1,1,,1,1,1,10.16,39.71,05082021,3,37,2, ,Removed,Removed,0,0, ,,1,3,1,2,0,1,0,,,,2, ,, ,1, ,3
+536,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Atari Amba,Removed,Male,64,Adult education or 1 year of education,1,1,,1,1,1,10.17,39.74,05082021,3,31,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+537,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Wuloabaye,Removed,Male,41,None/Illiterate,1,1,,1,1,1,10.17,39.73,05082021,3,36,1,Removed,Removed,0,0,0, ,,1,4,0,2,,2,0,,,,2, ,1, ,1, ,4
+538,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Aytasa,Removed,Male,33,6,1,1,,1,1,1,10.16,39.71,05082021,3,3,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,0,0,,,,2, ,1, ,1, ,2
+539,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,Atari Abba,Removed,Male,51,Adult education or 1 year of education,1,1,,1,1,1,10.17,39.73,05082021,3,36,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+561,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Birbiresa,Removed,Male,64,Adult education or 1 year of education,1,1,,1,1,1,9.69,39.43,03082021,3,37,1,Removed,Removed,Removed,0,1,Removed,Removed,1,3,2,1,0,0,0,,,,2, ,1, ,1, ,3
+563,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Dubesa,Removed,Male,67,3,1,1,,1,1,1,9.68,39.44,03082021,3,3,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+564,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Berbese,Removed,Male,48,None/Illiterate,1,1,,1,1,1,9.69,39.42,03082021,3,37,1,Removed,Removed,0,0,0, ,,1,3,1,2,0,1,1,0,1,0,2, ,1, ,1, ,3
+565,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Webi,Removed,Male,58,Adult education or 1 year of education,1,1,,1,1,1,9.69,39.46,03082021,3,36,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,2, ,1, ,1, ,2
+567,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Dubesa,Removed,Male,44,4,1,1,,1,1,1,9.69,39.45,03082021,3,33,1,Removed,Removed,Removed,Removed,0, ,,1,4,3,0,3,,0,,,,2, ,1, ,1, ,4
+568,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Dubisa,Removed,Male,72,Adult education or 1 year of education,1,1,,1,1,1,9.69,39.45,04082021,3,33,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,1,0,,,,2, ,1, ,1, ,5
+569,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Dubisa,Removed,Male,51,4,1,1,,1,1,1,9.69,39.45,04082021,3,33,1,Removed,Removed,Removed,0,1,Removed,Removed,1,6,2,0,2,,0,,,,2, ,1, ,1, ,6
+570,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Lay Wobi,Removed,Male,56,None/Illiterate,1,1,,1,1,1,9.69,39.47,03082021,3,36,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,1,0,,,,2, ,1, ,1, ,3
+571,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Tach Amba,Removed,Male,66,None/Illiterate,1,1,,1,1,1,9.44,39.37,03082021,3,34,1,Removed,Removed,0,0,0, ,,1,4,3,0,2,,0,,,,2, ,1, ,1, ,4
+572,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Tach wube,Removed,Male,49,2,1,1,,1,1,1,9.69,39.45,03082021,3,3,1,Removed,Removed,Removed,0,0, ,,1,3,2,3,1,1,1,0,0,1,2, ,1, ,1, ,3
+573,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Tach Amba,Removed,Male,45,None/Illiterate,1,1,,1,1,1,9.63,39.42,03082021,3,34,1,Removed,Removed,0,0,0, ,,1,3,1,3,1,1,0,,,,2, ,1, ,1, ,3
+574,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Berbisa,Removed,Male,74,None/Illiterate,1,1,,1,1,1,9.69,39.42,03082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,6,1,1,1,0,1,1,0,0,2, ,1, ,1, ,6
+575,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,BERBISA,Removed,Male,58,Adult education or 1 year of education,1,1,,1,1,1,9.69,39.42,03082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,6,0,2,,2,0,,,,2, ,1, ,1, ,6
+576,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,Gebreal,Removed,Male,44,None/Illiterate,1,1,,1,1,1,9.69,39.42,03082021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,4,1,2,0,2,0,,,,2, ,1, ,1, ,4
+943,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Asiyona (Kutir 2),Removed,Male,64,Adult education or 1 year of education,1,1,,1,1,1,9.31,39.30,12082021,3,33,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+944,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Galecha,Removed,Male,76,Adult education or 1 year of education,1,1,,1,1,1,9.32,39.30,10082021,3,36,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+945,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Gelano,Removed,Male,48,8,1,1,,1,1,1,9.33,39.30,10082021,3,36,1,Removed,Removed,0,0,0, ,,1,6,0,0,,,0,,,,2, ,1, ,1, ,6
+946,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Kereba,Removed,Male,68,None/Illiterate,1,1,,1,1,1,9.34,39.33,10082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,1,1,0,0,2, ,1, ,1, ,2
+948,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Burrie,Removed,Male,64,Adult education or 1 year of education,1,1,,1,1,1,9.33,39.33,10082021,3,3,1,Removed,Removed,0,0,0, ,,1,5,1,1,1,1,0,,,,2, ,1, ,1, ,5
+949,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Jisa,Removed,Male,33,8,1,1,,1,1,1,9.32,39.28,10082021,3,37,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,1,0,0,0,,,,2, ,1, ,1, ,3
+951,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Golma,Removed,Male,41,2,1,1,,1,1,1,9.31,39.30,12082021,3,33,1,Removed,Removed,0,0,0, ,,1,3,0,3,,2,0,,,,2, ,1, ,1, ,3
+952,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Gelano,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,9.32,39.31,10082021,3,34,1,Removed,Removed,0,0,0, ,,1,4,0,1,,1,1,1,0,0,2, ,1, ,1, ,4
+956,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Laye Goleba,Removed,Male,76,6,1,1,,1,1,1,9.33,39.31,10082021,3,34,1,Removed,Removed,0,0,0, ,,1,3,0,1,,0,0,,,,2, ,1, ,1, ,3
+957,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Bure,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,9.34,39.33,10082021,3,3,1,Removed,Removed,Removed,0,0, ,,1,6,0,1,,1,0,,,,2, ,1, ,1, ,6
+958,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Godeda,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,10.37,39.65,10082021,3,33,1,Removed,Removed,0,0,0, ,,1,4,1,0,0,,0,,,,2, ,1, ,1, ,4
+959,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Senewasha,Removed,Male,51,7,1,1,,1,1,1,10.36,39.64,08082021,3,36,1,Removed,Removed,0,0,0, ,,1,3,2,2,2,2,0,,,,2, ,1, ,1, ,3
+960,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Bagod,Removed,Male,66,Adult education or 1 year of education,1,1,,1,1,1,10.38,39.64,08082021,3,34,1,Removed,Removed,0,0,0, ,,1,5,0,1,,1,0,,,,2, ,1, ,1, ,5
+961,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Tenge Amba,Removed,Male,43,6,1,1,,1,1,1,10.17,39.64,08082021,3,36,1,Removed,Removed,0,0,0, ,,1,3,3,0,3,,0,,,,2, ,1, ,1, ,3
+962,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Zenkila,Removed,Male,44,6,1,1,,1,1,1,10.38,39.64,08082021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,3,0,1,,1,1,1,0,0,2, ,1, ,1, ,3
+963,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Zinkila,Removed,Male,37,7,1,1,,1,1,1,10.38,39.64,09082021,3,33,1,Removed,Removed,0,0,0, ,,1,2,1,2,0,2,0,,,,2, ,1, ,1, ,2
+964,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Tingamba,Removed,Male,37,7,1,1,,1,1,1,10.38,39.63,08082021,3,37,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,2, ,1, ,1, ,2
+965,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Deber,Removed,Male,54,6,1,1,,1,1,1,10.36,39.65,08082021,3,3,1,Removed,Removed,Removed,0,0, ,,1,2,2,1,2,1,0,,,,2, ,1, ,1, ,2
+967,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Godeda,Removed,Male,50,4,1,1,,1,1,1,10.23,39.45,08082021,3,34,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,1,0,,,,2, ,1, ,1, ,2
+968,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Key Mererie,Removed,Male,61,Adult education or 1 year of education,1,1,,1,1,1,10.38,39.64,08082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,2,2,0,0,2, ,1, ,1, ,2
+969,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Mariyam Teya,Removed,Male,44,5,1,1,,1,1,1,10.38,39.64,08082021,3,37,1,Removed,Removed,0,0,0, ,,1,3,2,1,1,0,2,2,0,0,2, ,1, ,1, ,3
+971,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Godeda,Removed,Male,44,9,1,1,,1,1,1,10.36,39.65,08082021,3,3,1,Removed,Removed,Removed,0,0, ,,1,2,2,1,1,1,0,,,,2, ,1, ,1, ,2
+973,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,Tingamba,Removed,Male,36,None/Illiterate,1,1,,1,1,1,10.38,39.64,08082021,3,34,1,Removed,Removed,0,0,0, ,,1,3,1,1,0,1,0,,,,2, ,1, ,1, ,3
+1047,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Brige,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.94,38.07,22072021,3,33,1,Removed,Removed,Removed,0,0, ,,1,3,2,1,0,1,0,,,,2, ,1, ,1, ,3
+1048,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Brige,Removed,Male,78,None/Illiterate,1,1,,1,1,1,10.95,38.05,22072021,3,34,1,Removed,Removed,0,0,0, ,,1,5,0,1,,1,0,,,,2, ,1, ,1, ,5
+1049,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Birj,Removed,Male,76,None/Illiterate,1,1,,1,1,1,10.94,38.07,22072021,3,37,1,Removed,Removed,0,0,0, ,,1,5,2,3,1,1,0,,,,2, ,1, ,1, ,5
+1050,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Wedemo,Removed,Male,57,2,1,1,,1,1,1,10.95,38.08,22072021,3,33,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+1051,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Tetere,Removed,Male,46,5,1,1,,1,1,1,10.96,38.08,22072021,3,36,1,Removed,Removed,Removed,0,0, ,,1,4,3,0,2,,0,,,,2, ,1, ,1, ,4
+1052,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Koso Bate,Removed,Male,74,None/Illiterate,1,1,,1,1,1,10.93,38.11,23072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,2, ,1, ,1, ,2
+1055,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,AKALU,Removed,Male,47,None/Illiterate,1,1,,1,1,1,10.93,38.10,23072021,3,34,1,Removed,Removed,0,0,0, ,,1,4,1,2,0,0,0,,,,2, ,1, ,1, ,4
+1056,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,TAOL WUDMO,Removed,Female,51,None/Illiterate,1,1,,1,1,1,10.94,38.07,22072021,3,31,2, ,Removed,Removed,Removed,0, ,,1,2,0,0,,,0,,,,2, ,, ,1, ,2
+1057,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Tefer,Removed,Male,61,None/Illiterate,1,1,,1,1,1,10.96,38.08,21072021,3,33,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+1058,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Manouroue,Removed,Male,36,None/Illiterate,1,1,,1,1,1,10.94,38.08,23072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,4,1,0,1,,0,,,,2, ,1, ,1, ,4
+1059,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Brige,Removed,Male,35,None/Illiterate,1,1,,1,1,1,10.94,38.07,22072021,3,3,1,Removed,Removed,0,0,0, ,,1,2,1,2,1,1,0,,,,2, ,1, ,1, ,2
+1060,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Kolobet,Removed,Male,48,None/Illiterate,1,1,,1,1,1,10.94,38.10,23072021,3,36,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,2, ,1, ,1, ,5
+1117,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Merre(Mender 8),Removed,Male,42,Adult education or 1 year of education,1,1,,1,1,1,10.91,37.85,26072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,1,1,0,,,,2, ,1, ,1, ,2
+1118,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Kashen(lemilem tsed),Removed,Female,41,None/Illiterate,1,1,,1,1,1,10.92,37.85,25072021,3,33,2, ,Removed,Removed,0,0, ,,1,3,0,1,,0,0,,,,2, ,, ,1, ,3
+1120,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Lemilem Tsid,Removed,Male,43,10,1,1,,1,1,1,10.91,37.85,26072021,3,31,1,Removed,Removed,0,0,0, ,,1,3,1,1,0,0,0,,,,2, ,1, ,1, ,3
+1121,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Mender -6,Removed,Male,41,None/Illiterate,1,1,,1,1,1,10.91,37.86,26072021,3,37,1,Removed,Removed,0,0,0, ,,1,3,2,1,1,0,0,,,,2, ,1, ,1, ,3
+1122,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,MEnder-8(Meri Shebba),Removed,Male,38,10,1,1,,1,1,1,10.91,37.85,26072021,3,36,1,Removed,Removed,Removed,0,0, ,,1,4,3,0,1,,0,,,,2, ,1, ,1, ,4
+1124,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Lemilem Tsid,Removed,Female,36,None/Illiterate,1,1,,1,1,1,10.93,37.88,26072021,3,34,2, ,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,2, ,, ,1, ,2
+1127,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Mender 1 (Lemiem),Removed,Male,62,None/Illiterate,1,1,,1,1,1,10.91,37.85,26072021,3,36,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+1131,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,Mender-1 (Lemele Tsede),Removed,Male,44,Adult education or 1 year of education,1,1,,1,1,1,10.99,37.86,26072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,3,2,0,1,,0,,,,2, ,1, ,1, ,3
+1344,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,KOSO,Removed,Male,32,8,1,1,,1,1,1,10.31,39.54,06082021,3,37,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,2, ,1, ,1, ,2
+1346,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,meskel,Removed,Male,58,8,1,1,,1,1,1,10.35,39.51,06082021,3,34,1,Removed,Removed,Removed,0,0, ,,1,2,1,0,1,,0,,,,2, ,1, ,1, ,2
+1347,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,MESEKELE,Removed,Male,50,None/Illiterate,1,1,,1,1,1,10.35,39.51,08082021,3,33,2, ,Removed,Removed,0,0, ,,1,2,0,2,,2,0,,,,2, ,, ,1, ,2
+1349,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Kosso,Removed,Male,32,5,1,1,,1,1,1,10.31,39.66,06082021,3,36,1,Removed,Removed,0,0,0, ,,1,3,5,0,3,,0,,,,2, ,1, ,1, ,3
+1350,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Zegel,Removed,Male,59,None/Illiterate,1,1,,1,1,1,10.36,39.51,07082021,3,3,1,Removed,Removed,0,0,1,Removed,0,1,7,2,0,1,,0,,,,2, ,1, ,1, ,7
+1352,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Mesekele,Removed,Male,38,8,1,1,,1,1,1,10.35,39.51,08082021,3,33,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,2, ,1, ,1, ,3
+1354,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Koso,Removed,Male,41,8,1,1,,1,1,1,10.31,39.52,06082021,3,37,1,Removed,Removed,0,0,0, ,,1,3,2,1,0,0,2,2,0,0,2, ,1, ,1, ,3
+1356,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,KOSO,Removed,Male,36,None/Illiterate,1,1,,1,1,1,10.37,39.53,06082021,3,31,1,Removed,Removed,0,0,0, ,,1,2,2,2,1,2,0,,,,2, ,1, ,1, ,2
+1357,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Zegel,Removed,Male,60,None/Illiterate,1,1,,1,1,1,10.35,39.51,07082021,3,36,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,2, ,1, ,1, ,3
+1358,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Kore,Removed,Male,35,4,1,1,,1,1,1,10.36,39.52,08082021,3,33,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,0,1,0,,,,2, ,1, ,1, ,2
+1359,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Meskel,Removed,Male,49,11,1,1,,1,1,1,10.36,39.52,06082021,3,34,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+1379,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Aterena Kereyu,Removed,Male,46,None/Illiterate,1,1,,1,1,1,9.38,39.39,13082021,3,33,1,Removed,Removed,0,Removed,0, ,,1,4,0,2,,1,0,,,,2, ,1, ,1, ,4
+1380,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Yelemna,Removed,Male,87,Adult education or 1 year of education,1,1,,1,1,1,9.36,39.39,11082021,3,36,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,2, ,1, ,1, ,2
+1381,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Sholage,Removed,Female,61,None/Illiterate,1,1,,1,1,1,9.35,39.40,11082021,3,36,2, ,Removed,Removed,0,0, ,,1,3,1,2,1,2,0,,,,2, ,, ,1, ,3
+1382,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Engora,Removed,Male,51,None/Illiterate,1,1,,1,1,1,9.36,39.39,11082021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,1,1,0,0,2, ,1, ,1, ,5
+1383,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Kembol,Removed,Male,61,Adult education or 1 year of education,1,1,,1,1,1,9.38,39.40,13082021,3,33,1,Removed,Removed,0,0,0, ,,1,5,0,1,,1,0,,,,2, ,1, ,1, ,5
+1385,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,mamase,Removed,Male,67,Adult education or 1 year of education,1,1,,1,1,1,9.38,39.33,11082021,3,37,1,Removed,Removed,0,0,1,Removed,Removed,1,4,2,2,0,0,0,,,,2, ,1, ,1, ,4
+1386,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Beredu,Removed,Male,65,4,1,1,,1,1,1,9.35,39.40,11082021,3,37,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,0,1,0,,,,2, ,1, ,1, ,3
+1387,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Kembol,Removed,Male,49,7,1,1,,1,1,1,9.36,39.39,11082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,2,1,0,0,,0,,,,2, ,1, ,1, ,2
+1388,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,yelemena,Removed,Male,62,Adult education or 1 year of education,1,1,,1,1,1,9.36,39.39,11082021,3,3,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,2, ,1, ,1, ,2
+1390,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Kembol,Removed,Male,65,None/Illiterate,1,1,,1,1,1,9.38,39.33,11082021,3,37,1,Removed,Removed,0,0,0, ,,1,4,2,2,0,1,3,2,0,1,2, ,1, ,1, ,4
+1391,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Atere na Kereyu,Removed,Female,60,None/Illiterate,1,1,,1,1,1,9.38,39.39,13082021,3,33,2, ,Removed,Removed,0,0, ,,1,6,2,0,2,,0,,,,2, ,, ,1, ,6
+1393,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,Girara Mariam,Removed,Male,58,2,1,1,,1,1,1,9.36,39.39,11082021,3,34,1,Removed,Removed,Removed,0,1,Removed,Removed,1,5,0,0,,,1,0,0,1,2, ,1, ,1, ,5
+1394,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,HANKU,Removed,Male,56,None/Illiterate,1,1,,1,1,1,10.71,38.48,29072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,0,2,0,,,,2, ,1, ,1, ,3
+1396,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Hiyo,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.71,38.64,29072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,4,0,2,,1,0,,,,2, ,1, ,1, ,4
+1397,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,CHEFE SHEBO,Removed,Male,33,3,1,1,,1,1,1,10.79,38.66,30072021,3,36,1,Removed,Removed,0,0,0, ,,1,2,1,1,0,1,0,,,,2, ,1, ,1, ,2
+1398,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Hanku,Removed,Male,66,None/Illiterate,1,1,,1,1,1,10.79,38.66,29072021,3,37,1,Removed,Removed,0,0,0, ,,1,4,2,2,1,1,0,,,,2, ,1, ,1, ,4
+1399,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Chefa Shabo,Removed,Male,44,None/Illiterate,1,1,,1,1,1,10.80,38.66,30072021,3,31,1,Removed,Removed,0,0,0, ,,1,2,3,1,2,1,0,,,,2, ,1, ,1, ,2
+1400,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Chefe shibo,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.79,38.66,29072021,3,31,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,0,0,,,,2, ,1, ,1, ,3
+1502,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Chefe Shebo,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.79,38.66,29072021,3,33,1,Removed,Removed,0,0,0, ,,1,2,0,2,,1,0,,,,2, ,2, ,2, ,2
+1504,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Hanku,Removed,Male,40,None/Illiterate,1,1,,1,1,1,10.79,38.66,29072021,3,36,2, ,Removed,Removed,0,0, ,,1,2,1,2,1,1,0,,,,2, ,, ,2, ,2
+1505,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Chefeshebo,Removed,Male,58,None/Illiterate,1,1,,1,1,1,10.80,38.66,29072021,3,31,1,Removed,Removed,0,0,0, ,,1,4,0,1,,0,1,1,0,0,2, ,1, ,1, ,4
+1506,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,CHEFESHEBO(GODEDEBI),Removed,Male,54,None/Illiterate,1,1,,1,1,1,10.80,38.66,30072021,3,31,1,Removed,Removed,0,0,0, ,,1,3,1,0,0,,0,,,,2, ,1, ,1, ,3
+1507,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Hiyo,Removed,Male,50,3,1,1,,1,1,1,10.80,38.66,29072021,3,33,1,Removed,Removed,0,0,0, ,,1,2,2,1,1,1,0,,,,2, ,1, ,1, ,2
+1508,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,Hiyo,Removed,Male,48,4,1,1,,1,1,1,10.80,38.66,29072021,3,36,1,Removed,Removed,0,0,0, ,,1,4,1,0,0,,0,,,,2, ,1, ,1, ,4
+1509,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,HIYO,Removed,Male,67,None/Illiterate,1,1,,1,1,1,10.71,38.48,29072021,3,34,1,Removed,Removed,0,0,0, ,,1,3,0,1,,0,0,,,,2, ,1, ,1, ,3
+1559,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Weekima,Removed,Male,42,Adult education or 1 year of education,1,1,,1,1,1,10.68,38.27,21072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,1,1,0,0,,,,2, ,1, ,1, ,3
+1561,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,Tach Wedemo,Removed,Male,46,None/Illiterate,1,1,,1,1,1,10.93,38.07,23072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,1,1,0,,,,2, ,1, ,1, ,4
+1562,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Jegode,Removed,Male,56,None/Illiterate,1,1,,1,1,1,10.25,37.96,18072021,3,34,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,2, ,1, ,1, ,5
+1563,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Kereba,Removed,Male,72,6,1,1,,1,1,1,9.33,39.33,10082021,3,34,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,2, ,1, ,1, ,2
+1895,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,Ambo,Removed,Male,47,5,1,1,,1,1,1,10.94,37.91,25072021,3,34,1,Removed,Removed,0,0,0, ,,1,6,0,1,,1,0,,,,2, ,1, ,1, ,6
+1897,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,swer,Removed,Male,51,None/Illiterate,1,1,,1,1,1,10.89,37.87,25072021,3,37,1,Removed,Removed,0,0,0, ,,1,5,3,2,2,1,0,,,,2, ,1, ,1, ,5
+1899,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,SIRUR,Removed,Male,71,None/Illiterate,1,1,,1,1,1,10.89,37.87,25072021,3,36,1,Removed,Removed,0,0,0, ,,1,4,1,1,1,0,0,,,,2, ,1, ,1, ,4
+1923,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,yeshbeb,Removed,Male,42,10,1,1,,1,1,1,10.58,38.16,19072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,2, ,1, ,1, ,5
+1925,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Gima,Removed,Male,64,None/Illiterate,1,1,,1,1,1,10.56,38.10,19072021,3,36,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+1926,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Yoshebeb,Removed,Male,45,None/Illiterate,1,1,,1,1,1,10.56,38.16,19072021,3,34,1,Removed,Removed,0,0,0, ,,1,4,0,1,,0,0,,,,2, ,1, ,1, ,4
+1930,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Chebima,Removed,Male,44,None/Illiterate,1,1,,1,1,1,10.55,38.11,19072021,3,33,1,Removed,Removed,Removed,0,0, ,,1,3,3,0,2,,0,,,,2, ,1, ,1, ,3
+1931,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Yeshebeb,Removed,Male,48,2,1,1,,1,1,1,10.54,38.11,19072021,3,3,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,2, ,2, ,2, ,5
+1932,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Gemma,Removed,Male,36,None/Illiterate,1,1,,1,1,1,10.56,38.10,19072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,1,1,1,0,,,,2, ,1, ,1, ,3
+1933,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Gemma,Removed,Male,59,Adult education or 1 year of education,1,1,,1,1,1,10.56,38.10,19072021,3,31,1,Removed,Removed,0,0,0, ,,1,4,0,1,,1,0,,,,2, ,1, ,1, ,4
+1934,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Gemma,Removed,Male,54,None/Illiterate,1,1,,1,1,1,10.55,38.11,19072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,0,0,2,1,1,0,2, ,1, ,1, ,3
+1935,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,Chebema,Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.54,38.10,19072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,0,0,0,,,,2, ,1, ,1, ,2
+1936,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,Belehe (Makere),Removed,Male,55,None/Illiterate,1,1,,1,1,1,10.80,36.80,15072021,3,36,2, ,Removed,Removed,0,0, ,,1,3,1,0,0,,0,,,,9,AGEW,, ,1, ,3
+1938,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,kunzina,Removed,Male,47,Adult education or 1 year of education,1,1,,1,1,1,10.80,36.80,16072021,3,36,1,Removed,Removed,0,0,0, ,,1,3,3,2,1,1,0,,,,2, ,1, ,1, ,3
+1942,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,GASHUSTA,Removed,Male,65,None/Illiterate,1,1,,1,1,1,10.80,36.79,16072021,3,33,2, ,Removed,Removed,0,0, ,,1,2,0,1,,0,0,,,,2, ,, ,1, ,2
+1944,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,TEGEDILO,Removed,Male,48,Adult education or 1 year of education,1,1,,1,1,1,10.80,36.79,15072021,3,3,1,Removed,Removed,0,0,0, ,,1,4,3,3,0,2,0,,,,9,AGEW,1, ,1, ,4
+1945,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,Hailu Kinda,Removed,Male,56,None/Illiterate,1,1,,1,1,1,10.80,36.80,15072021,3,37,1,Removed,Removed,0,0,0, ,,1,5,1,1,1,1,1,1,0,0,9,AGEW,1, ,1, ,5
+1947,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,Bilih(maker),Removed,Male,66,None/Illiterate,1,1,,1,1,1,10.80,36.79,15072021,3,3,1,Removed,Removed,0,0,0, ,,1,2,0,1,,1,0,,,,9,AGEW,1, ,1, ,2
+1949,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,Tegedelo,Removed,Male,58,6,1,1,,1,1,1,10.80,36.79,15072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,6,0,0,,,1,1,0,0,9,AGEW,1, ,1, ,6
+1950,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,Gashuta,Removed,Male,44,None/Illiterate,1,1,,1,1,1,10.80,36.79,15072021,3,33,1,Removed,Removed,0,0,0, ,,1,3,1,2,1,0,0,,,,2, ,1, ,1, ,3
+1951,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,DESHEKETA,Removed,Female,70,None/Illiterate,1,1,,1,1,1,10.80,36.79,15072021,3,36,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,9,AGEW,1, ,1, ,4
+1952,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,MAKER,Removed,Male,70,Adult education or 1 year of education,1,1,,1,1,1,10.76,36.81,15072021,3,34,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,2,0,2,0,9,AGEW,1, ,1, ,3
+1953,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,Maker,Removed,Male,46,7,1,1,,1,1,1,10.80,36.79,15072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,0,1,2,2,0,0,9,AGEW,1, ,1, ,4
+1954,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Abadele Beret,Removed,Male,76,None/Illiterate,1,1,,1,1,1,9.64,39.44,02082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,3,2,1,0,2, ,1, ,1, ,3
+1955,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Kosoamba,Removed,Male,44,Adult education or 1 year of education,1,1,,1,1,1,9.63,39.43,02082021,3,31,1,Removed,Removed,Removed,0,0, ,,1,5,0,4,,3,0,,,,2, ,1, ,1, ,5
+1957,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Facho,Removed,Male,55,Adult education or 1 year of education,1,1,,1,1,1,9.63,39.40,02082021,3,37,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,1,0,0,1,1,0,0,2, ,1, ,1, ,3
+1960,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Mesereta,Removed,Male,48,Adult education or 1 year of education,1,1,,1,1,1,9.66,39.48,02082021,3,34,1,Removed,Removed,Removed,Removed,0, ,,1,5,1,0,1,,0,,,,2, ,1, ,1, ,5
+1961,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Facho,Removed,Male,54,3,1,1,,1,1,1,9.62,39.40,02082021,3,36,1,Removed,Removed,Removed,Removed,0, ,,1,2,0,2,,0,0,,,,2, ,1, ,1, ,2
+1962,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Mesreta,Removed,Male,65,None/Illiterate,1,1,,1,1,1,9.63,39.42,02082021,3,34,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,2, ,1, ,1, ,3
+1963,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,KOSO AMBA,Removed,Male,62,Adult education or 1 year of education,1,1,,1,1,1,9.63,39.43,02082021,3,31,1,Removed,Removed,0,0,0, ,,1,5,1,2,1,2,0,,,,2, ,1, ,1, ,5
+1965,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Enkulale koso,Removed,Male,55,Adult education or 1 year of education,1,1,,1,1,1,9.65,39.45,02082021,3,3,2, ,Removed,Removed,0,1,Removed,Removed,1,3,0,0,,,0,,,,2, ,, ,1, ,3
+1966,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Facho,Removed,Female,28,10,1,1,,1,1,1,9.63,39.40,02082021,3,36,2, ,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,2, ,, ,1, ,4
+1967,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Abadaleberete,Removed,Male,46,None/Illiterate,1,1,,1,1,1,9.64,39.43,02082021,3,3,1,Removed,Removed,0,0,0, ,,1,2,1,0,0,,0,,,,2, ,1, ,1, ,2
+1968,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Aytamba,Removed,Male,66,None/Illiterate,1,1,,1,1,1,9.63,39.43,03082021,3,33,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+1969,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,Ayet Amba,Removed,Male,52,None/Illiterate,1,1,,1,1,1,9.63,39.43,02082021,3,33,1,Removed,Removed,0,0,0, ,,1,2,0,2,,2,0,,,,2, ,1, ,1, ,2
+1975,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,Serser,Removed,Male,60,None/Illiterate,1,1,,1,1,1,10.95,37.91,25072021,3,34,2, ,Removed,Removed,0,0, ,,1,1,0,1,,1,2,2,0,0,2, ,, ,1, ,1
+1976,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,Tachemender,Removed,Male,46,None/Illiterate,1,1,,1,1,1,10.89,37.87,25072021,3,31,1,Removed,Removed,0,0,0, ,,1,4,0,2,,2,0,,,,2, ,1, ,1, ,4
+1978,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,Lay Mender,Removed,Male,36,4,1,1,,1,1,1,10.89,37.87,24072021,3,33,1,Removed,Removed,0,0,0, ,,1,2,3,1,2,1,0,,,,2, ,1, ,1, ,2
+1980,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,Cherkose (tach mender),Removed,Male,38,None/Illiterate,1,1,,1,1,1,10.89,37.87,25072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,2, ,1, ,1, ,2
+1991,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Weyra,Removed,Male,42,None/Illiterate,1,1,,1,1,1,10.69,38.26,21072021,3,3,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+1992,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Goal,Removed,Male,44,None/Illiterate,1,1,,1,1,1,10.87,38.28,21072021,3,34,1,Removed,Removed,0,0,0, ,,1,2,1,0,0,,0,,,,2, ,1, ,1, ,2
+1993,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Weyra,Removed,Male,40,None/Illiterate,1,1,,1,1,1,10.69,38.26,21072021,3,3,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,1,1,0,,,,2, ,2, ,2, ,3
+1994,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Gole,Removed,Male,35,None/Illiterate,1,1,,1,1,1,10.88,38.26,21072021,3,34,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,2, ,1, ,1, ,3
+1995,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Addis Amba,Removed,Male,59,Adult education or 1 year of education,1,1,,1,1,1,10.68,38.23,21072021,3,33,1,Removed,Removed,0,0,0, ,,1,2,2,1,2,0,0,,,,2, ,1, ,1, ,2
+1996,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Wukima,Removed,Male,44,Adult education or 1 year of education,1,1,,1,1,1,10.67,38.27,21072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,5,2,3,1,1,0,,,,2, ,1, ,1, ,5
+1997,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Weyra,Removed,Male,73,None/Illiterate,1,1,,1,1,1,10.69,38.25,21072021,3,36,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,2, ,1, ,1, ,2
+1999,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Yumat Marigam,Removed,Male,64,None/Illiterate,1,1,,1,1,1,10.69,38.25,21072021,3,36,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,2, ,1, ,1, ,2
+2000,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,Wakima,Removed,Male,56,4,1,1,,1,1,1,10.67,38.27,21072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,3,1,0,1,,2,2,0,0,2, ,1, ,1, ,3
+2020,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Girargie,Removed,Male,66,Adult education or 1 year of education,1,1,,1,1,1,10.38,38.16,20072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,6,1,0,1,,1,0,1,0,2, ,1, ,1, ,6
+2021,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Gognam,Removed,Male,42,None/Illiterate,1,1,,1,1,1,10.39,38.16,20072021,3,3,1,Removed,Removed,0,0,0, ,,1,4,1,1,0,1,0,,,,2, ,1, ,1, ,4
+2023,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Merenegn,Removed,Male,41,None/Illiterate,1,1,,1,1,1,10.39,38.16,20072021,3,31,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,2,,0,,,,2, ,1, ,1, ,4
+2025,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Mereregn,Removed,Male,44,Adult education or 1 year of education,1,1,,1,1,1,10.39,38.16,20072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,1,0,0,2,2,0,0,2, ,1, ,1, ,3
+2026,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Yetnora,Removed,Male,48,3,1,1,,1,1,1,10.40,38.16,20072021,3,37,1,Removed,Removed,0,0,0, ,,1,3,2,1,1,0,1,1,0,0,2, ,1, ,1, ,3
+2027,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Arogeamba,Removed,Male,52,6,1,1,,1,1,1,10.40,38.17,20072021,3,34,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+2031,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Yetnara,Removed,Male,46,None/Illiterate,1,1,,1,1,1,10.41,38.16,20072021,3,37,1,Removed,Removed,0,0,0, ,,1,4,2,2,0,1,0,,,,2, ,1, ,1, ,4
+2032,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Yetenora,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,10.41,38.17,20072021,3,37,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,1,1,0,1,0,1,0,2, ,1, ,1, ,3
+2033,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,Sheneshobele,Removed,Male,42,6,1,1,,1,1,1,10.41,38.14,20072021,3,36,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,1,0,0,,,,2, ,1, ,1, ,4
+2085,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Ambasham,Removed,Male,56,6,1,1,,1,1,1,10.30,37.97,18072021,3,36,1,Removed,Removed,0,0,0, ,,1,8,0,0,,,0,,,,2, ,1, ,1, ,8
+2086,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Enedingir,Removed,Male,54,5,1,1,,1,1,1,10.29,37.98,18072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,4,3,1,2,0,0,,,,2, ,1, ,1, ,4
+2088,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Enedingr,Removed,Male,38,8,1,1,,1,1,1,10.29,37.98,18072021,3,37,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,1,0,1,0,1,0,2, ,1, ,1, ,2
+2089,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Enedingir,Removed,Male,45,None/Illiterate,1,1,,1,1,1,10.30,37.97,18072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,1,5,1,0,1,,0,,,,2, ,1, ,1, ,5
+2093,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Enedinger,Removed,Male,62,None/Illiterate,1,1,,1,1,1,10.30,37.97,18072021,3,31,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,2, ,1, ,1, ,4
+2094,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Jigode,Removed,Male,46,None/Illiterate,1,1,,1,1,1,10.30,37.97,18072021,3,3,2, ,Removed,Removed,Removed,0, ,,1,2,1,1,0,1,0,,,,2, ,, ,1, ,2
+2095,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,ENEDEGER,Removed,Male,48,5,1,1,,1,1,1,10.29,37.98,18072021,3,3,1,Removed,Removed,0,0,0, ,,1,3,2,0,2,,0,,,,2, ,1, ,1, ,3
+2096,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Ambashem,Removed,Male,54,None/Illiterate,1,1,,1,1,1,10.30,37.97,18072021,3,33,1,Removed,Removed,0,0,0, ,,1,4,2,0,0,,0,,,,2, ,1, ,1, ,4
+2097,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,JIGODE,Removed,Male,54,Adult education or 1 year of education,1,1,,1,1,1,10.29,37.97,18072021,3,33,1,Removed,Removed,0,0,0, ,,1,6,0,1,,1,0,,,,2, ,1, ,1, ,6
+2098,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,zegud Medhanialem,Removed,Male,33,None/Illiterate,1,1,,1,1,1,10.25,37.94,18072021,3,34,1,Removed,Removed,0,0,0, ,,1,3,3,0,2,,0,,,,2, ,1, ,1, ,3
+2099,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Enedirgr,Removed,Male,70,None/Illiterate,1,1,,1,1,1,10.30,37.97,18072021,3,36,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+4001,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,DOGEN,Removed,Female,60,None/Illiterate,1,1,,2,1,1,10.80,36.80,15072021,3,34,2, ,Removed,Removed,Removed,0, ,,0,2,0,0,,,0,,,,9,AGEW,, ,1, ,2
+4002,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,AMBO/MAKER,Removed,Male,65,4,1,1,,2,1,1,10.80,36.80,15072021,3,37,1,Removed,Removed,0,0,0, ,,0,5,0,0,,,1,1,0,0,9,AGEW,1, ,1, ,5
+4003,AMHARA,AWI,ANKASHA GUAGUSA,KUNIZENA FENASECH,GASHUTA,Removed,Male,42,None/Illiterate,1,1,,2,1,1,10.80,36.79,15072020,3,33,1,Removed,Removed,0,0,0, ,,0,4,2,2,0,2,0,,,,2, ,1, ,1, ,4
+4004,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,BEJIROND(lummame),Removed,Male,40,2,1,1,,2,1,1,10.22,37.94,17072021,3,36,1,Removed,Removed,0,0,1,Removed,0,0,3,1,2,1,1,0,,,,2, ,1, ,1, ,3
+4005,AMHARA,EAST   GOJAM,AWABEL,LUMAME DENGORA,DENGORA,Removed,Male,46,4,1,1,,2,1,1,10.23,37.94,17072021,3,3,1,Removed,Removed,Removed,0,0, ,,0,4,2,0,1,,0,,,,2, ,1, ,1, ,4
+4006,AMHARA,EAST   GOJAM,AWABEL,AMBASHEM ENEDINGIR,Tigod,Removed,Male,41,None/Illiterate,1,1,,2,1,1,10.30,37.97,18072021,3,31,1,Removed,Removed,Removed,0,0, ,,0,3,0,2,,2,0,,,,2, ,1, ,1, ,3
+4007,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,CHEBIMA,Removed,Male,37,Adult education or 1 year of education,1,1,,2,1,1,10.55,38.11,19072021,3,33,1,Removed,Removed,Removed,0,0, ,,0,2,1,1,1,0,0,,,,2, ,1, ,1, ,2
+4008,AMHARA,EAST   GOJAM,ENEMAY,DEBERE GENET MELINA,GEMMA,Removed,Male,48,6,1,1,,2,1,1,10.56,38.10,19072021,3,36,1,Removed,Removed,Removed,0,0, ,,0,3,1,1,0,0,0,,,,2, ,1, ,1, ,3
+4009,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,AROGE AMBA,Removed,Male,54,5,1,1,,2,1,1,10.40,38.17,20072021,3,3,1,Removed,Removed,0,0,0, ,,0,4,0,1,,1,0,,,,2, ,1, ,1, ,4
+4010,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,KOLELO AMBA,Removed,Male,40,None/Illiterate,1,1,,2,1,1,10.41,38.14,20072021,3,36,1,Removed,Removed,Removed,0,0, ,,0,4,1,1,1,0,0,,,,2, ,1, ,1, ,4
+4011,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,MEREGN,Removed,Male,71,None/Illiterate,1,1,,2,1,1,10.40,38.16,20072021,3,33,1,Removed,Removed,0,0,0, ,,0,3,0,0,,,0,,,,2, ,1, ,1, ,3
+4012,AMHARA,EAST   GOJAM,ENEMAY,MAHIBER  BIRHAN,GOJAM,Removed,Male,54,None/Illiterate,1,1,,2,1,1,10.40,38.17,20072021,3,33,1,Removed,Removed,Removed,0,0, ,,0,7,2,1,2,0,0,,,,2, ,1, ,1, ,7
+4013,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,ADDISE AMBA,Removed,Male,56,8,1,1,,2,1,1,10.68,38.23,21072021,3,33,1,Removed,Removed,Removed,0,0, ,,0,3,1,0,1,,0,,,,2, ,1, ,1, ,3
+4014,AMHARA,EAST   GOJAM,ENARJ ENAWGA,GULWIKIMA,WEYRA,Removed,Male,47,None/Illiterate,1,1,,2,1,1,10.67,38.27,21072021,3,37,1,Removed,Removed,0,0,0, ,,0,6,4,2,2,1,1,1,0,0,2, ,1, ,1, ,6
+4015,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,KOSOBETE,Removed,Male,65,5,1,1,,2,1,1,10.94,38.11,23072021,3,37,1,Removed,Removed,Removed,0,0, ,,0,3,2,1,1,0,0,,,,2, ,1, ,1, ,3
+4016,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,GINDE WEYIN BEZA,KOSO BET,Removed,Male,35,8,1,1,,2,1,1,10.94,38.10,23072021,3,36,1,Removed,Removed,Removed,0,0, ,,0,2,1,0,0,,0,,,,2, ,1, ,1, ,2
+4017,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,ABAJE,Removed,Male,38,6,1,1,,2,1,1,10.94,38.13,24072021,3,34,1,Removed,Removed,Removed,0,0, ,,0,5,3,1,1,1,0,,,,2, ,1, ,1, ,5
+4018,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,AMONATE,Removed,Male,38,7,1,1,,2,1,1,10.93,38.13,24072021,3,37,1,Removed,Removed,Removed,0,0, ,,0,3,2,1,1,0,0,,,,2, ,1, ,1, ,3
+4019,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,ABAJE,Removed,Male,38,5,1,1,,2,1,1,10.92,38.17,24072021,3,3,1,Removed,Removed,Removed,0,0, ,,0,3,4,3,2,2,0,,,,2, ,1, ,1, ,3
+4020,AMHARA,EAST   GOJAM,GONCHA SISO ENESE,DEBRE BIRHAN-05,Enabele (Amba,Removed,Male,44,6,1,1,,2,1,1,10.92,38.17,24072021,3,31,1,Removed,Removed,Removed,Removed,0, ,,0,4,1,1,1,1,0,,,,2, ,1, ,1, ,4
+4021,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,AMBO,Removed,Female,38,10,1,1,,2,1,1,10.08,37.88,25072021,3,37,2, ,Removed,Removed,Removed,0, ,,0,3,1,2,0,0,0,,,,2, ,, ,1, ,3
+4022,AMHARA,EAST   GOJAM,HULETEJ ENESE,DEBRE TSEHAY,AMBO,Removed,Male,58,4,1,1,,2,1,1,10.89,37.87,25072021,3,36,1,Removed,Removed,0,0,0, ,,0,5,2,0,2,,0,,,,2, ,1, ,1, ,5
+4023,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,AMBO,Removed,Male,40,8,1,1,,2,1,1,10.89,37.87,24072021,3,33,1,Removed,Removed,0,0,0, ,,0,3,1,0,1,,0,,,,2, ,1, ,1, ,3
+4024,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,LEMILEM TSED,Removed,Male,38,8,1,1,,2,1,1,10.91,37.85,25072021,3,33,1,Removed,Removed,0,0,0, ,,0,4,1,1,1,0,0,,,,2, ,1, ,1, ,4
+4025,AMHARA,EAST   GOJAM,HULETEJ ENESE,ADDIS ALEM,MENDER-1,Removed,Male,40,None/Illiterate,1,1,,2,1,1,10.91,37.85,26072021,3,37,1,Removed,Removed,0,0,0, ,,0,3,2,1,1,0,0,,,,2, ,1, ,1, ,3
+4026,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,CHEFE SHEBO,Removed,Male,42,None/Illiterate,1,1,,2,1,1,10.79,38.66,29072021,3,37,2, ,Removed,Removed,0,0, ,,0,3,2,1,1,0,0,,,,2, ,, ,2, ,3
+4027,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,CHEFE SHOEBO(GODEDBI),Removed,Male,32,12,1,1,,2,1,1,10.79,38.66,30072021,3,33,1,Removed,Removed,0,0,0, ,,0,2,1,1,0,1,0,,,,2, ,1, ,1, ,2
+4028,AMHARA,SOUTH  WOLLO,DEBRESINA,015 SEFATERA,CHEFE SHIBO,Removed,Male,40,None/Illiterate,1,1,,2,1,1,10.80,38.66,30072021,3,36,1,Removed,Removed,0,0,0, ,,0,4,1,1,1,0,0,,,,2, ,1, ,1, ,4
+4029,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,EEYNANBA DERA,Removed,Male,67,None/Illiterate,1,1,,2,1,1,9.61,39.41,02082021,3,37,1,Removed,Removed,0,0,0, ,,0,3,2,1,0,0,2,2,0,0,2, ,1, ,1, ,3
+4030,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,WENABADERA,Removed,Male,30,6,1,1,,2,1,1,9.61,39.40,02082021,3,36,1,Removed,Removed,0,0,0, ,,0,3,0,0,,,0,,,,2, ,1, ,1, ,3
+4031,AMHARA,NORTH SHOA,BASONA WERANA,ANGOLELA,MESERETA,Removed,Male,42,None/Illiterate,1,1,,2,1,1,9.66,39.48,02082021,3,34,1,Removed,Removed,0,0,0, ,,0,3,2,2,1,1,0,,,,2, ,1, ,1, ,3
+4032,AMHARA,NORTH SHOA,BASONA WERANA,BIRBIRSA,BIRBIRSA,Removed,Male,28,4,1,1,,2,1,1,9.68,39.43,03082021,3,37,1,Removed,Removed,Removed,0,0, ,,0,4,2,2,0,0,0,,,,2, ,1, ,1, ,4
+4033,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,AYETASA,Removed,Male,32,8,1,1,,2,1,1,10.16,39.71,05082021,3,37,1,Removed,Removed,Removed,Removed,0, ,,0,5,2,3,0,1,0,,,,2, ,1, ,1, ,5
+4034,AMHARA,NORTH SHOA,MENZ MAMA MIDER,07 ANGAWA/YEDIL FIRE,AYIT ASA,Removed,Male,51,4,1,1,,2,1,1,10.17,39.74,05082021,3,34,1,Removed,Removed,Removed,0,0, ,,0,4,1,0,1,,0,,,,2, ,1, ,1, ,4
+4035,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,KOSO,Removed,Male,50,3,1,1,,2,1,1,10.37,39.53,06082021,3,36,1,Removed,Removed,0,0,0, ,,0,3,2,0,1,,0,,,,2, ,1, ,1, ,3
+4036,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,KOSO,Removed,Female,31,None/Illiterate,1,1,,2,1,1,10.37,39.53,06082021,3,31,2, ,Removed,Removed,0,0, ,,0,1,1,2,0,2,0,,,,2, ,, ,1, ,1
+4037,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,ZEGLE,Removed,Male,57,6,1,1,,2,1,1,10.31,39.52,07082021,3,37,1,Removed,Removed,Removed,Removed,0, ,,0,4,3,1,2,0,2,2,0,0,2, ,1, ,1, ,4
+4038,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,KORE,Removed,Female,41,None/Illiterate,1,1,,2,1,1,10.23,39.37,07082021,3,34,2, ,Removed,Removed,0,0, ,,0,1,1,1,0,1,0,,,,2, ,, ,1, ,1
+4039,AMHARA,NORTH SHOA,MENZ GERA MEDER,010 GAYE,Zegel,Removed,Male,51,8,1,1,,2,1,1,10.36,39.53,07082021,3,31,1,Removed,Removed,Removed,0,0, ,,0,4,1,2,1,0,0,,,,2, ,1, ,1, ,4
+4040,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,TESFUMENTIR,Removed,Male,45,10,1,1,,2,1,1,10.36,39.65,08082021,3,36,1,Removed,Removed,Removed,0,0, ,,0,3,0,1,,1,0,,,,2, ,1, ,1, ,3
+4041,AMHARA,NORTH SHOA,MENZ GERA MEDER,014 KUREYA,BOGOD,Removed,Male,48,6,1,1,,2,1,1,10.38,39.64,09082021,3,33,1,Removed,Removed,0,0,0, ,,0,3,1,1,1,1,0,,,,2, ,1, ,1, ,3
+4042,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,KEFERO,Removed,Male,58,4,1,1,,2,1,1,9.32,39.30,11082021,3,33,1,Removed,Removed,0,0,0, ,,0,5,1,0,0,,0,,,,2, ,1, ,1, ,5
+4043,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,DEBONA,Removed,Male,75,None/Illiterate,1,1,,2,1,1,9.35,39.31,10082021,3,37,1,Removed,Removed,0,0,0, ,,0,2,1,1,0,0,1,1,0,0,2, ,1, ,1, ,2
+4044,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Bollo,Removed,Male,47,8,1,1,,2,1,1,9.33,39.31,10082021,3,31,1,Removed,Removed,Removed,0,0, ,,0,3,1,1,1,1,0,,,,2, ,1, ,1, ,3
+4045,AMHARA,NORTH SHOA,ANGOLELANA TERA,GOLBANA KAFERO,Shinetina Fila,Removed,Male,35,None/Illiterate,1,1,,2,1,1,9.34,39.33,10082021,3,31,1,Removed,Removed,0,0,0, ,,0,2,1,1,0,1,0,,,,2, ,1, ,1, ,2
+4046,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,ENEGURA,Removed,Male,48,4,1,1,,2,1,1,9.36,39.39,11082021,3,34,1,Removed,Removed,Removed,0,0, ,,0,6,0,1,,0,0,,,,2, ,1, ,1, ,6
+4047,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,BEREDU,Removed,Male,49,10,1,1,,2,1,1,9.36,39.39,11082021,3,3,1,Removed,Removed,Removed,0,0, ,,0,4,0,0,,,0,,,,2, ,1, ,1, ,4
+4048,AMHARA,NORTH SHOA,ANGOLELANA TERA,KOTU ENA GODIR MAMAS,BEREDU,Removed,Male,48,8,1,1,,2,1,1,9.35,39.40,11082021,3,36,1,Removed,Removed,0,0,0, ,,0,2,1,0,0,,0,,,,2, ,1, ,1, ,2
+98,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Mute,Removed,Male,28,None/Illiterate,1,1,,1,1,1,9.28,38.57,04082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,1,5,1,3,0,,,,1, ,1, ,1, ,2
+99,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,MUTE,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,9.29,38.58,12082021,1,14,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+100,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Chuko 1,Removed,Male,44,None/Illiterate,1,1,,1,1,1,9.29,38.58,08082021,1,14,1,Removed,Removed,0,0,0, ,,1,4,1,2,1,1,0,,,,1, ,1, ,1, ,4
+101,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,CHIKO,Removed,Male,42,None/Illiterate,1,1,,1,1,1,9.28,38.58,08082021,1,14,1,Removed,Removed,0,0,0, ,,1,5,1,2,1,1,0,,,,1, ,1, ,1, ,5
+102,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Tede,Removed,Male,60,None/Illiterate,1,1,,1,1,1,9.28,38.56,03082021,1,14,1,Removed,Removed,0,0,0, ,,1,8,1,0,1,,0,,,,1, ,1, ,1, ,8
+103,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Tede,Removed,Male,35,None/Illiterate,1,1,,1,1,1,9.39,38.58,06082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,2,2,1,1,0,,,,1, ,1, ,1, ,2
+260,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Barcha,Removed,Male,45,Adult education or 1 year of education,1,1,,1,1,1,9.55,38.78,18072021,1,14,1,Removed,Removed,0,0,0, ,,1,5,2,3,2,2,0,,,,1, ,1, ,1, ,5
+261,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Ejersa,Removed,Male,73,None/Illiterate,1,1,,1,1,1,9.53,38.79,17072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+262,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Ejersa,Removed,Female,68,None/Illiterate,1,1,,1,1,1,9.54,38.78,17072021,1,14,2, ,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,, ,1, ,2
+263,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Ejersa,Removed,Male,67,None/Illiterate,1,1,,1,1,1,9.54,38.78,17072021,1,14,1,Removed,Removed,0,0,0, ,,1,2,2,0,1,,0,,,,1, ,1, ,1, ,2
+264,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,JOKE,Removed,Male,65,4,1,1,,1,1,1,9.52,38.78,18072021,1,13,1,Removed,Removed,0,0,0, ,,1,3,3,1,1,0,0,,,,1, ,1, ,1, ,3
+266,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Kabi weyu,Removed,Male,40,None/Illiterate,1,1,,1,1,1,9.30,38.46,20072021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,2,1,1,0,,,,1, ,1, ,1, ,2
+267,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Mader,Removed,Male,68,None/Illiterate,1,1,,1,1,1,9.31,38.47,16072021,1,16,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+269,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Shantama,Removed,Male,45,Adult education or 1 year of education,1,1,,1,1,1,9.53,38.79,16072021,1,13,1,Removed,Removed,0,0,0, ,,1,3,1,2,1,1,0,,,,1, ,1, ,1, ,3
+270,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,JOKE,Removed,Male,50,8,1,1,,1,1,1,9.52,38.79,16072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,3,0,1,,0,,,,1, ,1, ,1, ,3
+271,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Madara,Removed,Male,42,5,1,1,,1,1,1,9.31,38.47,16072021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,2,0,1,0,,,,1, ,1, ,1, ,3
+272,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Shamtama,Removed,Male,55,None/Illiterate,1,1,,1,1,1,9.53,38.79,17072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,1,2,1,1,0,,,,1, ,1, ,1, ,4
+273,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Bulbula,Removed,Male,61,None/Illiterate,1,1,,1,1,1,9.31,38.35,19072021,1,16,1,Removed,Removed,0,0,0, ,,1,4,1,1,0,0,0,,,,1, ,1, ,1, ,4
+275,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Ogadi,Removed,Male,36,7,1,1,,1,1,1,9.54,38.77,18072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,1,1,0,,,,1, ,1, ,1, ,3
+276,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,KORE KERFE,Removed,Male,70,4,1,1,,1,1,1,9.31,38.46,20072021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,1,0,0,0,,,,1, ,1, ,1, ,3
+277,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,Kore Kerfe,Removed,Female,60,Adult education or 1 year of education,1,1,,1,1,1,9.31,38.46,17072021,1,16,2, ,Removed,Removed,0,0, ,,1,2,1,0,0,,0,,,,1, ,, ,1, ,2
+278,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Sire,Removed,Male,50,None/Illiterate,1,1,,1,1,1,9.21,38.25,26072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,0,1,,0,,,,1, ,1, ,1, ,2
+279,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Dire,Removed,Male,45,2,1,1,,1,1,1,9.34,38.42,27072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,0,0,,1,0,1,0,1, ,1, ,1, ,3
+280,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,TULU ENCHINI,Removed,Male,63,4,1,1,,1,1,1,9.34,38.42,14082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,0,0,,0,,,,1, ,1, ,1, ,3
+281,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Habesa,Removed,Male,67,None/Illiterate,1,1,,1,1,1,9.21,38.25,19082021,1,16,1,Removed,Removed,0,0,0, ,,1,4,2,1,2,1,0,,,,1, ,1, ,1, ,4
+282,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Tulu Enchini,Removed,Male,82,Adult education or 1 year of education,1,1,,1,1,1,9.35,38.41,14082021,1,11,1,Removed,Removed,0,0,0, ,,1,2,1,0,1,,0,,,,1, ,1, ,1, ,2
+283,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,GADAMI,Removed,Male,62,None/Illiterate,1,1,,1,1,1,9.21,38.25,19082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,1,0,,,,1, ,1, ,1, ,2
+285,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Gedami,Removed,Male,58,3,1,1,,1,1,1,9.21,38.25,26072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,1,,0,0,,,,1, ,1, ,1, ,5
+286,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Sire,Removed,Male,50,5,1,1,,1,1,1,9.35,38.41,11082021,1,11,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,0,1,2,1,1,0,1, ,1, ,1, ,2
+287,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Bilo Lafa,Removed,Female,42,Adult education or 1 year of education,1,1,,1,1,1,9.22,38.25,27072021,1,13,2, ,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,, ,1, ,2
+289,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Harbu,Removed,Male,43,2,1,1,,1,1,1,9.21,38.25,26072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,1,,1,0,,,,1, ,1, ,1, ,5
+290,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Wenchole,Removed,Male,50,6,1,1,,1,1,1,9.22,38.25,27072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,0,2,,2,0,,,,1, ,1, ,1, ,3
+292,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Bilo Lafo,Removed,Male,38,6,1,1,,1,1,1,9.34,38.41,27072021,1,13,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+293,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Gedami,Removed,Male,57,4,1,1,,1,1,1,9.21,38.26,26072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+295,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,ADAME DERA TOKOFA,Removed,Male,45,2,1,1,,1,1,1,8.88,39.14,28072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,2,2,1,0,,,,1, ,1, ,1, ,3
+296,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Goro Miecha,Removed,Male,38,Adult education or 1 year of education,1,1,,1,1,1,8.88,39.14,02082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,2,3,0,2,,0,,,,1, ,1, ,1, ,2
+297,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Haro Balo,Removed,Male,63,3,1,1,,1,1,1,8.88,39.14,01082021,1,11,1,Removed,Removed,0,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+299,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,AREDA MUDA,Removed,Male,30,5,1,1,,1,1,1,8.88,39.14,11082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,1,1,0,,,,1, ,1, ,1, ,2
+301,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Foka,Removed,Male,38,None/Illiterate,1,1,,1,1,1,8.88,39.14,10082021,1,12,1,Removed,Removed,0,0,0, ,,1,4,0,4,,2,0,,,,1, ,1, ,1, ,4
+302,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Dekdoko,Removed,Male,38,5,1,1,,1,1,1,8.88,39.14,27072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,2,2,1,0,,,,1, ,1, ,1, ,2
+303,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Haro Balo,Removed,Female,52,None/Illiterate,1,1,,1,1,1,8.88,39.14,04082021,1,11,2, ,Removed,Removed,0,0, ,,1,2,0,1,,1,3,3,0,0,1, ,, ,1, ,2
+304,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Adme Dere Arara,Removed,Male,40,5,1,1,,1,1,1,8.88,39.14,08082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,2,1,0,,,,1, ,1, ,1, ,4
+305,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Adami,Removed,Male,70,None/Illiterate,1,1,,1,1,1,8.88,39.14,08082021,1,15,1,Removed,Removed,0,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+307,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Adami,Removed,Male,38,None/Illiterate,1,1,,1,1,1,8.88,38.14,01082021,1,11,1,Removed,Removed,0,0,0, ,,1,2,1,2,1,0,1,1,0,0,1, ,1, ,1, ,2
+308,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Tulu Dimtu,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,8.88,39.14,02082021,1,12,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,1,0,,,,1, ,1, ,1, ,5
+309,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Tulu Dimtu,Removed,Male,64,3,1,1,,1,1,1,8.88,39.14,02082021,1,11,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,1, ,1, ,1, ,3
+310,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,AREDA NEBI,Removed,Male,53,None/Illiterate,1,1,,1,1,1,8.88,39.14,06082021,1,12,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,1,0,,,,1, ,1, ,1, ,5
+311,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Dukeduko,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,8.88,39.14,09082021,1,15,1,Removed,Removed,0,0,0, ,,1,5,1,0,1,,0,,,,1, ,1, ,1, ,5
+490,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Bati,Removed,Female,48,None/Illiterate,1,1,,1,1,1,9.28,38.58,29072021,1,14,2, ,Removed,Removed,0,0, ,,1,5,0,1,,1,0,,,,1, ,, ,1, ,5
+491,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Bate,Removed,Male,65,None/Illiterate,1,1,,1,1,1,9.28,38.57,30072021,1,14,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+492,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Bate,Removed,Male,45,5,1,1,,1,1,1,9.28,38.57,29072021,1,14,1,Removed,Removed,0,0,0, ,,1,6,2,0,1,,0,,,,1, ,1, ,1, ,6
+493,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Abayi,Removed,Male,48,Adult education or 1 year of education,1,1,,1,1,1,9.28,38.57,28072021,1,14,1,Removed,Removed,0,0,0, ,,1,2,2,0,2,,0,,,,1, ,1, ,1, ,2
+494,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Abaye,Removed,Male,52,None/Illiterate,1,1,,1,1,1,9.28,38.57,01082021,1,14,1,Removed,Removed,0,0,0, ,,1,5,1,0,1,,0,,,,1, ,1, ,1, ,5
+518,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Bedecha Tokofa,Removed,Male,32,5,1,1,,1,1,1,9.28,38.58,17082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,1,0,,,,1, ,1, ,1, ,2
+520,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Badecha Tokofa,Removed,Female,30,3,1,1,,1,1,1,9.35,38.57,15082021,1,14,2, ,Removed,Removed,0,0, ,,1,2,2,1,1,1,0,,,,1, ,, ,1, ,2
+521,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Gobu Lencha,Removed,Male,36,None/Illiterate,1,1,,1,1,1,9.43,38.58,15082021,1,14,1,Removed,Removed,0,0,0, ,,1,3,2,1,2,1,0,,,,1, ,1, ,1, ,3
+522,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Badecho 2,Removed,Male,38,None/Illiterate,1,1,,1,1,1,9.29,36.52,17082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,1,4,0,0,0,1, ,1, ,1, ,2
+523,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Medero,Removed,Male,42,Adult education or 1 year of education,1,1,,1,1,1,9.29,38.58,14082021,1,14,1,Removed,Removed,0,0,0, ,,1,4,0,1,,1,0,,,,1, ,1, ,1, ,4
+577,OROMIIA,JIMMA,DEDO,DABALE,korjo,Removed,Male,41,2,1,1,,1,1,1,7.41,36.85,16082021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,3,,1,0,,,,1, ,2, ,2, ,4
+580,OROMIIA,JIMMA,DEDO,DABALE,Ganta,Removed,Male,32,7,1,1,,1,1,1,7.41,36.86,12082021,1,13,1,Removed,Removed,0,0,0, ,,1,2,0,2,,1,0,,,,1, ,2, ,2, ,2
+581,OROMIIA,JIMMA,DEDO,DABALE,Gonfa,Removed,Male,55,None/Illiterate,1,1,,1,1,1,7.41,36.86,12082021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+583,OROMIIA,JIMMA,DEDO,DABALE,KILINA,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,7.42,36.87,06082021,1,13,1,Removed,Removed,0,0,0, ,,1,6,0,0,,,0,,,,1, ,2, ,2, ,6
+584,OROMIIA,JIMMA,DEDO,DABALE,Toli,Removed,Male,48,8,1,1,,1,1,1,7.41,36.86,13082021,1,13,1,Removed,Removed,0,0,0, ,,1,2,1,3,1,1,0,,,,1, ,2, ,2, ,2
+585,OROMIIA,JIMMA,DEDO,DABALE,Gonfa,Removed,Male,55,8,1,1,,1,1,1,7.41,36.86,13082021,1,13,1,Removed,Removed,0,0,0, ,,1,2,0,3,,1,0,,,,1, ,2, ,2, ,2
+586,OROMIIA,JIMMA,DEDO,DABALE,Haru,Removed,Male,45,4,1,1,,1,1,1,7.41,36.85,12082021,1,13,1,Removed,Removed,0,0,0, ,,1,6,0,0,,,1,0,1,0,1, ,2, ,2, ,6
+587,OROMIIA,JIMMA,DEDO,DABALE,Gurjo,Removed,Male,40,10,1,1,,1,1,1,7.41,36.85,13082021,1,13,1,Removed,Removed,0,0,0, ,,1,3,3,2,2,1,0,,,,1, ,2, ,2, ,3
+588,OROMIIA,JIMMA,DEDO,DABALE,DAye Wacho,Removed,Male,57,None/Illiterate,1,1,,1,1,1,7.41,36.85,12082021,1,13,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,1,0,1,0,1, ,2, ,2, ,3
+589,OROMIIA,JIMMA,DEDO,DABALE,Degani,Removed,Male,65,2,1,1,,1,1,1,7.42,36.86,11082021,1,13,1,Removed,Removed,0,0,1,Removed,0,1,2,0,2,,2,1,0,1,0,1, ,2, ,2, ,2
+590,OROMIIA,JIMMA,DEDO,DABALE,Genje,Removed,Male,35,None/Illiterate,1,1,,1,1,1,7.41,36.87,11082021,1,13,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+591,OROMIIA,JIMMA,DEDO,DABALE,Ayteti,Removed,Male,59,None/Illiterate,1,1,,1,1,1,7.42,36.87,10082021,1,13,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,0,,,,1, ,2, ,2, ,3
+718,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Sebato,Removed,Male,57,None/Illiterate,1,1,,1,1,1,8.67,37.95,25072021,1,14,1,Removed,Removed,0,0,0, ,,1,4,2,2,2,1,0,,,,1, ,1, ,1, ,4
+719,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Merti,Removed,Male,45,4,1,1,,1,1,1,8.67,37.95,27072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,3,3,2,2,2,0,,,,1, ,1, ,1, ,3
+720,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,wondemtu,Removed,Male,46,6,1,1,,1,1,1,8.66,37.95,21072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,2,1,0,1,,1,0,1,0,1, ,1, ,1, ,2
+721,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Fuge,Removed,Male,70,None/Illiterate,1,1,,1,1,1,8.66,37.94,22072021,1,13,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+722,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Gagure,Removed,Male,48,5,1,1,,1,1,1,8.67,37.95,25072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,6,0,0,,,0,,,,1, ,1, ,1, ,6
+723,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Geja,Removed,Male,45,8,1,1,,1,1,1,8.67,37.95,26072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,2,1,0,,,,1, ,1, ,1, ,4
+724,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Jebdu,Removed,Male,58,5,1,1,,1,1,1,8.40,37.57,27072021,1,16,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,1,1,0,1,0,1, ,1, ,1, ,3
+725,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Badeye,Removed,Male,85,None/Illiterate,1,1,,1,1,1,8.67,37.95,22072021,1,13,1,Removed,Removed,0,0,1,Removed,0,1,5,3,2,1,1,0,,,,1, ,1, ,1, ,5
+726,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Wandimtu,Removed,Male,78,None/Illiterate,1,1,,1,1,1,8.67,37.95,26072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,1,2,0,,,,1, ,1, ,1, ,3
+727,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Guda,Removed,Male,60,None/Illiterate,1,1,,1,1,1,8.67,37.95,23072021,1,13,1,Removed,Removed,0,0,0, ,,1,2,1,2,1,1,0,,,,1, ,1, ,1, ,2
+728,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Sebeto,Removed,Male,60,None/Illiterate,1,1,,1,1,1,8.67,37.95,28072021,1,14,1,Removed,Removed,0,0,0, ,,1,5,1,1,1,1,0,,,,1, ,1, ,1, ,5
+729,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Gagure,Removed,Male,60,None/Illiterate,1,1,,1,1,1,8.66,37.85,21072021,1,13,1,Removed,Removed,0,0,0, ,,1,3,3,0,3,,0,,,,1, ,1, ,1, ,3
+801,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Fare,Removed,Male,45,9,1,1,,1,1,1,8.33,37.52,30072021,1,16,1,Removed,Removed,0,0,0, ,,1,4,2,2,2,2,0,,,,1, ,1, ,1, ,4
+802,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Bonja,Removed,Female,56,None/Illiterate,1,1,,1,1,1,8.56,37.86,24072021,1,13,2, ,Removed,Removed,0,0, ,,1,2,2,0,1,,0,,,,1, ,, ,1, ,2
+803,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,fare,Removed,Male,65,2,1,1,,1,1,1,8.56,37.86,24072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+805,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Golole,Removed,Male,47,8,1,1,,1,1,1,8.34,37.53,28072021,1,16,1,Removed,Removed,0,0,0, ,,1,5,0,2,,2,0,,,,1, ,1, ,1, ,5
+806,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Firike,Removed,Male,52,9,1,1,,1,1,1,8.56,37.86,24072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,0,1,,0,,,,1, ,1, ,1, ,3
+807,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Merti,Removed,Male,55,3,1,1,,1,1,1,8.40,37.57,26072021,1,16,1,Removed,Removed,0,0,0, ,,1,4,3,1,2,0,0,,,,1, ,1, ,1, ,4
+808,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Jabdu,Removed,Female,50,4,1,1,,1,1,1,8.67,37.95,22072021,1,13,2, ,Removed,Removed,0,1,Removed,0,1,4,1,0,0,,0,,,,1, ,, ,1, ,4
+809,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Gora,Removed,Male,67,None/Illiterate,1,1,,1,1,1,8.66,37.95,21072021,1,13,1,Removed,Removed,0,0,0, ,,1,2,2,1,2,1,1,0,1,0,1, ,1, ,1, ,2
+810,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Sbeto,Removed,Male,52,5,1,1,,1,1,1,8.67,37.95,22072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,1,2,0,0,,,,1, ,1, ,1, ,3
+812,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Wondemtu,Removed,Male,42,2,1,1,,1,1,1,8.40,37.57,26072021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,4,1,1,0,,,,1, ,1, ,1, ,3
+813,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,BODE,Removed,Male,55,6,1,1,,1,1,1,8.67,37.95,21072021,1,13,1,Removed,Removed,0,0,0, ,,1,4,1,1,0,1,1,0,1,0,1, ,1, ,1, ,4
+814,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Wandimtu,Removed,Male,50,8,1,1,,1,1,1,8.40,37.57,26072021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,1,2,0,3,0,3,0,1, ,1, ,1, ,2
+816,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,Kelala Fuge,Removed,Male,62,Adult education or 1 year of education,1,1,,1,1,1,8.67,37.95,27072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1158,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Tulache,Removed,Male,37,None/Illiterate,1,1,,1,1,1,9.73,38.05,19072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,1,0,0,,,,1, ,1, ,1, ,2
+1159,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Kuris,Removed,Female,35,None/Illiterate,1,1,,1,1,1,9.73,39.06,20072021,1,14,2, ,Removed,Removed,0,0, ,,1,2,2,0,1,,0,,,,1, ,, ,1, ,2
+1163,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Gora Koro,Removed,Male,55,None/Illiterate,1,1,,1,1,1,9.44,39.02,19072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,3,0,1,,0,,,,1, ,1, ,1, ,3
+1164,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Abayi,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,9.43,39.02,21072021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,0,0,,0,,,,1, ,1, ,1, ,3
+1165,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Adadi,Removed,Male,47,2,1,1,,1,1,1,9.43,39.03,19072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,2,1,1,0,,,,1, ,1, ,1, ,3
+1166,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,EMILE,Removed,Male,60,None/Illiterate,1,1,,1,1,1,9.43,39.02,22072021,1,16,1,Removed,Removed,0,0,1,Removed,Removed,1,3,0,1,,1,0,,,,1, ,1, ,1, ,3
+1167,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Abeyi,Removed,Male,40,None/Illiterate,1,1,,1,1,1,9.43,39.03,23072021,1,16,1,Removed,Removed,0,0,0, ,,1,4,1,1,0,0,0,,,,1, ,1, ,1, ,4
+1168,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Wedoihalago,Removed,Male,65,Adult education or 1 year of education,1,1,,1,1,1,9.73,38.06,20072021,1,14,1,Removed,Removed,Removed,0,0, ,,1,6,0,2,,0,0,,,,1, ,1, ,1, ,6
+1169,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Werase 1,Removed,Male,52,3,1,1,,1,1,1,9.43,39.03,23072021,1,16,1,Removed,Removed,0,0,0, ,,1,6,1,2,0,0,0,,,,1, ,1, ,1, ,6
+1170,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Werase,Removed,Male,51,Adult education or 1 year of education,1,1,,1,1,1,9.72,39.04,19072021,1,13,1,Removed,Removed,0,0,0, ,,1,4,3,1,2,1,0,,,,1, ,1, ,1, ,4
+1171,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Adad1,Removed,Male,67,Adult education or 1 year of education,1,1,,1,1,1,9.43,39.03,24072021,1,16,1,Removed,Removed,Removed,0,0, ,,1,3,0,3,,3,0,,,,1, ,1, ,1, ,3
+1174,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,Abayi,Removed,Male,66,Adult education or 1 year of education,1,1,,1,1,1,9.72,39.05,19072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,1,,1,0,,,,1, ,1, ,1, ,4
+1253,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,WATA,Removed,Male,40,8,1,1,,1,1,1,7.94,38.70,18072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,1,2,0,,,,1, ,1, ,1, ,2
+1254,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Wareja,Removed,Male,75,2,1,1,,1,1,1,7.94,38.70,20072021,1,12,1,Removed,Removed,0,0,0, ,,1,4,1,0,1,,0,,,,1, ,2, ,2, ,4
+1255,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Bame wshegula,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.94,38.70,16072021,1,12,1,Removed,Removed,0,0,0, ,,1,2,4,2,2,1,0,,,,1, ,2, ,2, ,2
+1257,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Setenu/Sefera,Removed,Female,60,None/Illiterate,1,1,,1,1,1,7.94,38.70,17072021,1,12,2, ,Removed,Removed,Removed,0, ,,1,2,0,2,,1,0,,,,1, ,, ,1, ,2
+1258,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Werji,Removed,Male,32,12,1,1,,1,1,1,7.94,38.70,19072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,4,1,0,0,,,,1, ,2, ,2, ,2
+1259,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Chewota,Removed,Male,75,None/Illiterate,1,1,,1,1,1,7.94,38.70,18072021,1,12,2, ,Removed,Removed,Removed,1,Removed,Removed,1,4,1,0,0,,0,,,,1, ,, ,2, ,4
+1260,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Washigula,Removed,Male,42,6,1,1,,1,1,1,7.94,38.70,16072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,5,2,1,1,1,0,,,,1, ,2, ,2, ,5
+1261,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Werja,Removed,Female,60,None/Illiterate,1,1,,1,1,1,7.94,38.70,19072021,1,12,2, ,Removed,Removed,0,0, ,,1,1,2,1,1,0,0,,,,1, ,, ,2, ,1
+1262,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Tuna,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.94,38.70,17072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,2,,0,,,,1, ,1, ,1, ,4
+1263,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Weshengula,Removed,Male,50,2,1,1,,1,1,1,7.94,38.70,20072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,0,,0,,,,1, ,2, ,2, ,5
+1264,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Werja,Removed,Female,40,None/Illiterate,1,1,,1,1,1,7.94,38.70,19072021,1,12,2, ,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,, ,2, ,3
+1265,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Alutana,Removed,Male,40,4,1,1,,1,1,1,7.94,38.70,18072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,3,4,2,2,1,0,,,,1, ,2, ,2, ,3
+1266,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Hamberitu,Removed,Male,30,3,1,1,,1,1,1,7.94,38.70,19072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,3,3,3,1,2,0,,,,1, ,2, ,2, ,3
+1267,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Werja,Removed,Male,77,10,1,1,,1,1,1,7.94,38.70,16072021,1,12,1,Removed,Removed,0,0,0, ,,1,4,2,1,2,1,0,,,,1, ,1, ,1, ,4
+1268,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Werja (Bame),Removed,Male,46,3,1,1,,1,1,1,7.94,38.70,20072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,2,1,2,0,,,,1, ,1, ,1, ,3
+1269,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,WERJA WASHAGULA,Setenitu,Removed,Male,85,Adult education or 1 year of education,1,1,,1,1,1,7.94,38.70,17072021,1,12,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+1336,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Firke,Removed,Male,67,None/Illiterate,1,1,,1,1,1,8.33,37.51,21082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1337,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Chera,Removed,Male,40,5,1,1,,1,1,1,8.33,37.52,29072021,1,16,1,Removed,Removed,0,0,0, ,,1,5,2,1,1,0,0,,,,1, ,1, ,1, ,5
+1339,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Dangago,Removed,Male,42,7,1,1,,1,1,1,8.33,37.52,29072021,1,16,1,Removed,Removed,0,0,0, ,,1,4,1,1,0,0,0,,,,1, ,1, ,1, ,4
+1340,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Dumoga,Removed,Male,32,7,1,1,,1,1,1,8.56,37.86,24072021,1,13,1,Removed,Removed,28,Removed,0, ,,1,2,3,0,0,,0,,,,1, ,1, ,1, ,2
+1341,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Dengego,Removed,Female,75,None/Illiterate,1,1,,1,1,1,8.33,37.52,29072021,1,16,2, ,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,, ,1, ,2
+1342,OROMIIA,SOUTH WEST SHOA,WONCHI,HARO KONO,Chera,Removed,Male,50,3,1,1,,1,1,1,8.33,37.52,30072021,1,16,1,Removed,Removed,0,0,0, ,,1,2,5,2,2,0,0,,,,1, ,1, ,1, ,2
+1416,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Tayo,Removed,Male,33,4,1,1,,1,1,1,7.26,36.52,03082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,1,2,0,0,0,,,,1, ,1, ,1, ,2
+1418,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Kuda,Removed,Male,85,None/Illiterate,1,1,,1,1,1,7.28,36.52,13082021,1,16,2, ,Removed,Removed,0,0, ,,1,1,0,0,,,0,,,,1, ,, ,2, ,1
+1420,OROMIIA,JIMMA,DEDO,GERIMA GUDA,BETELA,Removed,Male,40,Adult education or 1 year of education,1,1,,1,1,1,7.26,36.52,03082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,3,3,2,1,0,,,,1, ,2, ,2, ,2
+1421,OROMIIA,JIMMA,DEDO,GERIMA GUDA,HOTOSA,Removed,Female,75,None/Illiterate,1,1,,1,1,1,7.26,36.52,06082021,1,16,2, ,Removed,Removed,0,0, ,,1,1,1,0,0,,0,,,,1, ,, ,2, ,1
+1424,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Gerima,Removed,Male,60,3,1,1,,1,1,1,7.28,36.52,12082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,1,0,1,,0,,,,1, ,2, ,2, ,2
+1425,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Degani 2,Removed,Male,45,5,1,1,,1,1,1,7.28,36.52,09082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,2,2,2,0,,,,1, ,2, ,2, ,2
+1430,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Metoso,Removed,Male,38,None/Illiterate,1,1,,1,1,1,7.26,36.52,02082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,3,2,0,0,0,,,,1, ,1, ,1, ,2
+1431,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Tegre,Removed,Male,38,3,1,1,,1,1,1,7.28,36.52,12082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,2,1,2,1,0,,,,1, ,2, ,2, ,3
+1433,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Metoso,Removed,Male,60,2,1,1,,1,1,1,7.26,36.52,03082021,1,16,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,0,1,0,,,,1, ,2, ,2, ,4
+1453,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Maybasi,Removed,Male,55,5,1,1,,1,1,1,9.19,38.22,21082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1454,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Basi,Removed,Male,67,Adult education or 1 year of education,1,1,,1,1,1,9.31,38.38,13082021,1,11,1,Removed,Removed,Removed,0,0, ,,1,3,3,0,2,,0,,,,1, ,1, ,1, ,3
+1455,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Mayibasi,Removed,Male,67,None/Illiterate,1,1,,1,1,1,9.31,38.38,12082021,1,11,1,Removed,Removed,Removed,0,0, ,,1,4,0,1,,1,0,,,,1, ,1, ,1, ,4
+1456,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Maybasi,Removed,Male,49,4,1,1,,1,1,1,9.31,38.38,12082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,1,1,1,1,0,1,0,1, ,1, ,1, ,3
+1458,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Meyibes,Removed,Male,65,6,1,1,,1,1,1,9.20,38.22,18082021,1,16,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,1, ,5
+1459,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,MAY BASI,Removed,Male,70,Adult education or 1 year of education,1,1,,1,1,1,9.19,38.22,18082021,1,16,1,Removed,Removed,0,0,0, ,,1,4,0,2,,2,0,,,,1, ,1, ,1, ,4
+1460,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Kera 2,Removed,Male,78,Adult education or 1 year of education,1,1,,1,1,1,9.19,38.22,19082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,0,2,,1,0,,,,1, ,1, ,1, ,3
+1461,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,sefera-2,Removed,Male,65,4,1,1,,1,1,1,9.31,38.38,12082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+1462,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,MAybase,Removed,Female,55,4,1,1,,1,1,1,9.20,38.22,21082021,1,16,2, ,Removed,Removed,0,0, ,,1,2,0,0,,,1,0,1,0,1, ,, ,1, ,2
+1463,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Mayibas,Removed,Male,73,Adult education or 1 year of education,1,1,,1,1,1,9.31,38.38,13082021,1,11,1,Removed,Removed,Removed,0,0, ,,1,8,2,0,2,,0,,,,1, ,1, ,1, ,8
+1464,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Maybasi3,Removed,Female,60,None/Illiterate,1,1,,1,1,1,9.31,38.38,25072021,1,13,2, ,Removed,Removed,0,0, ,,1,2,1,1,0,1,0,,,,1, ,, ,1, ,2
+1465,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,Mayibas,Removed,Male,62,8,1,1,,1,1,1,9.20,38.20,25072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+1466,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,SIBA,Removed,Male,32,None/Illiterate,1,1,,1,1,1,9.20,38.22,18082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,1,1,1,0,,,,1, ,1, ,1, ,2
+1512,OROMIIA,JIMMA,DEDO,BILU HARSO,Hanbise,Removed,Male,52,None/Illiterate,1,1,,1,1,1,7.27,37.04,14082021,1,16,2, ,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,, ,2, ,3
+1514,OROMIIA,JIMMA,DEDO,BILU HARSO,GARO,Removed,Male,53,None/Illiterate,1,1,,1,1,1,7.27,37.04,14082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,2,1,1,0,,,,1, ,2, ,2, ,2
+1515,OROMIIA,JIMMA,DEDO,BILU HARSO,Arso,Removed,Male,65,None/Illiterate,1,1,,1,1,1,7.27,37.03,16082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+1516,OROMIIA,JIMMA,DEDO,BILU HARSO,Guro,Removed,Male,47,3,1,1,,1,1,1,7.28,37.03,16082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,2,2,1,1,0,,,,1, ,2, ,2, ,3
+1517,OROMIIA,JIMMA,DEDO,BILU HARSO,Harso,Removed,Male,55,Adult education or 1 year of education,1,1,,1,1,1,7.27,37.03,16082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,1,0,,,,1, ,2, ,2, ,2
+1518,OROMIIA,JIMMA,DEDO,BILU HARSO,Alaka,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.27,37.04,22082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,1, ,2, ,2, ,3
+1521,OROMIIA,JIMMA,DEDO,BILU HARSO,Harsu,Removed,Male,42,None/Illiterate,1,1,,1,1,1,7.27,37.04,16082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,3,1,1,0,,,,1, ,2, ,2, ,2
+1522,OROMIIA,JIMMA,DEDO,BILU HARSO,Echa,Removed,Male,65,None/Illiterate,1,1,,1,1,1,7.27,37.03,17082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,1, ,2, ,2, ,3
+1525,OROMIIA,JIMMA,DEDO,BILU HARSO,Horoba Gamo,Removed,Male,55,None/Illiterate,1,1,,1,1,1,7.27,37.04,14082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+1526,OROMIIA,JIMMA,DEDO,BILU HARSO,Harsu,Removed,Male,52,3,1,1,,1,1,1,7.27,37.04,17082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,2,2,0,0,,,,1, ,2, ,2, ,2
+1527,OROMIIA,JIMMA,DEDO,SITO,SITO BALTO,Removed,Male,63,3,1,1,,1,1,1,7.41,36.86,31072021,1,13,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+1528,OROMIIA,JIMMA,DEDO,BILU HARSO,Nano Mesgeda,Removed,Male,48,5,1,1,,1,1,1,7.27,37.03,17082021,1,16,1,Removed,Removed,0,0,0, ,,1,3,1,3,1,1,0,,,,1, ,2, ,2, ,3
+1529,OROMIIA,JIMMA,DEDO,SITO,yebu,Removed,Male,41,4,1,1,,1,1,1,7.40,36.86,30072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,6,2,2,2,2,0,,,,1, ,2, ,2, ,6
+1530,OROMIIA,JIMMA,DEDO,SITO,Baleto,Removed,Male,42,9,1,1,,1,1,1,7.41,36.86,30072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,5,1,2,0,1,0,,,,1, ,2, ,2, ,5
+1531,OROMIIA,JIMMA,DEDO,BILU HARSO,Hecha,Removed,Male,41,2,1,1,,1,1,1,7.27,37.04,14082021,1,16,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,1,1,0,,,,1, ,2, ,2, ,2
+1533,OROMIIA,JIMMA,DEDO,DABALE,Haru,Removed,Male,48,4,1,1,,1,1,1,7.41,36.85,16082021,1,13,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+1534,OROMIIA,JIMMA,DEDO,DABALE,Yebo,Removed,Male,53,Adult education or 1 year of education,1,1,,1,1,1,8.42,36.87,11082021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,0,1,,0,0,,,,1, ,2, ,2, ,3
+1535,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Guro Wacho,Removed,Male,78,None/Illiterate,1,1,,1,1,1,8.67,38.98,23072021,1,12,1,Removed,Removed,0,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+1536,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Gomboye,Removed,Male,75,None/Illiterate,1,1,,1,1,1,8.67,38.98,24072021,1,12,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+1539,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Haro Robi,Removed,Male,56,None/Illiterate,1,1,,1,1,1,#VALUE!,38.98,21072021,1,12,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,1, ,1, ,1, ,3
+1540,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,GICHE,Removed,Male,42,2,1,1,,1,1,1,8.67,38.98,23072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,3,2,1,2,1,0,,,,1, ,1, ,1, ,3
+1542,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Tiliti,Removed,Male,46,None/Illiterate,1,1,,1,1,1,8.67,38.98,16082021,1,15,1,Removed,Removed,0,0,0, ,,1,5,2,0,1,,0,,,,1, ,1, ,1, ,5
+1543,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,GECHA,Removed,Male,45,5,1,1,,1,1,1,8.67,38.98,24072021,1,12,1,Removed,Removed,0,0,0, ,,1,3,1,3,0,2,0,,,,1, ,1, ,1, ,3
+1545,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Gemane Tilte,Removed,Male,72,None/Illiterate,1,1,,1,1,1,8.67,38.98,26072021,1,15,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+1546,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,-77,Removed,Male,52,6,1,1,,1,1,1,8.67,38.98,23072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+1548,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Giche,Removed,Male,40,None/Illiterate,1,1,,1,1,1,8.67,38.98,22072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,1,0,,,,1, ,1, ,1, ,3
+1549,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,HARO ROBI,Removed,Male,41,Adult education or 1 year of education,1,1,,1,1,1,8.67,38.98,26072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,0,1,1,0,1,0,1, ,1, ,1, ,4
+1551,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Tileti,Removed,Male,43,2,1,1,,1,1,1,8.67,38.98,22072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,2,1,3,0,2,0,,,,1, ,1, ,1, ,2
+1552,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Haro Robi,Removed,Male,54,None/Illiterate,1,1,,1,1,1,8.64,38.94,31072021,1,15,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,1, ,1, ,1, ,3
+1553,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Gicne,Removed,Male,52,None/Illiterate,1,1,,1,1,1,8.67,38.98,22072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,1,0,0,,,,1, ,1, ,1, ,4
+1554,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Oda Meecha,Removed,Male,55,8,1,1,,1,1,1,8.67,38.98,22072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1556,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Geche,Removed,Male,40,None/Illiterate,1,1,,1,1,1,8.69,38.99,31072021,1,15,2, ,Removed,Removed,Removed,0, ,,1,1,2,1,1,1,0,,,,1, ,, ,1, ,1
+1580,OROMIIA,EAST  SHOA,ADEA,KETEBA,Gimbi,Removed,Male,51,None/Illiterate,1,1,,1,1,1,8.92,39.04,08082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+1581,OROMIIA,EAST  SHOA,ADEA,KETEBA,LUGO,Removed,Male,70,4,1,1,,1,1,1,8.89,39.05,27072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1582,OROMIIA,EAST  SHOA,ADEA,KETEBA,Goesa,Removed,Male,55,None/Illiterate,1,1,,1,1,1,8.89,39.05,27072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,1, ,1, ,1, ,2
+1583,OROMIIA,EAST  SHOA,ADEA,KETEBA,Hadere,Removed,Male,50,None/Illiterate,1,1,,1,1,1,8.88,39.14,12082021,1,12,1,Removed,Removed,0,0,0, ,,1,3,2,1,0,0,0,,,,1, ,1, ,1, ,3
+1585,OROMIIA,EAST  SHOA,ADEA,KETEBA,Adare,Removed,Male,50,12,1,1,,1,1,1,8.89,39.05,26072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,3,0,1,,1,0,,,,1, ,1, ,1, ,3
+1586,OROMIIA,EAST  SHOA,ADEA,KETEBA,Gimbi,Removed,Male,65,None/Illiterate,1,1,,1,1,1,8.88,39.04,02082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,1,2,0,1,0,,,,1, ,1, ,1, ,4
+1587,OROMIIA,EAST  SHOA,ADEA,KETEBA,Gimbe,Removed,Male,80,None/Illiterate,1,1,,1,1,1,8.92,39.04,03082021,1,15,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1589,OROMIIA,EAST  SHOA,ADEA,KETEBA,GIMBI,Removed,Male,45,None/Illiterate,1,1,,1,1,1,8.92,39.04,07082021,1,15,1,Removed,Removed,0,0,0, ,,1,5,3,1,0,1,0,,,,1, ,1, ,1, ,5
+1590,OROMIIA,EAST  SHOA,ADEA,KETEBA,Wadenedaw,Removed,Male,42,Adult education or 1 year of education,1,1,,1,1,1,8.88,39.04,02082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1591,OROMIIA,EAST  SHOA,ADEA,KETEBA,Lugo,Removed,Male,45,Adult education or 1 year of education,1,1,,1,1,1,8.92,39.04,03082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,0,2,,2,0,,,,1, ,1, ,1, ,4
+1593,OROMIIA,EAST  SHOA,ADEA,KETEBA,Sire Gudo,Removed,Male,43,16,1,1,,1,1,1,8.89,39.05,26072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,1,1,1,0,,,,1, ,1, ,1, ,2
+1611,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Taba Geba,Removed,Male,60,None/Illiterate,1,1,,1,1,1,8.69,39.14,14072021,1,14,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1612,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Gicha Sera,Removed,Male,64,None/Illiterate,1,1,,1,1,1,8.67,39.13,13072021,1,1,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1614,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Kenesa,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,8.67,39.13,15072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,2,0,2,,0,,,,1, ,1, ,1, ,4
+1615,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Jirme,Removed,Male,64,None/Illiterate,1,1,,1,1,1,8.67,39.13,14072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1616,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,DEGAGINA,Removed,Male,65,4,1,1,,1,1,1,8.67,39.13,15072021,1,14,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,4,1,4,0,,,,1, ,1, ,1, ,3
+1620,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Lega Mojo,Removed,Male,41,4,1,1,,1,1,1,8.67,39.13,14072021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,3,1,1,0,0,2,0,2,0,1, ,1, ,1, ,3
+1622,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,DEGAGA,Removed,Male,43,9,1,1,,1,1,1,8.68,39.13,14072021,1,15,1,Removed,Removed,Removed,Removed,0, ,,1,4,1,0,0,,0,,,,1, ,1, ,1, ,4
+1623,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Goro Gugsa,Removed,Male,62,Adult education or 1 year of education,1,1,,1,1,1,8.67,39.13,15072021,1,16,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1624,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Kacha,Removed,Male,38,2,1,1,,1,1,1,8.67,39.13,14072021,1,16,1,Removed,Removed,Removed,Removed,0, ,,1,3,2,1,1,1,0,,,,1, ,1, ,1, ,3
+1626,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Kubsa,Removed,Female,62,None/Illiterate,1,1,,1,1,1,8.68,39.12,14072021,1,15,2, ,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,1, ,, ,1, ,2
+1627,OROMIIA,JIMMA,DEDO,SITO,LITU,Removed,Male,51,None/Illiterate,1,1,,1,1,1,7.30,36.52,31072021,1,13,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+1628,OROMIIA,JIMMA,DEDO,SITO,Choma,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.42,36.52,29072021,1,13,1,Removed,Removed,0,0,0, ,,1,4,0,2,,2,0,,,,1, ,2, ,2, ,4
+1629,OROMIIA,JIMMA,DEDO,SITO,Beto,Removed,Male,46,4,1,1,,1,1,1,7.41,36.86,30072021,1,13,1,Removed,Removed,41,0,0, ,,1,3,1,1,1,1,0,,,,1, ,2, ,2, ,3
+1630,OROMIIA,JIMMA,DEDO,SITO,Meko Sito,Removed,Male,55,4,1,1,,1,1,1,7.38,36.86,02082021,1,13,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+1631,OROMIIA,JIMMA,DEDO,SITO,MEKO,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.30,37.53,29072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,1,0,1,,0,,,,1, ,2, ,2, ,4
+1632,OROMIIA,JIMMA,DEDO,SITO,BALTO,Removed,Male,52,None/Illiterate,1,1,,1,1,1,7.29,36.51,01082021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+1633,OROMIIA,JIMMA,DEDO,SITO,Holon Kilo,Removed,Male,65,3,1,1,,1,1,1,7.41,36.85,01082021,1,13,1,Removed,Removed,42,Removed,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+1634,OROMIIA,JIMMA,DEDO,SITO,Yebo,Removed,Male,50,8,1,1,,1,1,1,7.41,36.86,29072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+1636,OROMIIA,JIMMA,DEDO,SITO,Balto,Removed,Male,55,3,1,1,,1,1,1,7.30,36.52,02082021,1,13,1,Removed,Removed,0,0,0, ,,1,2,0,1,,1,0,,,,1, ,2, ,2, ,2
+1638,OROMIIA,JIMMA,DEDO,SITO,Hundg Gari,Removed,Male,75,4,1,1,,1,1,1,7.41,36.86,29072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,1,1,0,0,1, ,2, ,2, ,5
+1639,OROMIIA,JIMMA,DEDO,SITO,Balto,Removed,Male,63,7,1,1,,1,1,1,7.30,36.52,31072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,1,4,2,0,2,,0,,,,1, ,2, ,2, ,4
+1640,OROMIIA,JIMMA,DEDO,SITO,ATSEDI,Removed,Male,65,None/Illiterate,1,1,,1,1,1,7.29,36.52,01082021,1,13,1,Removed,Removed,0,0,0, ,,1,4,0,1,,1,0,,,,1, ,2, ,2, ,4
+1641,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Abayi,Removed,Male,45,None/Illiterate,1,1,,1,1,1,9.28,38.57,02082021,1,14,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,0,0,,,,1, ,1, ,1, ,3
+1642,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Gowa,Removed,Male,65,None/Illiterate,1,1,,1,1,1,9.28,38.57,03082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,0,1,,1,0,,,,1, ,1, ,1, ,2
+1643,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Guwa,Removed,Male,54,None/Illiterate,1,1,,1,1,1,9.28,38.57,30072021,1,14,1,Removed,Removed,0,0,0, ,,1,5,2,1,1,1,0,,,,1, ,1, ,1, ,5
+1644,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Goha,Removed,Male,45,None/Illiterate,1,1,,1,1,1,9.28,38.57,03082021,1,14,1,Removed,Removed,0,0,0, ,,1,4,0,1,,1,0,,,,1, ,1, ,1, ,4
+1645,OROMIIA,FINFINE ZURIA,MULO,MULO KERSA,Abayi,Removed,Male,53,Adult education or 1 year of education,1,1,,1,1,1,9.29,38.57,03082021,1,14,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,1, ,1, ,1, ,3
+1647,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,MEDERO,Removed,Female,50,None/Illiterate,1,1,,1,1,1,9.28,38.57,08082021,1,14,2, ,Removed,Removed,0,0, ,,1,2,1,2,1,2,0,,,,1, ,, ,1, ,2
+1648,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Bedecho 2,Removed,Male,40,None/Illiterate,1,1,,1,1,1,9.29,38.58,14082021,1,14,2, ,Removed,Removed,0,0, ,,1,3,4,0,2,,0,,,,1, ,, ,1, ,3
+1649,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Bedicho 2nd,Removed,Male,55,None/Illiterate,1,1,,1,1,1,9.28,38.57,29072021,1,14,1,Removed,Removed,0,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+1651,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Medero,Removed,Male,36,4,1,1,,1,1,1,9.29,38.58,07082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,2,2,1,1,0,,,,1, ,1, ,99, ,2
+1652,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,Badecho Tokofa,Removed,Male,72,4,1,1,,1,1,1,9.29,38.57,28072021,1,14,1,Removed,Removed,0,0,0, ,,1,2,1,0,1,,0,,,,1, ,1, ,1, ,2
+1675,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,Dagi Bete,Removed,Male,44,Adult education or 1 year of education,1,1,,1,1,1,8.66,37.93,20072021,1,13,1,Removed,Removed,0,0,0, ,,1,2,2,1,1,1,0,,,,1, ,1, ,1, ,2
+1676,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,GORO ADAMI,Removed,Male,62,None/Illiterate,1,1,,1,1,1,8.66,38.94,27072021,1,13,1,Removed,Removed,0,0,0, ,,1,2,1,2,1,1,0,,,,1, ,1, ,1, ,2
+1681,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,BURKA BADISA,Removed,Male,58,None/Illiterate,1,1,,1,1,1,9.81,38.41,21082021,1,16,1,Removed,Removed,58,Removed,0, ,,1,2,1,2,1,1,0,,,,1, ,1, ,1, ,2
+1683,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,Welensu,Removed,Male,48,5,1,1,,1,1,1,9.82,38.41,20082021,1,16,1,Removed,Removed,0,0,0, ,,1,2,2,1,1,1,0,,,,1, ,1, ,1, ,2
+1688,OROMIIA,EAST  SHOA,ADEA,GOLBO,Golbo Lema,Removed,Male,47,Adult education or 1 year of education,1,1,,1,1,1,8.62,38.94,13082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,0,3,,0,1,0,1,0,1, ,1, ,1, ,4
+1689,OROMIIA,EAST  SHOA,ADEA,GOLBO,Kogna2,Removed,Male,40,3,1,1,,1,1,1,8.62,38.94,14082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,0,1,0,,,,1, ,1, ,1, ,3
+1690,OROMIIA,EAST  SHOA,ADEA,GOLBO,Golbo 2,Removed,Male,38,4,1,1,,1,1,1,8.62,38.94,13082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,2,2,0,1,,0,,,,1, ,1, ,1, ,2
+1692,OROMIIA,EAST  SHOA,ADEA,GOLBO,Kenteri 1ffa,Removed,Male,46,2,1,1,,1,1,1,8.62,38.94,14082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,1,4,1,1,1,0,1,0,1, ,1, ,1, ,4
+1693,OROMIIA,EAST  SHOA,ADEA,GOLBO,Cholo,Removed,Female,55,None/Illiterate,1,1,,1,1,1,8.62,38.94,12082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1709,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Kata,Removed,Male,43,None/Illiterate,1,1,,1,1,1,9.28,38.58,06082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,2,0,,,,1, ,1, ,1, ,2
+1710,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Tede,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,9.28,38.58,05082021,1,14,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+1711,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Keta,Removed,Male,40,None/Illiterate,1,1,,1,1,1,9.29,38.58,15082021,1,14,1,Removed,Removed,0,0,0, ,,1,4,2,3,2,2,0,,,,1, ,1, ,1, ,4
+1712,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Tede,Removed,Male,35,None/Illiterate,1,1,,1,1,1,9.28,38.58,05082021,1,14,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,2,0,,,,1, ,1, ,1, ,2
+1713,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,Chiko,Removed,Female,56,None/Illiterate,1,1,,1,1,1,9.28,38.58,10082021,1,14,2, ,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,, ,1, ,3
+1714,OROMIIA,FINFINE ZURIA,MULO,MULO TITA,KELO JABI,Removed,Male,70,None/Illiterate,1,1,,1,1,1,9.28,38.63,05082021,1,14,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,0,,,,1, ,1, ,1, ,3
+1715,OROMIIA,EAST  SHOA,ADEA,GOLBO,KENTERI,Removed,Male,47,2,1,1,,1,1,1,8.62,38.94,10082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,1,1,0,,,,1, ,1, ,1, ,3
+1716,OROMIIA,EAST  SHOA,ADEA,GOLBO,Hate,Removed,Male,66,4,1,1,,1,1,1,8.62,38.94,15082021,1,15,1,Removed,Removed,0,0,0, ,,1,6,1,2,1,1,0,,,,1, ,1, ,1, ,6
+1719,OROMIIA,EAST  SHOA,ADEA,GOLBO,Golebo 2,Removed,Male,45,4,1,1,,1,1,1,8.62,38.94,13082021,1,15,1,Removed,Removed,Removed,Removed,0, ,,1,7,0,1,,0,0,,,,1, ,1, ,1, ,7
+1721,OROMIIA,EAST  SHOA,ADEA,GOLBO,Aate,Removed,Male,45,None/Illiterate,1,1,,1,1,1,8.62,38.94,15082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,3,5,2,1,1,0,,,,1, ,1, ,1, ,3
+1722,OROMIIA,EAST  SHOA,ADEA,GOLBO,Golba Lema,Removed,Male,43,None/Illiterate,1,1,,1,1,1,8.62,38.94,14082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1723,OROMIIA,EAST  SHOA,ADEA,GOLBO,Kogna,Removed,Male,57,None/Illiterate,1,1,,1,1,1,8.62,38.94,14082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,6,1,0,1,,0,,,,1, ,1, ,1, ,6
+1724,OROMIIA,EAST  SHOA,ADEA,GOLBO,KENTERI,Removed,Male,57,Adult education or 1 year of education,1,1,,1,1,1,8.62,38.94,14082021,1,15,1,Removed,Removed,922,0,0, ,,1,5,0,3,,2,0,,,,1, ,1, ,1, ,5
+1725,OROMIIA,EAST  SHOA,ADEA,GOLBO,Golbo,Removed,Male,40,5,1,1,,1,1,1,8.62,38.94,12082021,1,15,1,Removed,Removed,Removed,0,0, ,,1,2,2,0,0,,0,,,,1, ,1, ,1, ,2
+1726,OROMIIA,EAST  SHOA,ADEA,GOLBO,KOGNA,Removed,Male,56,None/Illiterate,1,1,,1,1,1,8.62,38.94,13082021,1,15,1,Removed,Removed,0,0,0, ,,1,6,2,1,2,1,0,,,,1, ,1, ,1, ,6
+1802,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Birka,Removed,Male,34,8,1,1,,1,1,1,8.23,38.83,31072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,5,2,2,1,0,0,,,,1, ,1, ,1, ,5
+1803,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Welda,Removed,Female,52,None/Illiterate,1,1,,1,1,1,8.23,38.83,24072021,1,11,2, ,Removed,Removed,0,0, ,,1,1,0,1,,0,0,,,,1, ,, ,1, ,1
+1805,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,WELDO,Removed,Male,35,None/Illiterate,1,1,,1,1,1,8.23,38.83,25072021,1,15,1,Removed,Removed,0,0,0, ,,1,2,1,3,0,1,0,,,,1, ,1, ,1, ,2
+1806,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,KOCHA,Removed,Female,52,None/Illiterate,1,1,,1,1,1,8.23,38.83,31072021,1,11,2, ,Removed,Removed,0,0, ,,1,5,0,0,,,1,1,0,0,1, ,, ,1, ,5
+1807,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Afa Rasa,Removed,Male,39,4,1,1,,1,1,1,8.23,38.83,28072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,5,4,0,1,,0,,,,1, ,1, ,1, ,5
+1808,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Kocha,Removed,Female,65,None/Illiterate,1,1,,1,1,1,8.23,38.83,24072021,1,15,2, ,Removed,Removed,Removed,0, ,,1,3,2,1,0,0,0,,,,1, ,, ,1, ,3
+1809,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Gudeta Abe,Removed,Male,66,None/Illiterate,1,1,,1,1,1,8.23,38.83,28072021,1,15,1,Removed,Removed,0,0,0, ,,1,2,2,2,2,1,0,,,,1, ,1, ,1, ,2
+1810,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,KOCHA,Removed,Male,70,None/Illiterate,1,1,,1,1,1,8.23,38.83,25072021,1,15,1,Removed,Removed,0,Removed,0, ,,1,4,1,1,0,0,0,,,,1, ,1, ,3,-99,4
+1811,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Hafa,Removed,Male,70,None/Illiterate,1,1,,1,1,1,8.23,38.83,25072021,1,15,1,Removed,Removed,0,0,0, ,,1,4,1,1,0,0,0,,,,1, ,1, ,1, ,4
+1812,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Lemfa,Removed,Male,48,None/Illiterate,1,1,,1,1,1,8.23,38.83,28072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,5,2,3,2,0,0,,,,1, ,1, ,1, ,5
+1813,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Welda Kocha,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,8.23,38.83,31072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,3,3,0,0,,0,,,,1, ,1, ,1, ,3
+1814,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,ZONI 2,Removed,Male,42,2,1,1,,1,1,1,8.23,38.83,28072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,1,1,0,1,0,1, ,1, ,1, ,3
+1815,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,WELDA CHALEKA,Removed,Male,63,None/Illiterate,1,1,,1,1,1,8.23,38.83,25072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+1816,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,HAFA,Removed,Male,62,None/Illiterate,1,1,,1,1,1,8.23,38.83,31072021,1,11,1,Removed,Removed,0,0,0, ,,1,3,1,0,0,,0,,,,1, ,1, ,1, ,3
+1817,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Kocha,Removed,Female,50,None/Illiterate,1,1,,1,1,1,8.23,38.83,24072021,1,15,2, ,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,1, ,, ,1, ,4
+1818,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,Tokufa,Removed,Male,50,8,1,1,,1,1,1,8.23,38.83,25072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,1,0,1,0,1,0,1, ,1, ,1, ,4
+1819,OROMIIA,EAST  SHOA,DUGDA,WELDA HAFA,1 Tokkofa,Removed,Male,63,2,1,1,,1,1,1,8.23,38.83,31072021,1,11,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,1,0,1,0,1, ,1, ,1, ,2
+1820,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Hachara,Removed,Male,38,4,1,1,,1,1,1,8.13,38.62,23072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,2,2,3,1,1,0,,,,1, ,1, ,1, ,2
+1822,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,LEMATI,Removed,Male,42,None/Illiterate,1,1,,1,1,1,8.13,38.62,23072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,2,4,2,2,1,1,0,1,0,1, ,1, ,1, ,2
+1823,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Jida Kure,Removed,Female,55,None/Illiterate,1,1,,1,1,1,8.13,38.62,24072021,1,11,2, ,Removed,Removed,0,0, ,,1,1,0,1,,0,1,1,0,0,3, ,, ,1, ,1
+1826,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Hibret Kure,Removed,Female,36,None/Illiterate,1,1,,1,1,1,8.13,38.63,21072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,2,3,2,1,0,0,,,,1, ,1, ,1, ,2
+1827,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,HARO WORKU,Removed,Male,48,3,1,1,,1,1,1,8.13,38.63,21072021,1,12,1,Removed,Removed,Removed,0,0, ,,1,3,1,2,0,1,0,,,,1, ,1, ,1, ,3
+1830,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Haro Aba Worku,Removed,Male,55,3,1,1,,1,1,1,8.13,38.62,21072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,1,3,0,3,0,1, ,1, ,1, ,3
+1831,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,HRO JEDA,Removed,Male,62,Adult education or 1 year of education,1,1,,1,1,1,8.13,38.62,24072021,1,11,2, ,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,1, ,, ,1, ,2
+1834,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,KARE,Removed,Male,70,Adult education or 1 year of education,1,1,,1,1,1,8.13,38.62,21072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,7,1,1,1,1,4,3,1,0,1, ,1, ,1, ,7
+1835,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD, ,Removed,Male,45,3,1,1,,1,1,1,8.13,38.62,23072021,1,15,1,Removed,Removed,0,0,0, ,,1,4,2,3,0,0,1,0,1,0,1, ,1, ,1, ,4
+1836,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Haro Aba Worku,Removed,Male,56,6,1,1,,1,1,1,8.13,38.62,23072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,3,2,0,1,,3,1,2,0,1, ,1, ,1, ,3
+1837,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Herotodo/Jeda/,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,8.13,38.62,23072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,6,3,2,3,2,0,,,,1, ,1, ,1, ,6
+1838,OROMIIA,EAST  SHOA,ADEA,Ude Denkakia, ,Removed,Male,70,None/Illiterate,1,1,,1,1,1,8.67,39.04,07082021,1,11,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+1839,OROMIIA,EAST  SHOA,ADEA,Ude Denkakia,UDA,Removed,Male,37,12,1,1,,1,1,1,8.68,39.04,08082021,1,11,1,Removed,Removed,Removed,0,0, ,,1,3,2,0,1,,0,,,,1, ,1, ,1, ,3
+1840,OROMIIA,EAST  SHOA,ADEA,Ude Denkakia,Asefalte Jetu,Removed,Male,45,12,1,1,,1,1,1,8.67,39.04,07082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,5,1,1,1,0,0,,,,1, ,1, ,1, ,5
+1841,OROMIIA,EAST  SHOA,ADEA,Ude Denkakia,Ude,Removed,Male,75,None/Illiterate,1,1,,1,1,1,8.67,39.04,09082021,1,11,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+1842,OROMIIA,EAST  SHOA,ADEA,Ude Denkakia,Ude,Removed,Male,47,17,1,1,,1,1,1,8.67,39.04,08082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,6,0,3,,3,1,0,1,0,1, ,1, ,1, ,6
+1847,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kalele,Removed,Male,50,9,1,1,,1,1,1,7.86,38.59,16072021,1,15,1,Removed,Removed,Removed,0,0, ,,1,4,4,2,2,2,0,,,,1, ,2, ,2, ,4
+1849,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Hachera,Removed,Male,26,10,1,1,,1,1,1,7.86,38.59,16072021,1,15,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,1,1,0,0,,,,1, ,2, ,2, ,2
+1852,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kalelia,Removed,Male,48,5,1,1,,1,1,1,7.86,38.59,18072021,1,11,1,Removed,Removed,Removed,Removed,0, ,,1,4,1,5,0,3,1,0,1,0,1, ,2, ,2, ,4
+1855,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kalele,Removed,Male,36,4,1,1,,1,1,1,7.86,38.59,16072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,1,0,,,,1, ,2, ,2, ,2
+1857,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kelele,Removed,Male,38,4,1,1,,1,1,1,7.86,38.59,18072021,1,15,1,Removed,Removed,0,0,0, ,,1,4,0,5,,3,0,,,,1, ,2, ,2, ,4
+1858,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kalele Mirga,Removed,Male,39,3,1,1,,1,1,1,7.86,38.59,16072021,1,15,1,Removed,Removed,0,0,0, ,,1,4,2,2,1,0,0,,,,1, ,2, ,2, ,4
+1859,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kuwba Genet,Removed,Male,45,6,1,1,,1,1,1,7.86,38.59,16072021,1,11,1,Removed,Removed,Removed,0,0, ,,1,3,2,3,1,3,1,0,1,0,1, ,2, ,2, ,3
+3001,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,GORO MISOMA,Removed,Male,54,3,1,1,,2,1,1,8.67,39.13,15072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,0,3,1,0,1,,0,,,,1, ,1, ,1, ,3
+3002,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,LEGE MOJO,Removed,Male,41,3,1,1,,2,1,1,8.67,39.13,14072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,0,3,2,0,1,,0,,,,1, ,1, ,1, ,3
+3003,OROMIIA,EAST  SHOA,LOMME,JIRMI ENSILALE,Kosoro,Removed,Female,45,None/Illiterate,1,1,,2,1,1,8.67,39.13,14072021,1,11,2, ,Removed,Removed,Removed,0, ,,0,2,1,1,0,0,0,,,,1, ,, ,1, ,2
+3004,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kulba bela,Removed,Male,64,4,1,1,,2,1,1,7.86,38.59,18072021,1,11,1,Removed,Removed,0,0,0, ,,0,4,1,0,1,,0,,,,1, ,2, ,2, ,4
+3005,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,kuliba,Removed,Male,52,2,1,1,,2,1,1,7.86,38.59,19072021,1,11,1,Removed,Removed,Removed,Removed,0, ,,0,2,0,1,,0,0,,,,1, ,2, ,2, ,2
+3006,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Goda Mirga,Removed,Male,40,7,1,1,,2,1,1,7.86,38.59,19072021,1,11,1,Removed,Removed,0,0,0, ,,0,5,4,1,3,0,0,,,,1, ,2, ,2, ,5
+3007,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kalale,Removed,Male,37,7,1,1,,2,1,1,7.86,38.59,17072021,1,15,1,Removed,Removed,Removed,0,0, ,,0,2,2,0,1,,0,,,,1, ,2, ,2, ,2
+3008,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Manareya,Removed,Male,25,8,1,1,,2,1,1,7.86,38.59,17072021,1,15,1,Removed,Removed,Removed,0,0, ,,0,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+3009,OROMIIA,EAST  SHOA,ADAMI TULU JIDO KOMB,SURO KUDUSA,Kalela,Removed,Male,50,5,1,1,,2,1,1,7.86,38.59,18072021,1,15,1,Removed,Removed,Removed,0,0, ,,0,7,0,0,,,1,1,0,0,1, ,2, ,2, ,7
+3010,OROMIIA,NORTH SHOA,WUCHALE,KASO ABO,QALLA,Removed,Male,55,Adult education or 1 year of education,1,1,,2,1,1,9.55,38.78,20072021,1,14,1,Removed,Removed,Removed,Removed,0, ,,0,5,2,2,1,0,0,,,,1, ,1, ,1, ,5
+3011,OROMIIA,NORTH SHOA,WUCHALE,USEMANI,KURIS,Removed,Male,46,None/Illiterate,1,1,,2,1,1,9.73,39.05,27072021,1,14,1,Removed,Removed,Removed,0,0, ,,0,2,1,1,1,1,0,,,,1, ,1, ,1, ,2
+3012,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,Liltu Dalati,Removed,Male,52,None/Illiterate,1,1,,2,1,1,8.67,37.95,20072021,1,13,1,Removed,Removed,Removed,Removed,0, ,,0,2,2,1,0,0,0,,,,1, ,1, ,1, ,2
+3013,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,WELENSU,Removed,Male,51,None/Illiterate,1,1,,2,1,1,8.67,37.95,20072021,1,13,1,Removed,Removed,0,0,0, ,,0,3,0,1,,1,0,,,,1, ,1, ,1, ,3
+3014,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,Ebino,Removed,Male,38,Adult education or 1 year of education,1,1,,2,1,1,9.82,38.41,25072021,1,16,1,Removed,Removed,0,0,0, ,,0,2,2,2,1,1,0,,,,1, ,1, ,1, ,2
+3015,OROMIIA,NORTH SHOA,KUYU,HARIRO DERSO,KAlaye,Removed,Male,37,5,1,1,,2,1,1,9.82,38.41,25072021,1,16,1,Removed,Removed,0,0,0, ,,0,2,3,2,2,1,0,,,,1, ,1, ,1, ,2
+3016,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,Gare Kiltu,Removed,Male,42,3,1,1,,2,1,1,8.13,38.62,21072021,1,15,1,Removed,Removed,Removed,Removed,0, ,,0,2,3,2,3,2,0,,,,1, ,1, ,1, ,2
+3017,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,ODA NABE,Removed,Male,42,8,1,1,,2,1,1,8.13,38.63,21072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,0,5,0,3,,2,0,,,,1, ,1, ,1, ,5
+3018,OROMIIA,EAST  SHOA,DUGDA,BILITI  BALEWOLD,BILITI,Removed,Male,59,3,1,1,,2,1,1,8.13,38.63,20072021,1,12,1,Removed,Removed,Removed,Removed,0, ,,0,9,0,0,,,0,,,,2, ,1, ,1, ,9
+3019,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Boneya Jitu,Removed,Male,49,2,1,1,,2,1,1,8.88,39.14,09082021,1,15,1,Removed,Removed,Removed,0,0, ,,0,4,2,0,1,,1,1,0,0,1, ,1, ,1, ,4
+3020,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,Bola,Removed,Male,40,10,1,1,,2,1,1,8.88,39.14,11082021,1,15,1,Removed,Removed,Removed,0,0, ,,0,4,0,0,,,0,,,,1, ,1, ,1, ,4
+3021,OROMIIA,EAST  SHOA,ADEA,TULU DIMTU,HARO BALO,Removed,Male,55,None/Illiterate,1,1,,2,1,1,8.88,39.14,06082021,1,11,1,Removed,Removed,0,0,0, ,,0,3,1,0,1,,1,1,0,0,1, ,1, ,1, ,3
+3022,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Haro Robi,Removed,Male,55,5,1,1,,2,1,1,8.60,38.92,01082021,1,15,1,Removed,Removed,Removed,0,0, ,,0,6,1,1,1,1,0,,,,1, ,1, ,1, ,6
+3023,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Safara,Removed,Male,40,Adult education or 1 year of education,1,1,,2,1,1,8.66,38.92,01082021,1,15,1,Removed,Removed,Removed,0,0, ,,0,2,2,1,2,0,1,0,1,0,1, ,1, ,1, ,2
+3024,OROMIIA,EAST  SHOA,ADEA,GICHE GERBABO,Safara,Removed,Male,60,None/Illiterate,1,1,,2,1,1,8.60,38.94,01082021,1,15,1,Removed,Removed,0,0,0, ,,0,2,0,2,,1,0,,,,1, ,1, ,1, ,2
+3025,OROMIIA,EAST  SHOA,ADEA,KETEBA,ADERE,Removed,Male,63,None/Illiterate,1,1,,2,1,1,8.89,39.05,26072021,1,12,1,Removed,Removed,Removed,0,0, ,,0,5,0,1,,0,0,,,,1, ,1, ,1, ,5
+3026,OROMIIA,SOUTH WEST SHOA,WONCHI,DA'E WANDIMTU,GAGURE,Removed,Male,49,6,1,1,,2,1,1,8.66,37.69,23072021,1,13,1,Removed,Removed,0,0,0, ,,0,6,1,1,1,1,1,0,1,0,1, ,1, ,1, ,6
+3030,OROMIIA,FINFINE ZURIA,MULO,MULO SULO,BADECHO,Removed,Male,32,10,1,1,,2,1,1,9.29,38.58,10082021,1,1,1,Removed,Removed,0,0,0, ,,0,2,1,1,1,0,0,,,,1, ,1, ,1, ,2
+3031,OROMIIA,EAST  SHOA,ADEA,GOLBO,Safara,Removed,Male,34,9,1,1,,2,1,1,8.62,38.94,15082021,1,15,1,Removed,Removed,Removed,0,0, ,,0,2,1,3,0,0,0,,,,1, ,1, ,1, ,2
+3032,OROMIIA,EAST  SHOA,ADEA,GOLBO,Safara,Removed,Male,32,None/Illiterate,1,1,,2,1,1,8.62,38.94,15082021,1,15,1,Removed,Removed,Removed,0,0, ,,0,2,3,0,0,,0,,,,1, ,1, ,1, ,2
+3033,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,Jaldu,Removed,Male,44,5,1,1,,2,1,1,9.35,38.41,11082021,1,11,1,Removed,Removed,Removed,Removed,0, ,,0,5,0,2,,0,0,,,,1, ,1, ,1, ,5
+3034,OROMIIA,WEST SHOA,ADEA BERGA,HARO SHOBORE,BILO LAFO,Removed,Male,54,None/Illiterate,1,1,,2,1,1,9.35,38.41,12082021,1,11,1,Removed,Removed,Removed,0,0, ,,0,2,1,0,0,,0,,,,1, ,1, ,1, ,2
+3035,OROMIIA,JIMMA,DEDO,DABALE,GONFA,Removed,Male,35,4,1,1,,2,1,1,7.41,36.85,16082021,1,13,1,Removed,Removed,Removed,Removed,0, ,,0,2,2,2,2,1,0,,,,1, ,2, ,2, ,2
+3036,OROMIIA,WEST SHOA,ADEA BERGA,BISHAN DEMO,MAYBASE,Removed,Male,45,8,1,1,,2,1,1,9.20,38.22,18082021,1,16,1,Removed,Removed,0,0,0, ,,0,4,0,0,,,0,,,,1, ,1, ,1, ,4
+3037,OROMIIA,JIMMA,DEDO,GERIMA GUDA,MINTOSA,Removed,Male,55,None/Illiterate,1,1,,2,1,1,7.28,36.52,10082021,1,16,1,Removed,Removed,0,0,0, ,,0,4,1,0,1,,0,,,,1, ,2, ,2, ,4
+3038,OROMIIA,JIMMA,DEDO,GERIMA GUDA,Guda,Removed,Male,35,5,1,1,,2,1,1,7.28,36.52,10082021,1,16,1,Removed,Removed,0,0,0, ,,0,2,3,2,1,1,0,,,,1, ,2, ,2, ,2
+3039,OROMIIA,JIMMA,DEDO,GERIMA GUDA,MISLANE,Removed,Female,48,None/Illiterate,1,1,,2,1,1,7.27,36.52,11082021,1,16,2, ,Removed,Removed,0,0, ,,0,1,1,0,1,,0,,,,1, ,, ,2, ,1
+3040,OROMIIA,JIMMA,DEDO,GERIMA GUDA,GENEMO,Removed,Male,45,6,1,1,,2,1,1,7.28,36.52,13082021,1,16,1,Removed,Removed,0,0,0, ,,0,3,2,2,1,1,0,,,,1, ,2, ,2, ,3
+3041,OROMIIA,JIMMA,DEDO,GERIMA GUDA,KUDA 2,Removed,Male,55,3,1,1,,2,1,1,7.26,36.52,21082021,1,16,1,Removed,Removed,0,0,0, ,,0,2,0,1,,0,0,,,,1, ,2, ,2, ,2
+3042,OROMIIA,JIMMA,DEDO,BILU HARSO,ALAKA,Removed,Male,40,6,1,1,,2,1,1,7.27,37.03,17082021,1,16,1,Removed,Removed,0,0,0, ,,0,2,3,2,2,2,0,,,,1, ,2, ,2, ,2
+3043,OROMIIA,JIMMA,DEDO,BILU HARSO,KELLA,Removed,Male,45,5,1,1,,2,1,1,7.28,37.05,22082021,1,16,1,Removed,Removed,0,0,0, ,,0,3,2,1,2,0,0,,,,1, ,2, ,2, ,3
+32,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Berkume,Removed,Male,42,7,1,1,,1,1,1,7.58,39.41,24072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,3,3,1,1,0,,,,1, ,2, ,2, ,3
+33,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Gusurie Tokolfa,Removed,Male,40,None/Illiterate,1,1,,1,1,1,7.57,39.40,30072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,3,0,2,,2,0,,,,1, ,2, ,2, ,3
+34,OROMIIA,ARSI,SHIRKA,TEJO LEBU,DENKOLE HARA,Removed,Male,40,4,1,1,,1,1,1,7.58,39.41,27072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,3,4,1,1,0,,,,1, ,2, ,2, ,3
+35,OROMIIA,ARSI,SHIRKA,TEJO LEBU,WADANDAWU,Removed,Male,42,7,1,1,,1,1,1,7.58,39.41,23072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,6,2,1,1,1,0,,,,1, ,2, ,2, ,6
+36,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Dkabora,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.58,39.39,30072021,2,26,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+37,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Korboda,Removed,Male,59,None/Illiterate,1,1,,1,1,1,7.58,39.43,27072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,0,,,,2, ,1, ,1, ,3
+38,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Goba,Removed,Male,38,9,1,1,,1,1,1,7.58,39.41,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,6,3,0,3,,0,,,,1, ,1, ,1, ,6
+39,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Gado Hara,Removed,Male,50,5,1,1,,1,1,1,7.58,39.43,29072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+40,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Kerboda,Removed,Male,45,9,1,1,,1,1,1,7.58,39.43,27072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,3,1,2,0,0,,,,2, ,1, ,1, ,4
+41,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Oba Eressa,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,7.58,39.40,25072021,2,25,1,Removed,Removed,0,0,0, ,,1,6,0,0,,,0,,,,1, ,2, ,2, ,6
+42,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Gasore 2,Removed,Female,60,None/Illiterate,1,1,,1,1,1,7.58,39.39,30072021,2,26,2, ,Removed,Removed,0,0, ,,1,1,1,0,0,,0,,,,1, ,, ,1, ,1
+43,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Welara,Removed,Male,48,5,1,1,,1,1,1,7.58,39.41,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,5,2,1,2,0,0,,,,1, ,1, ,1, ,5
+44,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Komoblcha,Removed,Female,35,None/Illiterate,1,1,,1,1,1,7.57,39.41,25072021,2,25,2, ,Removed,Removed,0,0, ,,1,4,1,1,1,0,0,,,,1, ,, ,2, ,4
+45,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Gasore,Removed,Male,40,Adult education or 1 year of education,1,1,,1,1,1,7.58,39.43,28072021,2,24,1,Removed,Removed,0,0,0, ,,1,2,2,2,1,1,0,,,,1, ,1, ,1, ,2
+46,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Burkitu Tokoffa,Removed,Male,60,3,1,1,,1,1,1,7.58,39.41,24072021,2,21,1,Removed, ,0,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,3,Divorced,2
+47,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Burkitu Lemefa,Removed,Male,35,5,1,1,,1,1,1,7.59,39.60,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,1, ,1, ,1, ,3
+48,OROMIIA,ARSI,SHIRKA,TEJO LEBU,Goshitu,Removed,Female,48,None/Illiterate,1,1,,1,1,1,7.58,39.40,25072021,2,25,2, ,Removed,Removed,0,1,Removed,0,1,3,1,0,0,,0,,,,1, ,, ,2, ,3
+49,OROMIIA,ARSI,SHIRKA,TEJO LEBU,WALA ARA,Removed,Male,52,6,1,1,,1,1,1,7.58,39.41,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,5,1,1,1,1,0,,,,1, ,1, ,1, ,5
+68,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Fajefaje Hunsa,Removed,Male,35,3,1,1,,1,1,1,7.98,39.81,18072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+69,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Hurssa,Removed,Male,45,2,1,1,,1,1,1,7.98,39.81,18072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,1, ,2, ,2, ,3
+70,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Biyo/Daka,Removed,Male,65,None/Illiterate,1,1,,1,1,1,7.98,39.82,20072021,2,26,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+75,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Mume,Removed,Male,35,9,1,1,,1,1,1,7.98,39.81,19072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,1, ,2, ,2, ,2
+76,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Mirti,Removed,Male,24,6,1,1,,1,1,1,8.00,39.83,18072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+77,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Mume,Removed,Male,37,None/Illiterate,1,1,,1,1,1,7.98,39.81,18072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,0,1,,1,0,,,,1, ,2, ,2, ,4
+78,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Gerbi,Removed,Male,36,2,1,1,,1,1,1,7.98,39.81,18072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,1,0,,,,1, ,2, ,2, ,3
+79,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Mume,Removed,Male,36,5,1,1,,1,1,1,7.98,39.81,18072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,1,0,,,,1, ,2, ,2, ,3
+80,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Molot,Removed,Male,40,6,1,1,,1,1,1,7.98,39.82,19072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,4,1,5,0,3,0,,,,1, ,2, ,2, ,4
+81,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Moloto,Removed,Female,33,None/Illiterate,1,1,,1,1,1,7.98,39.82,18072021,2,24,2, ,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,1, ,, ,2, ,4
+82,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Doka,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.98,39.81,18072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,2,1,1,1,1,0,,,,1, ,, ,2, ,2
+83,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,HELOTA,Removed,Male,45,None/Illiterate,1,1,,1,1,1,8.00,39.83,18072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,3,0,3,,0,,,,1, ,2, ,2, ,3
+84,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Goba,Removed,Male,40,None/Illiterate,1,1,,1,1,1,7.98,39.82,19072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,3,4,5,3,4,0,,,,1, ,2, ,2, ,3
+85,OROMIIA,ARSI,SUDE,SEMAR ABDOYE,Goba,Removed,Male,40,7,1,1,,1,1,1,7.98,39.82,20072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,0,5,,2,0,,,,1, ,2, ,2, ,2
+86,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Koma wetcho,Removed,Male,42,3,1,1,,1,1,1,6.97,39.51,14082021,2,23,1,Removed,Removed,0,0,0, ,,1,2,0,2,,0,0,,,,1, ,2, ,2, ,2
+87,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Honosho burikitu,Removed,Male,45,8,1,1,,1,1,1,7.00,39.46,01082021,2,23,1,Removed,Removed,0,0,0, ,,1,4,1,1,1,1,0,,,,1, ,2, ,2, ,4
+88,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Kersa,Removed,Male,65,Adult education or 1 year of education,1,1,,1,1,1,6.98,39.49,02082021,2,26,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,0,,,,1, ,2, ,2, ,3
+90,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Handode,Removed,Male,50,4,1,1,,1,1,1,6.97,39.51,09082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,6,1,3,1,0,0,,,,1, ,2, ,2, ,6
+95,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Andode Sirko,Removed,Male,55,2,1,1,,1,1,1,6.97,39.51,09082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,1,0,,,,1, ,2, ,2, ,5
+97,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Gubalessa Merato,Removed,Male,63,None/Illiterate,1,1,,1,1,1,6.98,39.50,02082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,1,2,0,,,,1, ,2, ,2, ,2
+104,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,Agega Bebo,Removed,Male,36,None/Illiterate,1,1,,1,1,1,7.46,38.68,14082021,2,26,2, ,Removed,Removed,Removed,0, ,,1,1,1,5,0,2,0,,,,1, ,, ,2, ,1
+105,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,Agega Bebo,Removed,Male,70,6,1,1,,1,1,1,7.46,38.69,14082021,2,22,1,Removed,Removed,0,0,0, ,,1,4,2,4,1,2,0,,,,1, ,2, ,2, ,4
+106,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,Gubata,Removed,Male,45,None/Illiterate,1,1,,1,1,1,7457328.00,3867737.00,15082021,2,23,1,Removed,Removed,0,0,0, ,,1,5,2,1,1,1,0,,,,1, ,2, ,2, ,5
+107,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,Rapo,Removed,Male,40,10,1,1,,1,1,1,7.46,38.68,11082021,2,23,1,Removed,Removed,Removed,0,0, ,,1,4,3,2,2,1,0,,,,1, ,2, ,2, ,4
+108,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,GUBATA EDDO,Removed,Male,74,7,1,1,,1,1,1,7.46,38.69,11082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,0,2,,0,0,,,,1, ,2, ,2, ,3
+109,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,AREDA RABO,Removed,Male,66,None/Illiterate,1,1,,1,1,1,7.46,38.68,14082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+110,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,ARJO,Removed,Male,53,5,1,1,,1,1,1,7.46,38.68,14082021,2,26,1,Removed,Removed,0,0,0, ,,1,7,2,1,2,1,0,,,,1, ,1, ,1, ,7
+111,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,RABBOO,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.46,38.68,12082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,0,4,,2,0,,,,1, ,1, ,1, ,4
+112,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,DEREKOTA,Removed,Male,60,6,1,1,,1,1,1,7.46,38.68,14082021,2,26,1,Removed,Removed,0,0,0, ,,1,3,0,2,,2,0,,,,1, ,1, ,1, ,3
+113,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,RABBO,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.46,38.68,14082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+127,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Chela,Removed,Male,48,7,1,1,,1,1,1,7.61,39.09,22072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,5,2,1,0,0,0,,,,1, ,1, ,1, ,5
+128,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Rogicha,Removed,Male,33,2,1,1,,1,1,1,7.61,39.09,22072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,0,0,0,,,,1, ,2, ,2, ,5
+130,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,orga Ketara,Removed,Male,42,2,1,1,,1,1,1,7.61,39.09,27072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+131,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Rogicha,Removed,Male,52,Adult education or 1 year of education,1,1,,1,1,1,7.61,39.09,22072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,5,3,2,0,0,0,,,,1, ,2, ,2, ,5
+132,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,GURI ROGICHA,Removed,Male,44,8,1,1,,1,1,1,7.61,39.09,23072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,6,3,1,2,0,0,,,,1, ,1, ,1, ,6
+133,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Chela,Removed,Male,35,3,1,1,,1,1,1,7.59,39.06,23072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,2,1,2,1,2,0,,,,1, ,, ,2, ,2
+134,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Chala,Removed,Male,43,5,1,1,,1,1,1,7.59,39.06,23072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,1,1,0,,,,1, ,1, ,1, ,4
+135,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Haro Gudo,Removed,Male,37,6,1,1,,1,1,1,7.60,39.08,23072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,2,4,0,2,,0,,,,1, ,1, ,1, ,2
+136,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Tulu Boba,Removed,Male,42,6,1,1,,1,1,1,7.59,39.06,23072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,2,2,3,1,2,0,1, ,2, ,2, ,2
+137,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Ketar Genet,Removed,Male,28,2,1,1,,1,1,1,7.61,39.09,27072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,3,1,1,0,0,,,,1, ,2, ,2, ,2
+138,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Boledena Welekite,Removed,Male,40,6,1,1,,1,1,1,7.61,39.09,22072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,2,3,1,2,0,0,,,,1, ,1, ,1, ,2
+139,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Rogcha,Removed,Male,45,6,1,1,,1,1,1,7.59,39.06,23072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,1,4,0,1,1,0,1,0,1, ,2, ,2, ,3
+140,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Tulu Gebashe,Removed,Male,28,10,1,1,,1,1,1,7.60,39.06,23072021,2,25,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,2,0,0,0,,,,1, ,2, ,2, ,2
+141,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,urga ketara,Removed,Male,28,Adult education or 1 year of education,1,1,,1,1,1,7.61,39.09,22072021,2,23,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,2, ,2, ,2
+143,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Rogicha,Removed,Female,36,None/Illiterate,1,1,,1,1,1,7.59,39.06,23072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,3,0,1,,1,0,,,,1, ,, ,2, ,3
+144,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Boroshe,Removed,Male,32,None/Illiterate,1,1,,1,1,1,7.61,39.09,27072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,1,3,0,0,0,,,,1, ,2, ,2, ,2
+211,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Kormi,Removed,Male,48,8,1,1,,1,1,1,7.42,38.82,09082021,2,22,1,Removed,Removed,0,Removed,0, ,,1,4,2,3,2,1,0,,,,1, ,1, ,1, ,4
+212,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Kurome,Removed,Male,43,4,1,1,,1,1,1,7.42,38.82,09082021,2,22,1,Removed,Removed,0,0,0, ,,1,2,4,1,2,1,0,,,,1, ,2, ,2, ,2
+215,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Shaldo,Removed,Male,34,6,1,1,,1,1,1,7.42,38.82,30072021,2,21,1,Removed,Removed,0,0,1,Removed,0,1,3,4,2,3,0,0,,,,1, ,2, ,2, ,3
+216,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Korome,Removed,Male,65,5,1,1,,1,1,1,7.42,38.82,10082021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,1,2,0,2,0,,,,1, ,1, ,1, ,4
+217,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Shalido,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,7.43,38.80,10082021,2,26,1,Removed,Removed,0,0,0, ,,1,2,1,7,0,4,0,,,,1, ,2, ,2, ,2
+218,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Argeda,Removed,Male,60,5,1,1,,1,1,1,7.43,38.80,10082021,2,26,1,Removed,Removed,0,0,0, ,,1,3,1,1,0,0,0,,,,1, ,1, ,1, ,3
+220,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Korome,Removed,Male,42,7,1,1,,1,1,1,7.42,38.82,10082021,2,22,1,Removed,Removed,Removed,0,0, ,,1,5,4,1,2,1,0,,,,1, ,1, ,1, ,5
+222,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Safra,Removed,Male,45,7,1,1,,1,1,1,7.43,38.79,09082021,2,26,1,Removed,Removed,0,0,0, ,,1,3,2,2,0,0,0,,,,1, ,2, ,2, ,3
+223,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,BUBE,Removed,Male,45,3,1,1,,1,1,1,7.42,38.82,09082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,0,0,0,,,,1, ,2, ,2, ,4
+224,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Kiletu 3faa,Removed,Female,50,2,1,1,,1,1,1,7.44,38.78,09082021,2,26,2, ,Removed,Removed,Removed,0, ,,1,2,0,0,,,0,,,,1, ,, ,2, ,2
+225,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Maracha,Removed,Female,60,None/Illiterate,1,1,,1,1,1,7.42,38.82,15082021,2,21,2, ,Removed,Removed,Removed,0, ,,1,2,1,0,0,,0,,,,1, ,, ,1, ,2
+227,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Meracna,Removed,Male,46,10,1,1,,1,1,1,7.40,38.82,16082021,2,21,1,Removed,Removed,Removed,0,0, ,,1,6,1,0,0,,0,,,,1, ,1, ,1, ,6
+228,OROMIIA,WEST ARSI,ARSI NEGELE,ARIGEDASHALIDO,Meracha,Removed,Male,38,5,1,1,,1,1,1,7.42,38.82,15082021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,3,0,1,,0,,,,1, ,1, ,1, ,4
+421,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawe 03,Removed,Male,80,None/Illiterate,1,1,,1,1,1,8.14,39.18,15072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+422,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawe 11,Removed,Male,55,None/Illiterate,1,1,,1,1,1,8.15,39.20,15072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,2,2,2,0,0,,,,1, ,2, ,2, ,4
+423,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawa 13,Removed,Male,50,11,1,1,,1,1,1,8.14,39.18,14072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,2,0,1,,0,2,2,0,0,1, ,2, ,2, ,2
+424,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Guticha -03,Removed,Male,42,3,1,1,,1,1,1,8.12,39.18,15072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,4,0,4,,0,,,,1, ,2, ,2, ,4
+425,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Guticha 04,Removed,Male,45,3,1,1,,1,1,1,8.12,39.19,15072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,2,1,2,1,1,1,0,0,1, ,2, ,2, ,3
+426,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Guticha 03,Removed,Male,63,12,1,1,,1,1,1,8.12,39.19,15072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,1,0,1,,0,,,,1, ,2, ,2, ,2
+427,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawe 01,Removed,Male,90,None/Illiterate,1,1,,1,1,1,8.16,39.16,15072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+428,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawa 4,Removed,Male,55,6,1,1,,1,1,1,8.16,39.20,15072021,2,22,2, ,Removed,Removed,0,1,Removed,0,1,4,1,0,1,,0,,,,1, ,, ,2, ,4
+429,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawe,Removed,Male,60,3,1,1,,1,1,1,8.14,39.18,16072021,2,22,1,Removed,Removed,0,0,0, ,,1,2,1,3,0,3,0,,,,1, ,2, ,2, ,2
+430,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawa 2,Removed,Male,30,Adult education or 1 year of education,1,1,,1,1,1,8.12,39.19,15072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,2,0,1,,0,0,,,,1, ,2, ,2, ,2
+431,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,GUTICHA 03,Removed,Male,39,6,1,1,,1,1,1,8.12,39.19,15072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,7,4,3,0,0,0,,,,1, ,2, ,2, ,7
+432,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Guticha-08,Removed,Male,45,10,1,1,,1,1,1,8.14,39.18,16072021,2,23,1,Removed,Removed,0,Removed,0, ,,1,4,1,2,0,2,0,,,,1, ,2, ,2, ,4
+433,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Guticha 01,Removed,Male,63,Adult education or 1 year of education,1,1,,1,1,1,8.12,39.19,15072021,2,24,1,Removed, ,Removed,0,0, ,,1,2,1,1,1,1,1,1,0,0,1, ,2, ,2, ,2
+434,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Guticha-10,Removed,Male,70,6,1,1,,1,1,1,8.13,39.23,16072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+435,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawa-02,Removed,Male,77,None/Illiterate,1,1,,1,1,1,8.12,39.19,15072021,2,21,2, ,Removed,Removed,Removed,1,Removed,Removed,1,3,0,1,,1,0,,,,1, ,, ,2, ,3
+436,OROMIIA,ARSI,HITOSA,DAWI GUTICHA,Dawa 06th,Removed,Male,50,8,1,1,,1,1,1,8.16,39.20,16072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,4,1,3,1,3,0,,,,1, ,2, ,2, ,4
+454,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Jiru Sokoru,Removed,Male,50,10,1,1,,1,1,1,6.96,39.08,30072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,1,0,,,,1, ,2, ,2, ,5
+455,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Dakatu Midani,Removed,Male,60,None/Illiterate,1,1,,1,1,1,6.94,39.08,06082021,2,23,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,2,2,0,,,,1, ,2, ,2, ,4
+456,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Medgida,Removed,Male,40,5,1,1,,1,1,1,6.93,39.07,02082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,0,2,0,,,,1, ,2, ,2, ,4
+457,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Sokoru,Removed,Male,50,10,1,1,,1,1,1,6.94,39.08,30072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+458,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Hayicho Keladi,Removed,Male,55,None/Illiterate,1,1,,1,1,1,6.95,39.08,31072021,2,25,1,Removed,Removed,0,0,0, ,,1,3,1,2,1,1,0,,,,1, ,2, ,2, ,3
+459,OROMIIA,WEST ARSI,DODOLA,GENET HARA,EJERISSA YAE,Removed,Male,65,None/Illiterate,1,1,,1,1,1,6.94,39.09,31072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,1,2,0,0,0,,,,1, ,2, ,2, ,4
+460,OROMIIA,WEST ARSI,DODOLA,GENET HARA,TULU KAKU,Removed,Male,32,8,1,1,,1,1,1,6.93,39.07,02082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,2,0,0,,,,1, ,2, ,2, ,2
+461,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Tulu Sokoro,Removed,Male,46,7,1,1,,1,1,1,6.93,39.07,02082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,1,4,1,2,0,,,,1, ,2, ,2, ,3
+462,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Sefere Walkite,Removed,Male,70,4,1,1,,1,1,1,6.93,39.07,02082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,1,,0,,,,1, ,2, ,2, ,5
+463,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Dengabo Bilika,Removed,Male,35,2,1,1,,1,1,1,6.93,39.08,30072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,3,2,3,1,0,,,,1, ,2, ,2, ,3
+464,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Diledila,Removed,Male,42,4,1,1,,1,1,1,6.93,39.07,02082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,3,5,0,1,0,,,,1, ,2, ,2, ,2
+465,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Kusa Jaliso,Removed,Male,70,None/Illiterate,1,1,,1,1,1,6.94,39.08,30072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+466,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Sadi,Removed,Male,47,2,1,1,,1,1,1,6.93,39.08,30072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,5,3,2,1,0,0,,,,1, ,2, ,2, ,5
+467,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Hantutu,Removed,Male,47,10,1,1,,1,1,1,6.93,39.08,30072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,4,5,0,3,0,,,,1, ,2, ,2, ,4
+468,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Aychew Golba,Removed,Male,35,3,1,1,,1,1,1,6.95,39.08,31072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,2,4,3,2,1,0,,,,1, ,2, ,2, ,2
+469,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Birkitu Arse,Removed,Male,40,10,1,1,,1,1,1,6.94,39.08,30072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,3,4,4,4,4,0,,,,1, ,2, ,2, ,3
+470,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Dengebo Bilika,Removed,Male,41,6,1,1,,1,1,1,6.94,39.10,07082021,2,23,1,Removed,Removed,Removed,0,0, ,,1,2,3,2,2,2,0,,,,1, ,2, ,2, ,2
+471,OROMIIA,WEST ARSI,DODOLA,GENET HARA,Chefete Meda,Removed,Male,55,7,1,1,,1,1,1,6.93,39.07,02082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,3,3,3,2,0,,,,1, ,2, ,2, ,4
+544,OROMIIA,ARSI,MUNESA,GUMEGUMA,Chorino Lencha,Removed,Male,60,9,1,1,,1,1,1,8.51,39.08,25072021,2,26,1,Removed,Removed,0,0,0, ,,1,3,4,0,0,,0,,,,1, ,1, ,1, ,3
+545,OROMIIA,ARSI,MUNESA,GUMEGUMA,Chorno,Removed,Male,45,6,1,1,,1,1,1,7.50,39.07,21072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,3,0,1,,1,0,,,,1, ,, ,1, ,3
+547,OROMIIA,ARSI,MUNESA,GUMEGUMA,Gumguma,Removed,Male,40,8,1,1,,1,1,1,7.51,39.07,21072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,2,2,2,2,0,,,,1, ,1, ,1, ,4
+548,OROMIIA,ARSI,MUNESA,GUMEGUMA,DEBTERA,Removed,Male,75,4,1,1,,1,1,1,7.51,39.07,21072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,1,1,0,1,0,1, ,1, ,1, ,3
+549,OROMIIA,ARSI,MUNESA,GUMEGUMA,Gugumma,Removed,Male,38,7,1,1,,1,1,1,7.51,39.07,21072021,2,23,1,Removed,Removed,0,0,0, ,,1,2,2,0,1,,0,,,,1, ,1, ,1, ,2
+550,OROMIIA,ARSI,MUNESA,GUMEGUMA,Chorino,Removed,Female,60,None/Illiterate,1,1,,1,1,1,7.50,39.06,25072021,2,26,2, ,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,, ,1, ,3
+552,OROMIIA,ARSI,MUNESA,GUMEGUMA,Gebez,Removed,Male,80,None/Illiterate,1,1,,1,1,1,7.51,39.07,21072021,2,25,1,Removed,Removed,0,0,0, ,,1,4,0,2,,2,0,,,,1, ,1, ,1, ,4
+553,OROMIIA,ARSI,MUNESA,GUMEGUMA,Gumeguma,Removed,Male,57,3,1,1,,1,1,1,7.51,39.08,21072021,2,23,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+554,OROMIIA,ARSI,MUNESA,GUMEGUMA,Chorino,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,7.50,39.07,24072021,2,24,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+555,OROMIIA,ARSI,MUNESA,GUMEGUMA,Dereba,Removed,Male,40,Adult education or 1 year of education,1,1,,1,1,1,7.50,39.07,21072021,2,22,1,Removed,Removed,0,0,0, ,,1,4,2,1,1,1,0,,,,1, ,1, ,1, ,4
+556,OROMIIA,ARSI,MUNESA,GUMEGUMA,Mekidela,Removed,Male,50,8,1,1,,1,1,1,7.50,39.08,21072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,0,,0,,,,1, ,1, ,1, ,4
+558,OROMIIA,ARSI,MUNESA,GUMEGUMA,SEFERA TOKOFFA,Removed,Male,40,Adult education or 1 year of education,1,1,,1,1,1,7.50,39.07,21072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,3,2,2,2,1,0,,,,1, ,1, ,1, ,3
+559,OROMIIA,ARSI,MUNESA,GUMEGUMA,Burkitu Tebale,Removed,Male,64,None/Illiterate,1,1,,1,1,1,7.50,39.07,21072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,1,0,1,,1,1,1,0,0,1, ,, ,1, ,1
+651,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Chefa Burka,Removed,Female,35,None/Illiterate,1,1,,1,1,1,7.95,39.59,19072021,2,23,2, ,Removed,Removed,Removed,0, ,,1,5,3,0,1,,0,,,,1, ,, ,2, ,5
+652,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Chafa Burka,Removed,Male,45,9,1,1,,1,1,1,7.95,39.59,19072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,5,3,1,3,0,,,,1, ,2, ,2, ,3
+653,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,KULFI NEGELE,Removed,Male,65,Adult education or 1 year of education,1,1,,1,1,1,7.94,39.62,22072021,2,26,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,1, ,2, ,2, ,3
+654,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Chefa Buraka,Removed,Male,44,8,1,1,,1,1,1,7.95,39.59,19072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+656,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Genale Robo,Removed,Male,36,Adult education or 1 year of education,1,1,,1,1,1,7.94,39.62,22072021,2,26,2, ,Removed,Removed,Removed,0, ,,1,2,2,1,1,1,0,,,,1, ,, ,2, ,2
+657,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Bilal,Removed,Male,40,Adult education or 1 year of education,1,1,,1,1,1,7.94,39.59,20072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,1,3,0,1,0,,,,1, ,2, ,2, ,4
+658,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Bilani,Removed,Male,35,None/Illiterate,1,1,,1,1,1,7.94,39.59,20072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,3,2,0,0,0,,,,1, ,2, ,2, ,3
+659,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Harabe Misa,Removed,Male,38,12,1,1,,1,1,1,7.94,39.61,19072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,0,0,0,,,,1, ,1, ,1, ,3
+660,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Cheta bureka,Removed,Male,45,6,1,1,,1,1,1,7.94,39.60,19072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,1,0,1,,0,,,,1, ,1, ,1, ,2
+662,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Harbe Missa,Removed,Male,48,10,1,1,,1,1,1,7.94,39.62,19072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,0,0,0,,,,1, ,2, ,2, ,4
+664,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,HARBU GORA,Removed,Male,80,None/Illiterate,1,1,,1,1,1,7.94,39.61,19072021,2,21,1,Removed,Removed,0,0,0, ,,1,4,2,1,0,0,0,,,,1, ,1, ,1, ,4
+665,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Kulfi Negele,Removed,Male,80,None/Illiterate,1,1,,1,1,1,7.94,39.62,22072021,2,26,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,1, ,2, ,2, ,3
+667,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,BORETA,Removed,Male,32,6,1,1,,1,1,1,7.95,39.59,20072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,1,1,1,0,0,1, ,1, ,1, ,3
+668,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,CHAFA BURISA,Removed,Male,63,4,1,1,,1,1,1,7.95,39.59,19072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+670,OROMIIA,ARSI,HITOSA,WUL ARGI,TITOLA,Removed,Male,37,6,1,1,,1,1,1,8.08,39.10,16072021,2,21,1,Removed,Removed,Removed,Removed,0, ,,1,2,5,2,3,1,0,,,,1, ,2, ,2, ,2
+671,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,40,7,1,1,,1,1,1,8.87,39.63,16072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,0,,0,,,,1, ,2, ,2, ,4
+672,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,35,3,1,1,,1,1,1,8.14,39.17,16072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,1,5,0,0,0,,,,1, ,2, ,2, ,3
+673,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Female,50,2,1,1,,1,1,1,#VALUE!,#VALUE!,16072021,2,21,2, ,Removed,Removed,Removed,0, ,,1,4,1,0,0,,0,,,,1, ,, ,2, ,4
+674,OROMIIA,ARSI,HITOSA,WUL ARGI,SEFERA,Removed,Male,40,7,1,1,,1,1,1,8.12,39.19,16072021,2,24,1,Removed,Removed,0,0,0, ,,1,2,2,3,1,1,0,,,,1, ,2, ,2, ,2
+675,OROMIIA,ARSI,HITOSA,WUL ARGI,Sefera,Removed,Male,34,9,1,1,,1,1,1,8.13,39.17,16072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,1,1,0,,,,1, ,2, ,2, ,2
+676,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,60,6,1,1,,1,1,1,8.08,#VALUE!,16072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,5,3,2,0,0,,,,1, ,2, ,2, ,4
+677,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,37,2,1,1,,1,1,1,8.14,39.17,16072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,2,2,0,,,,1, ,2, ,2, ,2
+678,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,70,6,1,1,,1,1,1,8.14,39.17,16072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,5,2,0,2,,1,0,1,0,1, ,2, ,2, ,5
+679,OROMIIA,ARSI,HITOSA,WUL ARGI,SEFERA,Removed,Male,80,3,1,1,,1,1,1,8.14,39.16,16072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,1,1,0,0,1, ,1, ,1, ,2
+680,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,70,None/Illiterate,1,1,,1,1,1,8.14,39.17,16072021,2,26,1,Removed,Removed,0,0,0, ,,1,2,2,2,2,2,0,,,,1, ,2, ,2, ,2
+681,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,26,Adult education or 1 year of education,1,1,,1,1,1,8.14,39.17,16072021,2,26,1,Removed,Removed,0,0,0, ,,1,3,3,2,3,1,0,,,,1, ,1, ,1, ,3
+682,OROMIIA,ARSI,HITOSA,WUL ARGI,TIFOLA,Removed,Male,45,8,1,1,,1,1,1,8.14,39.17,16072021,2,26,1,Removed,Removed,0,0,0, ,,1,2,3,1,2,1,0,,,,1, ,2, ,2, ,2
+683,OROMIIA,ARSI,HITOSA,WUL ARGI,Titola,Removed,Male,60,None/Illiterate,1,1,,1,1,1,8.13,39.17,16072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,1,,1,1,0,0,1, ,2, ,2, ,5
+684,OROMIIA,ARSI,HITOSA,WUL ARGI,KORKE,Removed,Male,65,5,1,1,,1,1,1,8.14,39.17,16072021,2,24,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+685,OROMIIA,ARSI,HITOSA,WUL ARGI,SEFERA,Removed,Male,42,12,1,1,,1,1,1,8.14,39.17,17072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,1,1,0,,,,1, ,2, ,2, ,4
+686,OROMIIA,ARSI,HITOSA,WUL ARGI,Sefera,Removed,Male,64,None/Illiterate,1,1,,1,1,1,8.12,39.19,16072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+687,OROMIIA,ARSI,HITOSA,WUL ARGI,SEFERA,Removed,Male,65,5,1,1,,1,1,1,8.14,39.17,17072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+689,OROMIIA,WEST ARSI,ADABA,GEDEDO,FANKO WATARA,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.14,39.45,09082021,2,23,1,Removed,Removed,0,0,0, ,,1,5,1,0,1,,0,,,,1, ,2, ,2, ,5
+690,OROMIIA,WEST ARSI,ADABA,GEDEDO,Alengecho,Removed,Male,45,4,1,1,,1,1,1,7.09,39.45,04082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,2,,0,,,,1, ,2, ,2, ,4
+691,OROMIIA,WEST ARSI,ADABA,GEDEDO,Jegeno,Removed,Male,70,Adult education or 1 year of education,1,1,,1,1,1,7.14,39.44,07082021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,1,2,1,1,0,,,,1, ,2, ,2, ,4
+692,OROMIIA,WEST ARSI,ADABA,GEDEDO,Melka wakena,Removed,Male,50,8,1,1,,1,1,1,7.07,39.46,31072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,4,5,5,3,3,0,,,,1, ,2, ,2, ,4
+693,OROMIIA,WEST ARSI,ADABA,GEDEDO,Fanko Watera,Removed,Male,38,2,1,1,,1,1,1,7.14,39.45,06082021,2,24,2, ,Removed,Removed,Removed,0, ,,1,2,1,3,0,3,1,1,0,0,1, ,, ,2, ,2
+694,OROMIIA,WEST ARSI,ADABA,GEDEDO,Gededo,Removed,Male,45,5,1,1,,1,1,1,7.13,39.46,06082021,2,25,1,Removed,Removed,Removed,0,0, ,,1,6,1,0,0,,0,,,,1, ,2, ,2, ,6
+695,OROMIIA,WEST ARSI,ADABA,GEDEDO,Alencho,Removed,Male,40,3,1,1,,1,1,1,7.07,39.46,13082021,2,23,1,Removed,Removed,0,0,0, ,,1,3,4,5,3,3,0,,,,1, ,2, ,2, ,3
+696,OROMIIA,WEST ARSI,ADABA,GEDEDO,Mutulu,Removed,Male,80,Adult education or 1 year of education,1,1,,1,1,1,7.09,39.45,06082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+697,OROMIIA,WEST ARSI,ADABA,GEDEDO,Gededo,Removed,Male,42,10,1,1,,1,1,1,7.13,39.46,06082021,2,25,1,Removed,Removed,Removed,Removed,0, ,,1,4,2,1,0,0,0,,,,1, ,2, ,2, ,4
+698,OROMIIA,WEST ARSI,ADABA,GEDEDO,Kacha Dibu,Removed,Male,45,6,1,1,,1,1,1,7.12,39.48,31072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,2, ,2, ,2
+699,OROMIIA,WEST ARSI,ADABA,GEDEDO,Kecha,Removed,Male,40,6,1,1,,1,1,1,7.12,39.48,07082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,1,3,1,2,0,,,,1, ,2, ,2, ,5
+700,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,turo Doyo,Removed,Male,40,2,1,1,,1,1,1,6.84,39.00,29072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+701,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Meto Demo,Removed,Male,40,4,1,1,,1,1,1,6.83,38.98,29072021,2,2,1,Removed,Removed,0,0,0, ,,1,6,2,2,2,2,0,,,,1, ,2, ,2, ,6
+702,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Kubi Hole,Removed,Female,45,None/Illiterate,1,1,,1,1,1,6.86,39.01,31072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,4,3,0,2,,3,3,0,0,1, ,, ,2, ,4
+703,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Tulu Serofta,Removed,Male,65,10,1,1,,1,1,1,6.87,39.02,29072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+705,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Hore Seroffa,Removed,Male,46,3,1,1,,1,1,1,6.86,38.97,29072021,2,25,1,Removed,Removed,40,0,0, ,,1,4,2,2,1,2,0,,,,1, ,2, ,2, ,4
+706,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Arsota,Removed,Male,36,8,1,1,,1,1,1,6.86,39.01,29072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,3,4,0,2,0,,,,1, ,2, ,2, ,3
+708,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Hole Aefera,Removed,Male,38,4,1,1,,1,1,1,6.86,39.01,31072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+709,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Tulu Doyo,Removed,Male,45,8,1,1,,1,1,1,6.84,39.00,29072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+711,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Tulu Doyo,Removed,Male,35,3,1,1,,1,1,1,6.84,39.00,29072021,2,23,1,Removed,Removed,0,0,0, ,,1,2,3,3,3,3,0,,,,1, ,2, ,2, ,2
+712,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Meto dame,Removed,Male,54,4,1,1,,1,1,1,7.86,39.01,30072021,2,24,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,1,0,,,,1, ,2, ,2, ,2
+714,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,SHAYITE KERSA,Removed,Male,60,None/Illiterate,1,1,,1,1,1,6.86,39.01,03072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,1, ,2, ,2, ,2
+715,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Bulchana,Removed,Male,42,3,1,1,,1,1,1,7.86,39.01,31072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,3,4,1,2,0,,,,1, ,2, ,2, ,2
+716,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Arsota,Removed,Male,30,6,1,1,,1,1,1,6.86,38.99,29072021,2,25,1,Removed,Removed,0,0,0, ,,1,3,3,2,1,0,0,,,,1, ,2, ,2, ,3
+717,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Arsota,Removed,Male,42,6,1,1,,1,1,1,6.86,39.01,29072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,6,2,1,1,0,0,,,,1, ,2, ,2, ,6
+817,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,KERSSA,Removed,Male,45,6,1,1,,1,1,1,7.21,39.43,31072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,6,2,2,2,0,,,,1, ,2, ,2, ,5
+818,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Wenkie,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.25,39.46,28072021,2,23,1,Removed,Removed,0,0,0, ,,1,5,5,3,3,2,0,,,,1, ,2, ,2, ,5
+819,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,WENKIE,Removed,Male,56,None/Illiterate,1,1,,1,1,1,7.25,39.45,27072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,1,,0,,,,1, ,1, ,1, ,5
+820,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Wankie,Removed,Male,38,9,1,1,,1,1,1,7.25,39.45,27072021,2,25,1,Removed,Removed,Removed,Removed,0, ,,1,2,3,2,2,1,0,,,,1, ,2, ,2, ,2
+822,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Kerssa,Removed,Female,50,None/Illiterate,1,1,,1,1,1,7.21,39.43,21072021,2,24,2, ,Removed,Removed,0,0, ,,1,2,1,2,1,2,0,,,,1, ,, ,2, ,2
+823,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Haregisa,Removed,Male,49,None/Illiterate,1,1,,1,1,1,7.21,39.43,28072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,3,2,2,1,0,,,,1, ,2, ,2, ,3
+824,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Haregsa,Removed,Male,40,6,1,1,,1,1,1,7.25,39.36,27072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,4,1,2,0,0,,,,1, ,2, ,2, ,3
+826,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Hargisa,Removed,Male,40,None/Illiterate,1,1,,1,1,1,7.25,39.36,28072021,2,25,1,Removed,Removed,0,0,0, ,,1,2,2,2,2,1,0,,,,1, ,2, ,2, ,2
+827,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Hargissa,Removed,Male,50,3,1,1,,1,1,1,7.21,39.43,28072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,3,2,2,1,0,,,,1, ,2, ,2, ,4
+829,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Haregsa,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.25,39.36,31072021,2,24,1,Removed,Removed,0,0,0, ,,1,5,2,1,1,1,0,,,,1, ,2, ,2, ,5
+830,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Hargissa,Removed,Male,57,8,1,1,,1,1,1,7.25,39.36,31072021,2,24,1,Removed,Removed,0,0,0, ,,1,4,1,2,1,2,0,,,,1, ,1, ,1, ,4
+831,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,KERSO,Removed,Male,50,8,1,1,,1,1,1,7.21,39.43,31072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,6,2,3,1,1,0,,,,1, ,2, ,2, ,6
+832,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Wenkie,Removed,Female,35,9,1,1,,1,1,1,7.25,39.46,28072021,2,23,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,2, ,2, ,2
+833,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,Wenkie,Removed,Male,47,5,1,1,,1,1,1,7.25,39.45,28072021,2,23,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,0,,,,1, ,2, ,2, ,3
+871,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Sefera 03,Removed,Male,75,3,1,1,,1,1,1,7.70,38.98,22072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,2,0,0,,0,,,,2, ,1, ,1, ,3
+872,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Korke-1,Removed,Male,75,None/Illiterate,1,1,,1,1,1,7.69,39.97,22072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,2,2,0,2,,3,0,3,0,1, ,2, ,2, ,2
+873,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Sefera-3,Removed,Male,38,3,1,1,,1,1,1,7.70,38.98,22072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,3,0,0,,0,,,,1, ,1, ,1, ,3
+874,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Kuma 02,Removed,Female,50,8,1,1,,1,1,1,7.69,38.97,21072021,2,25,2, ,Removed,Removed,0,0, ,,1,4,1,1,1,0,2,0,2,0,1, ,, ,1, ,4
+875,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Atimana 03,Removed,Female,52,2,1,1,,1,1,1,7.69,39.96,22072021,2,24,2, ,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,1, ,, ,2, ,4
+876,OROMIIA,ARSI,MUNESA,GERIBITIWISO,sefera 04,Removed,Male,40,2,1,1,,1,1,1,7.70,38.97,26072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,2,5,1,4,0,,,,1, ,1, ,1, ,2
+877,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Hatimena 03,Removed,Male,51,4,1,1,,1,1,1,7.69,39.96,22072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,2,2,1,1,0,,,,1, ,2, ,2, ,5
+878,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Sefera 01,Removed,Male,65,8,1,1,,1,1,1,7.70,38.98,22072021,2,22,1,Removed,Removed,0,0,0, ,,1,2,1,0,0,,0,,,,1, ,1, ,1, ,2
+879,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Hatimina 03,Removed,Male,45,3,1,1,,1,1,1,7.69,38.97,22072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,3,1,2,1,0,,,,1, ,1, ,1, ,4
+880,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Sefera 03,Removed,Male,44,5,1,1,,1,1,1,7.69,38.97,26072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,4,4,2,2,1,0,,,,1, ,2, ,2, ,4
+881,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Hatimona 03,Removed,Male,55,None/Illiterate,1,1,,1,1,1,7.69,39.96,23072021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,2, ,2, ,2
+882,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Korke 02,Removed,Male,63,3,1,1,,1,1,1,7.69,38.97,22072021,2,23,1,Removed,Removed,0,0,0, ,,1,7,2,0,2,,0,,,,1, ,1, ,1, ,7
+883,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Korke 02,Removed,Male,50,2,1,1,,1,1,1,7.69,38.97,22072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,6,0,3,,0,0,,,,1, ,1, ,1, ,6
+884,OROMIIA,ARSI,MUNESA,GERIBITIWISO,SEFERA ZERO ANDE,Removed,Male,35,11,1,1,,1,1,1,7.70,38.98,22072021,2,22,1,Removed,Removed,0,0,0, ,,1,2,3,1,3,0,0,,,,1, ,2, ,2, ,2
+885,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Korkie 01,Removed,Male,38,5,1,1,,1,1,1,7.69,#VALUE!,22072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,2,2,1,1,0,,,,1, ,1, ,1, ,3
+886,OROMIIA,ARSI,MUNESA,GERIBITIWISO,SEFERA 02,Removed,Male,40,4,1,1,,1,1,1,7.70,38.98,22072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,1, ,1, ,1, ,3
+887,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Setera 1,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.70,38.98,22072021,2,21,1,Removed,Removed,0,Removed,0, ,,1,2,2,0,0,,0,,,,1, ,1, ,1, ,2
+888,OROMIIA,ARSI,MUNESA,GERIBITIWISO,Sefera 03,Removed,Male,38,9,1,1,,1,1,1,7.69,38.97,26072021,2,26,1,Removed,Removed,Removed,Removed,0, ,,1,2,1,2,0,0,0,,,,1, ,2, ,2, ,2
+889,OROMIIA,ARSI,SHIRKA,HELA TERETA,KELO,Removed,Male,64,2,1,1,,1,1,1,7.59,39.59,25072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,0,1,,1,0,,,,1, ,2, ,2, ,4
+890,OROMIIA,ARSI,SHIRKA,HELA TERETA,Diramu,Removed,Male,45,4,1,1,,1,1,1,7.57,39.61,23072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,5,3,2,0,0,0,,,,1, ,2, ,2, ,5
+891,OROMIIA,ARSI,SHIRKA,HELA TERETA,Gelebe,Removed,Male,45,5,1,1,,1,1,1,7.59,39.60,23072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,5,3,1,3,1,0,,,,1, ,2, ,2, ,5
+892,OROMIIA,ARSI,SHIRKA,HELA TERETA,-77,Removed,Male,65,6,1,1,,1,1,1,7.59,39.60,27072021,2,23,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+893,OROMIIA,ARSI,SHIRKA,HELA TERETA,Kebeno 2nd,Removed,Male,70,2,1,1,,1,1,1,7.59,39.60,25072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,1, ,1, ,3
+894,OROMIIA,ARSI,SHIRKA,HELA TERETA,Galebe Sadafa,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.59,39.60,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,1, ,1, ,4
+895,OROMIIA,ARSI,SHIRKA,HELA TERETA,wechale lemefa,Removed,Male,55,5,1,1,,1,1,1,7.58,39.59,25062021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,3,0,2,,0,,,,1, ,2, ,2, ,2
+896,OROMIIA,ARSI,SHIRKA,HELA TERETA,Ejerssa,Removed,Male,70,Adult education or 1 year of education,1,1,,1,1,1,7.58,39.59,23082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,2,,0,,,,1, ,1, ,1, ,4
+897,OROMIIA,ARSI,SHIRKA,HELA TERETA,SELALE LEMEFFA,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.58,39.60,24072021,2,25,1,Removed,Removed,0,0,0, ,,1,5,1,1,0,1,0,,,,1, ,1, ,1, ,5
+899,OROMIIA,ARSI,SHIRKA,HELA TERETA,Kebeno 1st,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.59,39.60,25072021,2,22,2, ,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,2, ,, ,1, ,4
+900,OROMIIA,ARSI,SHIRKA,HELA TERETA,WECHELE 1,Removed,Male,55,4,1,1,,1,1,1,7.58,39.59,26072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,1,0,1,,0,,,,1, ,1, ,1, ,4
+901,OROMIIA,ARSI,SHIRKA,HELA TERETA,Diremu,Removed,Male,50,12,1,1,,1,1,1,7.58,39.60,24072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,0,1,1,0,1,0,1, ,1, ,1, ,4
+902,OROMIIA,ARSI,SHIRKA,HELA TERETA,Ale Lemefa,Removed,Male,59,4,1,1,,1,1,1,7.57,39.61,23072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+903,OROMIIA,ARSI,SHIRKA,HELA TERETA,Gelebe,Removed,Male,50,10,1,1,,1,1,1,7.59,39.59,26072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,1,,0,,,,1, ,1, ,1, ,5
+904,OROMIIA,ARSI,SHIRKA,HELA TERETA,Selale,Removed,Male,35,10,1,1,,1,1,1,7.57,39.60,29072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,3,2,0,1,,0,,,,1, ,1, ,1, ,3
+905,OROMIIA,ARSI,SHIRKA,HELA TERETA,Hale Tokofa,Removed,Male,45,7,1,1,,1,1,1,7.57,39.60,29072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,3,3,0,1,0,,,,1, ,2, ,2, ,2
+906,OROMIIA,ARSI,SHIRKA,HELA TERETA,Futo Bikie,Removed,Male,58,None/Illiterate,1,1,,1,1,1,7.58,39.59,30082021,2,25,1,Removed,Removed,0,0,0, ,,1,3,1,0,1,,0,,,,1, ,2, ,2, ,3
+907,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Tulu Bosa,Removed,Male,46,8,1,1,,1,1,1,6.98,39.13,03082021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,3,2,1,2,2,0,2,0,1, ,2, ,2, ,3
+908,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Bono,Removed,Male,56,8,1,1,,1,1,1,6.96,39.13,02082021,2,25,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+910,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,ADESA,Removed,Male,48,5,1,1,,1,1,1,6.98,39.13,03082021,2,25,1,Removed,Removed,Removed,Removed,0, ,,1,6,3,1,2,0,0,,,,1, ,2, ,2, ,6
+911,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Kechema,Removed,Male,46,2,1,1,,1,1,1,6.96,39.13,02082021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,4,3,4,0,0,,,,1, ,1, ,1, ,3
+912,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Mesgida jara,Removed,Male,55,6,1,1,,1,1,1,6.98,39.13,30072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,2,2,2,2,0,,,,1, ,2, ,2, ,4
+913,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Barka Ayecho,Removed,Male,50,3,1,1,,1,1,1,6.98,39.13,30072021,2,21,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,2,0,,,,1, ,2, ,2, ,2
+914,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,WELDA GEMIA,Removed,Male,45,6,1,1,,1,1,1,6.98,39.13,03082021,2,24,2, ,Removed,Removed,Removed,0, ,,1,5,1,2,1,2,0,,,,1, ,, ,1, ,5
+915,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Chare,Removed,Male,53,2,1,1,,1,1,1,6.98,39.13,03082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,0,2,,0,0,,,,1, ,2, ,2, ,4
+916,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Chere,Removed,Male,75,Adult education or 1 year of education,1,1,,1,1,1,7.02,39.15,30072021,2,23,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,2,2,0,,,,1, ,2, ,2, ,4
+917,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Chare,Removed,Male,50,6,1,1,,1,1,1,7.02,39.16,08082021,2,23,1,Removed,Removed,Removed,Removed,0, ,,1,4,4,2,3,2,0,,,,1, ,2, ,2, ,4
+918,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,CHERE,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,7.02,39.15,09082021,2,23,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,1,,0,,,,1, ,2, ,2, ,5
+919,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Ayecho Jara,Removed,Male,60,None/Illiterate,1,1,,1,1,1,6.98,39.13,03082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,6,0,2,,2,0,,,,1, ,2, ,2, ,6
+920,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Iteya Fite,Removed,Male,41,2,1,1,,1,1,1,6.96,39.13,02082021,2,25,1,Removed,Removed,0,0,0, ,,1,3,2,3,2,1,0,,,,1, ,2, ,2, ,3
+921,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Chere,Removed,Male,76,Adult education or 1 year of education,1,1,,1,1,1,7.02,39.16,03082021,2,25,1,Removed,Removed,0,Removed,1,Removed,Removed,1,5,0,2,,2,0,,,,1, ,2, ,2, ,5
+922,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Chere,Removed,Female,54,None/Illiterate,1,1,,1,1,1,7.02,39.16,04082021,2,25,2, ,Removed,Removed,0,0, ,,1,4,0,1,,1,0,,,,1, ,, ,2, ,4
+923,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Megala Kechema,Removed,Male,70,None/Illiterate,1,1,,1,1,1,6.98,39.13,30072021,2,23,1,Removed,Removed,0,0,0, ,,1,4,2,1,2,1,0,,,,1, ,2, ,2, ,4
+924,OROMIIA,WEST ARSI,DODOLA,KECHEMA CHERE,Kumule,Removed,Male,45,8,1,1,,1,1,1,6.98,39.13,03082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,3,3,1,1,1,0,,,,1, ,2, ,2, ,3
+1061,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Kumbi,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.20,38.67,06082021,2,22,1,Removed,Removed,0,0,0, ,,1,6,3,2,1,1,0,,,,1, ,2, ,2, ,6
+1062,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Abote,Removed,Male,40,8,1,1,,1,1,1,7.19,38.67,06082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,0,0,0,,,,1, ,2, ,2, ,4
+1063,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Kunbi,Removed,Female,50,None/Illiterate,1,1,,1,1,1,7.20,38.68,06082021,2,22,2, ,Removed,Removed,0,0, ,,1,3,2,2,1,2,0,,,,1, ,, ,2, ,3
+1064,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Abote,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.20,38.67,13082021,2,21,1,Removed,Removed,Removed,0,0, ,,1,5,2,2,0,1,0,,,,1, ,2, ,2, ,5
+1065,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Abote,Removed,Female,55,None/Illiterate,1,1,,1,1,1,7.20,38.66,06082021,2,26,2, ,Removed,Removed,0,0, ,,1,1,0,0,,,0,,,,1, ,, ,2, ,1
+1066,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Kumbi,Removed,Female,45,None/Illiterate,1,1,,1,1,1,7.20,38.68,06082021,2,22,2, ,Removed,Removed,0,0, ,,1,2,2,1,1,0,0,,,,1, ,, ,2, ,2
+1067,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,ABOTE,Removed,Male,60,6,1,1,,1,1,1,7.20,38.67,07082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+1070,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Abote,Removed,Female,60,None/Illiterate,1,1,,1,1,1,7.20,38.67,29072021,2,21,2, ,Removed,Removed,0,0, ,,1,4,2,1,0,0,0,,,,1, ,, ,2, ,4
+1072,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Kunbi,Removed,Male,35,11,1,1,,1,1,1,7.20,38.68,07082021,2,22,1,Removed,Removed,0,Removed,0, ,,1,2,0,1,,0,0,,,,1, ,2, ,2, ,2
+1073,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Abote,Removed,Female,50,None/Illiterate,1,1,,1,1,1,7.19,38.67,06082021,2,26,2, ,Removed,Removed,0,0, ,,1,1,1,0,0,,0,,,,1, ,, ,2, ,1
+1077,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Korke,Removed,Male,40,7,1,1,,1,1,1,7.20,38.66,07082021,2,26,1,Removed,Removed,0,0,0, ,,1,3,2,3,1,1,0,,,,1, ,1, ,1, ,3
+1078,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Jegesa,Removed,Male,45,8,1,1,,1,1,1,7.21,38.67,29072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,4,2,1,1,0,,,,1, ,2, ,2, ,3
+1211,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Handri,Removed,Male,56,9,1,1,,1,1,1,7.15,39.12,01082021,2,22,1,Removed,Removed,Removed,0,0, ,,1,2,2,2,0,2,0,,,,1, ,2, ,2, ,2
+1213,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,MENDER 2,Removed,Male,55,6,1,1,,1,1,1,7.15,39.12,01082021,2,26,1,Removed,Removed,0,0,0, ,,1,5,0,3,,0,0,,,,1, ,2, ,2, ,5
+1214,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Dudula,Removed,Male,55,7,1,1,,1,1,1,7.15,39.12,01082021,2,22,1,Removed,Removed,0,0,0, ,,1,4,3,3,1,1,0,,,,1, ,2, ,2, ,4
+1215,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Wekentera,Removed,Male,55,4,1,1,,1,1,1,7.14,39.11,03082021,2,22,1,Removed,Removed,0,0,0, ,,1,4,4,4,2,2,0,,,,1, ,2, ,2, ,4
+1216,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Tergege,Removed,Male,43,7,1,1,,1,1,1,7.15,39.12,03082021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,3,2,2,1,0,,,,1, ,2, ,2, ,4
+1219,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,FUGNA MURE,Removed,Male,70,6,1,1,,1,1,1,7.14,39.11,01082021,2,22,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,1, ,2, ,2, ,4
+1221,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Hobolto,Removed,Male,56,Adult education or 1 year of education,1,1,,1,1,1,7.15,39.12,03082021,2,26,2, ,Removed,Removed,0,0, ,,1,2,0,3,,0,0,,,,1, ,, ,2, ,2
+1222,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Soreto,Removed,Male,70,2,1,1,,1,1,1,7.15,39.12,03082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,1,0,,,,1, ,2, ,2, ,3
+1223,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Dinsa,Removed,Male,80,Adult education or 1 year of education,1,1,,1,1,1,7.13,39.12,04082021,2,26,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,1, ,2, ,2, ,3
+1224,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,SORETO,Removed,Male,46,4,1,1,,1,1,1,7.14,39.11,01082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,0,,0,,,,1, ,1, ,1, ,5
+1225,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Mendera (Fugna Mure),Removed,Female,40,None/Illiterate,1,1,,1,1,1,7.15,39.12,03082021,2,22,2, ,Removed,Removed,0,1,Removed,Removed,1,2,2,1,0,1,0,,,,1, ,, ,2, ,2
+1226,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Funga Mura,Removed,Male,50,2,1,1,,1,1,1,7.15,39.12,04082021,2,26,1,Removed,Removed,0,0,0, ,,1,2,0,0,,,0,,,,1, ,2, ,2, ,2
+1230,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Chafe misoma,Removed,Male,80,None/Illiterate,1,1,,1,1,1,7.35,39.38,26072021,2,25,1,Removed,Removed,0,0,0, ,,1,3,0,1,,1,0,,,,1, ,1, ,1, ,3
+1232,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Lega,Removed,Male,56,5,1,1,,1,1,1,7.35,39.38,26072021,2,25,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,0,1,2,0,2,0,1, ,1, ,1, ,3
+1235,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Milki,Removed,Male,45,4,1,1,,1,1,1,7.34,39.37,31072021,2,26,1,Removed,Removed,Removed,0,0, ,,1,6,0,2,,0,0,,,,1, ,1, ,1, ,6
+1237,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Guri,Removed,Male,69,4,1,1,,1,1,1,7.34,39.37,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,6,3,2,3,2,0,,,,1, ,2, ,2, ,6
+1238,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Dirinka,Removed,Male,50,5,1,1,,1,1,1,7.34,39.37,29072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,6,2,0,2,,1,1,0,0,1, ,1, ,1, ,6
+1239,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Tona Welket,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.34,39.37,27072021,2,23,1,Removed,Removed,0,0,0, ,,1,7,0,0,,,0,,,,1, ,1, ,1, ,7
+1240,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,Dlkure,Removed,Male,40,None/Illiterate,1,1,,1,1,1,7.34,39.37,28072021,2,22,1,Removed,Removed,Removed,0,0, ,,1,2,1,2,0,1,0,,,,1, ,2, ,2, ,2
+1273,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,HOBANTI,Removed,Male,45,6,1,1,,1,1,1,7.48,38.84,12082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,2,3,1,1,0,,,,1, ,1, ,1, ,4
+1274,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,Warebba,Removed,Male,56,1,1,1,,1,1,1,7.51,38.85,13082021,2,22,1,Removed,Removed,Removed,0,0, ,,1,4,3,2,2,1,0,,,,1, ,1, ,1, ,4
+1275,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,Tufito. 1ffaa,Removed,Male,75,4,1,1,,1,1,1,7.52,38.85,11082021,2,23,1,Removed,Removed,0,0,0, ,,1,3,2,1,2,1,0,,,,1, ,2, ,2, ,3
+1276,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,SENBERO,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.48,38.84,13082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+1277,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,Langamo,Removed,Male,45,9,1,1,,1,1,1,7.51,38.85,13082021,2,22,1,Removed,Removed,0,0,0, ,,1,5,3,3,1,1,0,,,,1, ,1, ,1, ,5
+1278,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,HUBANTI,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.51,38.85,13082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,5,2,1,0,0,0,,,,1, ,2, ,2, ,5
+1280,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,Tufito.  1ffaa,Removed,Male,75,3,1,1,,1,1,1,7.52,38.85,11082021,2,23,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,1, ,2, ,2, ,5
+1282,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,SEMBERO,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.49,38.86,13082021,2,26,1,Removed,Removed,Removed,0,0, ,,1,2,0,1,,1,0,,,,1, ,2, ,2, ,2
+1307,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Gado Shamite,Removed,Male,65,7,1,1,,1,1,1,7.20,38.76,31072021,2,21,1,Removed,Removed,0,0,0, ,,1,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+1311,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Wergo Milika,Removed,Male,40,3,1,1,,1,1,1,7.21,38.75,12082021,2,26,1,Removed,Removed,0,0,0, ,,1,4,4,3,1,2,0,,,,1, ,2, ,2, ,4
+1312,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Alo Welda,Removed,Male,35,8,1,1,,1,1,1,7.19,38.75,11082021,2,26,2, ,Removed,Removed,0,0, ,,1,3,3,0,0,,1,1,0,0,1, ,, ,2, ,3
+1313,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Galo Shemte,Removed,Male,40,4,1,1,,1,1,1,7.20,38.76,31072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,3,3,1,1,0,,,,1, ,2, ,2, ,4
+1314,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Sukara Shedama,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.19,38.77,31072021,2,21,1,Removed,Removed,45,Removed,0, ,,1,4,1,2,0,0,0,,,,1, ,2, ,2, ,4
+1317,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Hawilo Walda,Removed,Male,55,9,1,1,,1,1,1,7.19,38.76,11082021,2,22,1,Removed,Removed,0,0,0, ,,1,4,3,4,2,2,0,,,,1, ,1, ,1, ,4
+1318,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Halo Hawilo,Removed,Male,40,10,1,1,,1,1,1,7.19,38.77,31072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,5,3,1,1,0,0,,,,1, ,2, ,2, ,5
+1319,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Sire Shete,Removed,Male,60,9,1,1,,1,1,1,7.20,38.75,31072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,1,2,0,,,,1, ,2, ,2, ,4
+1320,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Sireshamite,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.21,38.75,11082021,2,22,1,Removed,Removed,0,0,0, ,,1,2,1,2,0,0,0,,,,1, ,2, ,2, ,2
+1323,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Aute(Zone/fag),Removed,Male,50,5,1,1,,1,1,1,7.20,38.74,11082021,2,26,1,Removed,Removed,0,0,0, ,,1,4,0,1,,0,0,,,,1, ,2, ,2, ,4
+1324,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Chobl,Removed,Female,32,2,1,1,,1,1,1,7.03,39.47,06082021,2,24,2, ,Removed,Removed,0,0, ,,1,1,2,0,1,,0,,,,1, ,, ,1, ,1
+1325,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,GEDELA,Removed,Male,35,3,1,1,,1,1,1,7.03,39.47,14082021,2,25,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,0,0,,,,1, ,2, ,2, ,2
+1326,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Seboru,Removed,Female,50,Adult education or 1 year of education,1,1,,1,1,1,7.03,39.46,13082021,2,23,2, ,Removed,Removed,0,0, ,,1,2,2,1,2,1,0,,,,1, ,, ,2, ,2
+1328,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,SOBORO,Removed,Male,55,3,1,1,,1,1,1,7.03,39.46,13082021,2,23,1,Removed,Removed,0,0,0, ,,1,5,1,0,1,,0,,,,1, ,1, ,1, ,5
+1329,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,SUBORO,Removed,Male,45,7,1,1,,1,1,1,7.03,39.46,13082021,2,23,1,Removed,Removed,0,0,0, ,,1,6,1,0,1,,0,,,,1, ,1, ,1, ,6
+1330,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Seboru,Removed,Male,60,Adult education or 1 year of education,1,1,,1,1,1,6.03,39.47,07082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,0,1,,1,0,,,,1, ,1, ,1, ,2
+1331,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Metie Gedela,Removed,Male,54,4,1,1,,1,1,1,7.03,39.47,07082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,1,0,0,,,,1, ,2, ,2, ,4
+1332,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,chabi,Removed,Male,60,2,1,1,,1,1,1,7.03,39.47,06082021,2,24,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,0,,,,1, ,1, ,1, ,2
+1333,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,GEDELA,Removed,Male,37,7,1,1,,1,1,1,7.03,39.47,12082021,2,25,1,Removed,Removed,Removed,Removed,0, ,,1,2,1,2,0,0,0,,,,1, ,2, ,2, ,2
+1334,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Saboru,Removed,Male,45,2,1,1,,1,1,1,7.03,39.46,04082021,2,23,1,Removed,Removed,0,0,0, ,,1,4,2,2,2,2,0,,,,1, ,1, ,1, ,4
+1335,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Gidala,Removed,Male,52,10,1,1,,1,1,1,7.03,39.47,09082021,2,25,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,0,,,,1, ,1, ,1, ,5
+1401,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Changa,Removed,Male,42,None/Illiterate,1,1,,1,1,1,7.88,39.78,18072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,2,1,0,0,0,,,,1, ,1, ,1, ,3
+1403,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Welteyi,Removed,Male,50,10,1,1,,1,1,1,7.89,39.80,18072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,1,0,,,,1, ,1, ,1, ,2
+1408,OROMIIA,ARSI,SUDE,CHEMO NEGELE,ALEM GENA WELETE,Removed,Male,38,12,1,1,,1,1,1,7.89,39.80,18072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,4,0,3,,0,0,,,,2, ,1, ,1, ,4
+1409,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Burkitu,Removed,Male,51,12,1,1,,1,1,1,7.89,39.80,18072021,2,21,1,Removed,Removed,Removed,0,0, ,,1,3,0,0,,,0,,,,2, ,1, ,1, ,3
+1413,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Garartu mariyami,Removed,Male,50,6,1,1,,1,1,1,7.89,39.84,18072021,2,22,1,Removed,Removed,0,0,0, ,,1,3,0,2,,0,0,,,,2, ,1, ,1, ,3
+1415,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Robe Chenga,Removed,Male,35,None/Illiterate,1,1,,1,1,1,7.90,39.78,18072021,2,21,1,Removed,Removed,0,0,0, ,,1,3,1,2,0,0,0,,,,1, ,2, ,2, ,3
+6001,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Garartu Mariyami,Removed,Male,52,6,1,1,,2,1,1,7.89,39.84,18072021,2,22,1,Removed,Removed,Removed,0,0, ,,0,3,1,1,1,1,2,1,1,0,1, ,2, ,2, ,3
+6002,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Gerartu Mariyami,Removed,Male,52,4,1,1,,2,1,1,7.90,39.81,19072021,2,22,1,Removed,Removed,0,0,0, ,,0,4,2,1,0,1,0,,,,1, ,1, ,1, ,4
+6003,OROMIIA,ARSI,SUDE,CHEMO NEGELE,Wethi,Removed,Male,45,None/Illiterate,1,1,,2,1,1,7.90,39.81,19072021,2,22,1,Removed,Removed,0,0,0, ,,0,4,1,3,0,0,1,1,0,0,1, ,2, ,2, ,4
+6004,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Boreta,Removed,Male,30,9,1,1,,2,1,1,7.95,39.59,20072021,2,25,1,Removed,Removed,Removed,0,0, ,,0,2,1,1,1,0,0,,,,1, ,1, ,1, ,2
+6005,OROMIIA,ARSI,ARSI-ROBE,DOYO GORA,Borata,Removed,Male,72,7,1,1,,2,1,1,7.95,39.59,20072021,2,25,1,Removed,Removed,Removed,0,0, ,,0,5,0,0,,,0,,,,1, ,1, ,1, ,5
+6006,OROMIIA,ARSI,MUNESA,GUMEGUMA,MEKIDELA,Removed,Male,54,2,1,1,,2,1,1,7.50,39.07,21072021,2,21,1,Removed,Removed,Removed,0,0, ,,0,4,0,0,,,0,,,,1, ,1, ,1, ,4
+6007,OROMIIA,ARSI,MUNESA,GUMEGUMA,BACHO LITAL,Removed,Male,47,10,1,1,,2,1,1,7.50,39.08,21072021,2,21,1,Removed,Removed,Removed,0,0, ,,0,4,2,0,0,,0,,,,1, ,1, ,1, ,4
+6008,OROMIIA,ARSI,MUNESA,KOJI ALEBESO,Welkite,Removed,Male,29,10,1,1,,2,1,1,7.61,39.09,27072021,2,26,1,Removed,Removed,Removed,0,0, ,,0,2,1,1,0,0,0,,,,1, ,2, ,2, ,2
+6011,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,hariye,Removed,Male,65,4,1,1,,2,1,1,7.33,39.36,30072021,2,22,1,Removed,Removed,Removed,0,0, ,,0,4,1,2,1,1,0,,,,1, ,2, ,2, ,4
+6012,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,JIGESA,Removed,Male,25,5,1,1,,2,1,1,7.21,38.67,29072021,2,21,1,Removed,Removed,Removed,0,0, ,,0,2,0,4,,1,0,,,,1, ,2, ,2, ,2
+6013,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,JIGESA,Removed,Male,50,DEGREE,1,1,,2,1,1,7.21,38.67,02082021,2,21,1,Removed,Removed,0,0,0, ,,0,5,0,0,,,0,,,,1, ,2, ,2, ,5
+6014,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,SERA ORGO,Removed,Male,48,6,1,1,,2,1,1,7.20,38.75,14082021,2,21,1,Removed,Removed,Removed,0,0, ,,0,6,1,3,1,0,0,,,,1, ,2, ,2, ,6
+6015,OROMIIA,ARSI,SHIRKA,HELA TERETA,Selale,Removed,Male,43,9,1,1,,2,1,1,7.58,39.60,24072021,2,25,1,Removed,Removed,Removed,Removed,0, ,,0,3,0,2,,2,0,,,,1, ,1, ,1, ,3
+6016,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,WENKIE,Removed,Male,25,1,1,1,,2,1,1,7.25,39.36,27072021,2,25,1,Removed,Removed,Removed,Removed,0, ,,0,2,0,0,,,0,,,,1, ,2, ,2, ,2
+6017,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,BULCHANA,Removed,Male,70,None/Illiterate,1,1,,2,1,1,7.86,38.98,29072021,2,25,1,Removed,Removed,0,0,0, ,,0,4,1,1,1,0,0,,,,1, ,2, ,2, ,4
+6019,OROMIIA,WEST ARSI,ADABA,LENCHA WESHA,Gidala,Removed,Male,44,6,1,1,,2,1,1,7.03,39.47,13082021,2,25,1,Removed,Removed,Removed,0,0, ,,0,4,3,1,1,0,0,,,,1, ,1, ,1, ,4
+6020,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Koma wetcho,Removed,Male,28,10,1,1,,2,1,1,7.00,39.46,02082021,2,26,1,Removed,Removed,Removed,0,0, ,,0,2,4,1,2,0,0,,,,1, ,2, ,2, ,2
+6021,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,HEBELTO,Removed,Female,60,None/Illiterate,1,1,,2,1,1,7.14,39.11,04082021,2,22,2, ,Removed,Removed,0,0, ,,0,3,0,1,,0,0,,,,1, ,, ,2, ,3
+6022,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Wekentira,Removed,Male,50,None/Illiterate,1,1,,2,1,1,7.13,39.12,04082021,2,22,1,Removed,Removed,0,0,0, ,,0,3,2,3,1,1,0,,,,1, ,2, ,2, ,3
+6023,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Kumbi,Removed,Male,35,9,1,1,,2,1,1,7.21,38.68,07082021,2,22,1,Removed,Removed,Removed,0,0, ,,0,2,3,1,2,0,0,,,,1, ,2, ,2, ,2
+6024,OROMIIA,WEST ARSI,SHASHEMENE,JIGESA KORKE,Kumbi,Removed,Male,40,None/Illiterate,1,1,,2,1,1,7.21,38.68,07082021,2,22,1,Removed,Removed,0,0,0, ,,0,4,1,2,1,1,0,,,,1, ,2, ,2, ,4
+6025,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Hawilo (Siri Shemete),Removed,Male,36,7,1,1,,2,1,1,7.21,38.75,12082021,2,22,1,Removed,Removed,Removed,0,0, ,,0,2,4,3,2,2,0,,,,1, ,2, ,2, ,2
+6026,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Meraro Lejano,Removed,Male,60,3,1,1,,2,1,1,7.19,38.76,12082021,2,22,1,Removed,Removed,Removed,0,0, ,,0,3,3,2,3,1,0,,,,1, ,2, ,2, ,3
+6027,OROMIIA,WEST ARSI,ARSI NEGELE,GUBATA ARJO,Boreta,Removed,Male,60,3,1,1,,2,1,1,7.46,38.69,14082021,2,22,1,Removed,Removed,Removed,0,0, ,,0,4,0,1,,1,0,,,,1, ,2, ,2, ,4
+6028,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,HEBELTO,Removed,Female,55,None/Illiterate,1,1,,2,1,1,7.14,39.11,04082021,2,22,2, ,Removed,Removed,0,1,Removed,0,0,4,0,0,,,0,,,,1, ,, ,2, ,4
+6030,OROMIIA,ARSI,LIMUNA BILBILO,WELTYEI BURKA,SHIHESA,Removed,Male,42,4,1,1,,2,1,1,7.35,39.37,31082021,2,26,1,Removed,Removed,Removed,0,0, ,,0,3,0,3,,2,1,1,0,0,1, ,1, ,1, ,3
+6031,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,EBE SOFA,Removed,Male,30,10,1,1,,2,1,1,7.15,39.12,03082021,2,26,1,Removed,Removed,0,0,0, ,,0,3,2,3,1,1,0,,,,1, ,2, ,2, ,3
+6032,OROMIIA,WEST ARSI,GEDEB ASASA,WEKINTRA ADO,Hoboletu,Removed,Male,49,11,1,1,,2,1,1,7.16,39.14,04082021,2,26,1,Removed,Removed,Removed,0,0, ,,0,7,2,1,1,0,0,,,,1, ,1, ,1, ,7
+6033,OROMIIA,WEST ARSI,ARSI NEGELE,MERARO HAWILO,Mararo Dejano,Removed,Male,40,4,1,1,,2,1,1,7.21,38.75,12082021,2,26,1,Removed,Removed,0,0,0, ,,0,3,3,5,2,3,0,,,,1, ,2, ,2, ,3
+6034,OROMIIA,WEST ARSI,HEBAN ARSI,SANBARO ROGICHA,KORCHASA,Removed,Male,60,5,1,1,,2,1,1,7.48,38.84,13082021,2,26,1,Removed,Removed,Removed,0,0, ,,0,3,1,0,1,,0,,,,1, ,2, ,2, ,3
+6035,OROMIIA,WEST ARSI,DODOLA,GERE SOROFTA,Tulu doyo,Removed,Male,35,Adult education or 1 year of education,1,1,,2,1,1,6.84,39.00,15082021,2,23,1,Removed,Removed,Removed,0,0, ,,0,2,2,1,2,1,0,,,,1, ,2, ,2, ,2
+6036,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Furuna,Removed,Male,40,None/Illiterate,1,1,,2,1,1,7.00,39.46,15082021,2,23,1,Removed,Removed,Removed,0,0, ,,0,4,2,1,2,1,0,,,,1, ,2, ,2, ,4
+6037,OROMIIA,ARSI,LIMUNA BILBILO,WELTEI NAGA,KERSA,Removed,Female,32,None/Illiterate,1,1,,2,1,1,7.21,39.43,31072021,2,24,2, ,Removed,Removed,0,0, ,,0,2,0,0,,,2,2,0,0,1, ,, ,2, ,2
+6038,OROMIIA,WEST ARSI,ADABA,GEDEDO,Boneya,Removed,Male,55,3,1,1,,2,1,1,6.14,39.45,03082021,2,24,1,Removed,Removed,Removed,0,0, ,,0,5,0,0,,,0,,,,1, ,2, ,2, ,5
+6039,OROMIIA,WEST ARSI,ADABA,KOMA WOTICHO,Kerayu,Removed,Male,35,7,1,1,,2,1,1,6.97,39.51,09082021,2,24,1,Removed,Removed,Removed,0,0, ,,0,2,2,2,1,2,0,,,,1, ,2, ,2, ,2
+329,SNNP,HADIYA,SORO,BURE,Demama 1,Removed,Male,58,7,1,1,,1,1,1,7.51,37.67,14072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,2,1,3,0,2,1,1,0,0,6, ,1, ,1, ,2
+330,SNNP,HADIYA,SORO,BURE,Cheba,Removed,Male,74,None/Illiterate,1,1,,1,1,1,8.46,37.89,15072021,4,41,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,1,1,0,0,6, ,1, ,1, ,4
+331,SNNP,HADIYA,SORO,BURE,Danemumd,Removed,Female,34,None/Illiterate,1,1,,1,1,1,7.41,37.79,16072021,4,41,2, ,Removed,Removed,Removed,0, ,,1,2,2,1,2,1,0,,,,6, ,, ,1, ,2
+332,SNNP,HADIYA,SORO,BURE,Duna 2nd,Removed,Male,58,None/Illiterate,1,1,,1,1,1,6.99,35.98,17072021,4,41,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,6, ,1, ,1, ,3
+333,SNNP,HADIYA,SORO,BURE,Mino,Removed,Male,48,2,1,1,,1,1,1,6.90,38.01,19072021,4,41,2, ,Removed,Removed,0,0, ,,1,4,0,0,,,1,1,0,0,6, ,, ,1, ,4
+334,SNNP,HADIYA,SORO,BURE,Cheba 1,Removed,Male,78,6,1,1,,1,1,1,7.80,37.00,19072021,4,41,1,Removed,Removed,0,0,0, ,,1,4,1,0,1,,1,0,1,0,6, ,1, ,1, ,4
+335,SNNP,HADIYA,SORO,BURE,Demama,Removed,Male,45,6,1,1,,1,1,1,7.51,37.67,15072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,6, ,1, ,1, ,5
+336,SNNP,HADIYA,SORO,BURE,FDEMAMA 2,Removed,Male,34,None/Illiterate,1,1,,1,1,1,7.51,37.67,17072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,6,2,2,1,1,0,,,,6, ,1, ,1, ,6
+337,SNNP,HADIYA,SORO,BURE,Becha 1,Removed,Male,35,4,1,1,,1,1,1,7.51,37.68,19072021,4,41,2, ,Removed,Removed,Removed,0, ,,1,6,1,2,1,1,0,,,,6, ,, ,1, ,6
+338,SNNP,HADIYA,SORO,BURE,Demama,Removed,Male,37,2,1,1,,1,1,1,7.50,37.67,16072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,0,0,0,,,,6, ,1, ,1, ,4
+339,SNNP,HADIYA,SORO,BURE,Mino,Removed,Male,34,10,1,1,,1,1,1,7.91,37.03,20072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,6, ,1, ,1, ,4
+340,SNNP,HADIYA,SORO,BURE,Bifa,Removed,Male,63,None/Illiterate,1,1,,1,1,1,8.10,36.12,16072021,4,41,1,Removed,Removed,0,0,0, ,,1,1,0,1,,0,3,1,1,0,6, ,1, ,1, ,1
+341,SNNP,HADIYA,SORO,BURE,DUNA,Removed,Male,54,None/Illiterate,1,1,,1,1,1,7.19,38.03,15072021,4,41,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,1,0,,,,6, ,1, ,1, ,2
+342,SNNP,HADIYA,SORO,BURE,CHEBA,Removed,Male,42,5,1,1,,1,1,1,6.96,39.50,20072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,4,0,4,,2,0,,,,6, ,1, ,1, ,4
+343,SNNP,HADIYA,SORO,BURE,Bure,Removed,Male,61,None/Illiterate,1,1,,1,1,1,6.97,37.79,27072021,4,41,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,6, ,1, ,1, ,5
+344,SNNP,HADIYA,SORO,BURE,Duna 1st,Removed,Male,45,9,1,1,,1,1,1,6.07,36.90,28072021,4,41,1,Removed,Removed,0,0,0, ,,1,5,1,0,1,,0,,,,6, ,1, ,1, ,5
+345,SNNP,HADIYA,SORO,BURE,Nachaba,Removed,Male,69,Adult education or 1 year of education,1,1,,1,1,1,8.07,38.81,28072021,4,41,1,Removed,Removed,0,0,0, ,,1,6,1,0,1,,0,,,,6, ,1, ,1, ,6
+346,SNNP,HADIYA,SORO,BURE,Becha,Removed,Male,37,7,1,1,,1,1,1,6.98,35.70,29072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,3,3,2,1,1,0,,,,6, ,1, ,1, ,3
+398,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Temihirt bet,Removed,Male,45,None/Illiterate,1,1,,1,1,1,8.31,38.61,24072021,4,43,1,Removed,Removed,0,0,0, ,,1,3,0,3,,3,0,,,,3, ,1, ,1, ,3
+399,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Arbe Gebeya,Removed,Male,55,None/Illiterate,1,1,,1,1,1,8.32,38.62,23072021,4,44,1,Removed,Removed,0,0,0, ,,1,4,0,1,,1,0,,,,3, ,1, ,1, ,4
+400,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Burad,Removed,Male,40,2,1,1,,1,1,1,8.31,38.61,24072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,2,2,0,,,,3, ,1, ,1, ,4
+495,SNNP,SIDAMA,HULA,GANJURE CHICHO,HIETO LALJCHA,Removed,Male,57,9,1,1,,1,1,1,6.46,38.58,14072021,4,44,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,0,,,1,0,1,0,9,SIDAMA,1, ,1, ,5
+496,SNNP,SIDAMA,HULA,GANJURE CHICHO,Duta Duha,Removed,Male,35,10,1,1,,1,1,1,6.28,38.35,15072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,4,1,3,1,2,0,,,,9,SIDAMIGNA,1, ,1, ,4
+498,SNNP,SIDAMA,HULA,GANJURE CHICHO,Ganjure,Removed,Male,70,5,1,1,,1,1,1,6.46,38.58,15072021,4,45,1,Removed,Removed,0,0,0, ,,1,4,0,0,,,0,,,,9,SIDAMIGN,1, ,1, ,4
+499,SNNP,SIDAMA,HULA,GANJURE CHICHO,Chicho,Removed,Male,45,6,1,1,,1,1,1,6.46,38.58,14072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,6,0,2,,2,0,,,,9,SIDAMIGN,1, ,1, ,6
+500,SNNP,SIDAMA,HULA,GANJURE CHICHO,DUDA DUA,Removed,Male,63,6,1,1,,1,1,1,6.46,38.58,14072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,6,3,1,3,0,1,0,0,1,9,SIDAMIGNA,1, ,1, ,6
+501,SNNP,SIDAMA,HULA,GANJURE CHICHO,CHICHO,Removed,Male,54,9,1,1,,1,1,1,6.27,38.35,14072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,4,2,0,2,,0,,,,9,SIDAMIGNA,1, ,1, ,4
+502,SNNP,SIDAMA,HULA,GANJURE CHICHO,Chicho,Removed,Male,58,9,1,1,,1,1,1,6.28,38.35,15072021,4,4,2, ,Removed,Removed,Removed,0, ,,1,4,2,1,1,1,0,,,,9,Sidamigna,, ,1, ,4
+504,SNNP,SIDAMA,HULA,GANJURE CHICHO,SERATA,Removed,Male,55,9,1,1,,1,1,1,6.46,38.57,15072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,1,0,,,,9,SIDAMIGNA,1, ,1, ,5
+505,SNNP,SIDAMA,HULA,GANJURE CHICHO,Chichu,Removed,Male,55,5,1,1,,1,1,1,6.46,38.58,15072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,6,0,1,,1,0,,,,9,SIDAMIGNA,1, ,1, ,6
+507,SNNP,SIDAMA,HULA,GANJURE CHICHO,HETO LALCHA,Removed,Male,45,3,1,1,,1,1,1,6.48,38.56,15072021,4,46,1,Removed,Removed,0,0,0, ,,1,8,0,3,,2,0,,,,9,SIDAMIGNA,1, ,1, ,8
+508,SNNP,SIDAMA,HULA,GANJURE CHICHO,CHICHO,Removed,Male,40,6,1,1,,1,1,1,6.46,38.58,15072021,4,44,1,Removed,Removed,0,0,0, ,,1,2,1,1,1,1,0,,,,9,SIDAMA,1, ,1, ,2
+510,SNNP,SIDAMA,HULA,GANJURE CHICHO,Ganjure,Removed,Male,50,3,1,1,,1,1,1,6.47,38.58,14072021,4,4,1,Removed,Removed,-99,Removed,0, ,,1,3,1,1,1,1,0,,,,9,SIDAMIGNA,1, ,1, ,3
+511,SNNP,SIDAMA,HULA,GANJURE CHICHO,Dudadua,Removed,Male,50,13,1,1,,1,1,1,6.28,38.35,15072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,6,1,3,0,2,0,,,,9,SIDAMIGNA,1, ,1, ,6
+512,SNNP,SIDAMA,HULA,GANJURE CHICHO,CHICHO,Removed,Male,55,5,1,1,,1,1,1,6.46,38.69,14072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,1,0,0,,,,9,SIDAMIGNA,1, ,1, ,4
+1132,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Sostuma,Removed,Male,57,2,1,1,,1,1,1,7.72,37.46,27072021,4,45,1,Removed,Removed,0,0,0, ,,1,5,0,0,,,0,,,,9,YEMIGNA,1, ,1, ,5
+1133,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Kedo,Removed,Male,50,3,1,1,,1,1,1,7.71,37.46,27072021,4,46,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,9,YEMIGNA,1, ,1, ,3
+1134,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Kado,Removed,Male,65,None/Illiterate,1,1,,1,1,1,7.71,37.46,28072021,4,46,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,9,YEMIGNA,1, ,1, ,3
+1135,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,GAWU,Removed,Male,45,3,1,1,,1,1,1,7.71,37.47,25072021,4,43,1,Removed,Removed,0,0,0, ,,1,3,2,1,2,1,0,,,,9,YEMIGNA,1, ,1, ,3
+1137,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,YODI,Removed,Male,38,None/Illiterate,1,1,,1,1,1,7.70,37.46,29072021,4,42,1,Removed,Removed,0,0,0, ,,1,4,1,3,1,2,0,,,,9,YAMIGNA,1, ,1, ,4
+1138,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Sostuma,Removed,Male,48,2,1,1,,1,1,1,7.72,37.46,27072021,4,45,1,Removed,Removed,0,0,0, ,,1,3,1,2,1,2,0,,,,9,YEMIGNA,1, ,1, ,3
+1139,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Sostuma,Removed,Male,40,5,1,1,,1,1,1,7.72,37.46,27072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,5,2,1,1,0,0,,,,9,YEMIGNA,1, ,1, ,5
+1141,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Gewo,Removed,Male,40,5,1,1,,1,1,1,7.72,37.47,28072021,4,45,1,Removed,Removed,0,0,0, ,,1,2,1,2,0,1,0,,,,9,YEMIGNA,1, ,1, ,2
+1178,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,Zone 10,Removed,Male,51,7,1,1,,1,1,1,7.20,37.93,17072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,3,2,2,2,1,0,,,,4, ,1, ,1, ,3
+1179,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,3,Removed,Male,55,5,1,1,,1,1,1,7.21,37.93,17072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,2,0,0,,,1,0,1,0,4, ,1, ,1, ,2
+1181,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,9,Removed,Male,50,9,1,1,,1,1,1,7.21,37.94,17072021,4,44,1,Removed,Removed,0,0,1,Removed,0,1,6,1,1,1,0,0,,,,4, ,1, ,1, ,6
+1182,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,16,Removed,Male,51,3,1,1,,1,1,1,7.14,37.55,17072021,4,42,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,1,1,0,0,4, ,1, ,1, ,3
+1189,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,Gotte 4,Removed,Male,40,4,1,1,,1,1,1,7.20,37.94,18072021,4,45,1,Removed,Removed,0,0,0, ,,1,3,1,3,1,1,0,,,,8, ,1, ,1, ,3
+1191,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,Abo Chole,Removed,Male,41,13,1,1,,1,1,1,7.22,37.93,17072021,4,46,1,Removed,Removed,Removed,Removed,0, ,,1,6,0,2,,1,0,,,,4, ,1, ,1, ,6
+1193,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,Lay Gamela,Removed,Female,54,None/Illiterate,1,1,,1,1,1,7.16,37.56,19072021,4,42,2, ,Removed,Removed,0,0, ,,1,3,2,3,2,3,0,,,,4, ,, ,1, ,3
+1194,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,Dogo,Removed,Male,65,3,1,1,,1,1,1,7.29,37.92,19072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,1,0,0,,,,4, ,1, ,1, ,4
+1199,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,Harecho,Removed,Male,35,None/Illiterate,1,1,,1,1,1,7.30,37.92,29072021,4,45,1,Removed,Removed,Removed,Removed,0, ,,1,2,3,4,0,2,0,,,,4, ,1, ,1, ,2
+1200,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,Segezo,Removed,Male,70,None/Illiterate,1,1,,1,1,1,7.30,37.93,19072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,8,0,0,,,0,,,,4, ,1, ,1, ,8
+1435,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Bulad,Removed,Male,61,Adult education or 1 year of education,1,1,,1,1,1,8.31,38.61,25072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,3, ,1, ,1, ,4
+1436,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,SERO,Removed,Male,63,3,1,1,,1,1,1,8.31,38.61,25072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,3, ,1, ,1, ,4
+1439,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Jale Nesebe,Removed,Male,37,7,1,1,,1,1,1,8.33,38.61,24072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,4,1,1,1,1,0,,,,3, ,1, ,1, ,4
+1440,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Bulatdaka,Removed,Male,45,None/Illiterate,1,1,,1,1,1,8.31,38.61,24072021,4,44,1,Removed,Removed,0,0,0, ,,1,7,0,0,,,0,,,,3, ,1, ,1, ,7
+1441,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Bubisa,Removed,Male,47,None/Illiterate,1,1,,1,1,1,8.31,38.61,25072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,4,4,1,2,1,0,,,,3, ,1, ,1, ,4
+1442,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Tenbye,Removed,Male,41,4,1,1,,1,1,1,8.31,38.61,24072021,4,41,1,Removed,Removed,Removed,0,0, ,,1,5,1,4,0,2,0,,,,3, ,1, ,1, ,5
+1443,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Arbe Gebega,Removed,Male,38,3,1,1,,1,1,1,8.32,38.62,25072021,4,43,1,Removed,Removed,0,0,0, ,,1,2,3,2,2,2,0,,,,3, ,1, ,1, ,2
+1468,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Gallo,Removed,Male,36,5,1,1,,1,1,1,7.25,38.13,16072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,0,0,0,,,,9,HALABIGNA,2, ,2, ,2
+1470,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Gidanto,Removed,Male,20,Adult education or 1 year of education,1,1,,1,1,1,7.25,38.13,16072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,4,3,1,2,1,0,,,,9,WALEBIGNA,2, ,2, ,4
+1472,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Tiyeto,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.40,38.21,16072021,4,46,1,Removed,Removed,0,0,0, ,,1,3,3,2,3,1,0,,,,9,ALABIGNA,2, ,2, ,3
+1473,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Toronbora,Removed,Female,50,None/Illiterate,1,1,,1,1,1,7.42,38.24,16072021,4,45,2, ,Removed,Removed,0,0, ,,1,2,0,1,,1,0,,,,9,HALABIGNA,, ,2, ,2
+1475,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Gallo,Removed,Male,38,10,1,1,,1,1,1,7.35,38.54,16072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,2,0,1,,0,0,,,,9,HALABIGNA,2, ,2, ,2
+1477,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Goditu,Removed,Male,50,None/Illiterate,1,1,,1,1,1,7.41,38.21,16072021,4,46,1,Removed,Removed,0,0,0, ,,1,3,3,2,1,0,0,,,,9,HALABIGNA,2, ,2, ,3
+1478,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Taranbora,Removed,Male,50,None/Illiterate,1,1,,2,1,1,7.41,38.23,15072021,4,44,1,Removed,Removed,0,0,0, ,,1,5,1,1,1,1,0,,,,9,ALABAGNA,2, ,2, ,5
+1479,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Galo,Removed,Male,35,2,1,1,,1,1,1,7.44,38.23,16072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,3,2,3,0,0,0,,,,9,HALABIGNA,2, ,2, ,3
+1480,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Toronbora,Removed,Male,45,None/Illiterate,1,1,,1,1,1,7.42,38.22,16072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,4,1,2,0,1,0,,,,9,HALABIGNA,2, ,2, ,4
+1481,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Legamo,Removed,Male,40,2,1,1,,1,1,1,7.42,38.24,16072021,4,44,1,Removed,Removed,0,0,0, ,,1,2,1,0,0,,0,,,,9,ALBABA,2, ,2, ,2
+1595,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Ediya Gola,Removed,Male,52,9,1,1,,1,1,1,7.88,37.52,28072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,5,0,1,,1,0,,,,9,YAMIGNA,1, ,1, ,5
+1597,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Melisa,Removed,Male,47,3,1,1,,1,1,1,7.88,37.53,28072021,4,42,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,9,YAMIGNA,1, ,1, ,3
+1598,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,6,Removed,Male,38,6,1,1,,1,1,1,7.88,37.52,28072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,2,3,1,3,1,0,,,,9,YAMIGNA,1, ,1, ,2
+1599,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Tumi,Removed,Male,45,Adult education or 1 year of education,1,1,,1,1,1,7.88,37.54,29072021,4,45,1,Removed,Removed,0,0,0, ,,1,3,1,2,1,2,0,,,,9,YEMIGNA,1, ,1, ,3
+1600,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Melisa,Removed,Male,30,7,1,1,,1,1,1,7.89,37.52,28072021,4,45,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,9,YEMIGNA,1, ,1, ,3
+1694,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Yodi,Removed,Male,50,5,1,1,,1,1,1,7.88,37.52,28072021,4,46,1,Removed,Removed,0,0,0, ,,1,3,2,1,2,0,0,,,,9,YEMIGNA,1, ,1, ,3
+1695,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Sustema,Removed,Male,45,None/Illiterate,1,1,,1,1,1,7.73,38.48,29072021,4,45,1,Removed,Removed,0,0,0, ,,1,6,0,0,,,0,,,,9,YEMIGNA,1, ,1, ,6
+1697,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Umo,Removed,Male,37,4,1,1,,1,1,1,7.71,37.47,27072021,4,44,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,9,YEMIGNA,1, ,1, ,3
+1698,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,KADO,Removed,Male,59,None/Illiterate,1,1,,1,1,1,7.70,37.46,27072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,3,2,1,2,1,0,,,,9,YAMIGNA,1, ,1, ,3
+1699,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Sustema,Removed,Male,55,3,1,1,,1,1,1,7.71,37.46,27072021,4,43,1,Removed,Removed,0,0,0, ,,1,4,3,0,3,,0,,,,9,YEMIGNA,1, ,1, ,4
+1700,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,GAWO,Removed,Male,45,Adult education or 1 year of education,1,1,,1,1,1,7.71,37.47,27072021,4,44,1,Removed,Removed,0,0,0, ,,1,4,1,2,0,0,0,,,,9,YEMIGNA,1, ,1, ,4
+1731,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,Duegoye,Removed,Male,45,Adult education or 1 year of education,1,1,,1,1,1,8.43,38.53,23072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,1,0,,,,3, ,1, ,1, ,3
+1732,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,Leygnaw Degoye,Removed,Male,50,Adult education or 1 year of education,1,1,,1,1,1,8.45,38.51,25072021,4,44,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,3, ,1, ,1, ,3
+1733,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,Nechachi,Removed,Female,54,4,1,1,,1,1,1,8.46,38.53,24072021,4,46,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,0,,,3,3,0,0,3, ,1, ,1, ,4
+1734,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,chochiga,Removed,Male,60,11,1,1,,1,1,1,8.27,38.31,24072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,3,0,1,,1,1,0,1,0,3, ,1, ,1, ,3
+1735,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,Semaitre,Removed,Male,70,10,1,1,,1,1,1,8.24,38.99,23072021,4,41,1,Removed,Removed,Removed,Removed,0, ,,1,9,0,0,,,0,,,,3, ,1, ,1, ,9
+1739,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,Layignaw Degoye,Removed,Male,40,6,1,1,,1,1,1,8.28,38.31,25072021,4,42,1,Removed,Removed,0,0,0, ,,1,3,1,2,1,2,0,,,,9,YAMIGNA,1, ,1, ,3
+1740,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,Garjoni,Removed,Male,50,6,1,1,,1,1,1,8.43,38.53,23072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,2,1,1,1,1,0,,,,3, ,1, ,1, ,2
+1752,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,GARJONI,Removed,Male,55,8,1,1,,1,1,1,8.55,38.46,25072021,4,41,1,Removed,Removed,Removed,Removed,0, ,,1,5,1,3,1,0,0,,,,3, ,1, ,1, ,5
+1754,SNNP,GURAGE,MESKAN,BATI FATO,2,Removed,Female,85,None/Illiterate,1,1,,1,1,1,8.08,38.48,23072021,4,41,2, ,Removed,Removed,Removed,0, ,,1,5,0,1,,0,0,,,,3, ,, ,1, ,5
+1756,SNNP,GURAGE,MESKAN,BATI FATO,Gondere,Removed,Male,73,None/Illiterate,1,1,,1,1,1,8.05,38.28,22072021,4,42,1,Removed,Removed,0,0,0, ,,1,2,0,1,,0,0,,,,3, ,2, ,2, ,2
+1760,SNNP,GURAGE,MESKAN,BATI FATO,Gonderc,Removed,Male,38,8,1,1,,1,1,1,8.04,38.28,23072021,4,42,1,Removed,Removed,0,0,0, ,,1,4,1,1,1,1,1,1,0,0,3, ,2, ,2, ,4
+1762,SNNP,GURAGE,MESKAN,BATI FATO,Gondere,Removed,Male,70,8,1,1,,1,1,1,8.05,38.28,21072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,3,4,1,3,1,0,,,,3, ,1, ,1, ,3
+1763,SNNP,GURAGE,MESKAN,BATI FATO,Futo,Removed,Male,50,5,1,1,,1,1,1,8.08,38.49,25072021,4,41,2, ,Removed,Removed,Removed,0, ,,1,4,2,3,0,3,1,1,0,0,3, ,, ,2, ,4
+1766,SNNP,GURAGE,MESKAN,BATI FATO,Yetoben,Removed,Male,45,None/Illiterate,1,1,,1,1,1,8.08,38.47,22072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,7,0,0,,,0,,,,3, ,2, ,2, ,7
+1767,SNNP,GURAGE,MESKAN,BATI FATO,Yetebon,Removed,Male,55,8,1,1,,1,1,1,8.08,38.47,23072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,4,0,3,,3,0,,,,3, ,2, ,2, ,4
+1769,SNNP,GURAGE,MESKAN,BATI FATO,Futu,Removed,Male,48,6,1,1,,1,1,1,8.08,38.49,22072021,4,43,1,Removed,Removed,0,0,0, ,,1,5,2,3,1,3,0,,,,3, ,2, ,2, ,5
+1771,SNNP,GURAGE,MESKAN,MISRAK EMBOR,1,Removed,Male,42,8,1,1,,1,1,1,8.12,38.34,22072021,4,41,1,Removed,Removed,Removed,Removed,0, ,,1,5,1,1,1,1,0,,,,3, ,2, ,2, ,5
+1773,SNNP,GURAGE,MESKAN,MISRAK EMBOR,Agala,Removed,Male,72,3,1,1,,1,1,1,8.11,38.34,21072021,4,43,1,Removed,Removed,0,0,0, ,,1,3,0,0,,,0,,,,3, ,1, ,1, ,3
+1774,SNNP,GURAGE,MESKAN,MISRAK EMBOR,Embor,Removed,Male,42,None/Illiterate,1,1,,1,1,1,8.11,38.34,21072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,4,0,3,,2,0,,,,3, ,1, ,1, ,4
+1778,SNNP,GURAGE,MESKAN,MISRAK EMBOR,1st,Removed,Male,50,7,1,1,,1,1,1,8.11,38.35,21072021,4,46,1,Removed,Removed,Removed,Removed,0, ,,1,7,0,1,,1,1,1,0,0,3, ,1, ,1, ,7
+1779,SNNP,GURAGE,MESKAN,MISRAK EMBOR,Ketena 1,Removed,Male,52,9,1,1,,1,1,1,8.11,38.35,21072021,4,4,1,Removed,Removed,Removed,Removed,0, ,,1,4,1,0,1,,0,,,,3, ,1, ,1, ,4
+1780,SNNP,GURAGE,MESKAN,MISRAK EMBOR,Got 2,Removed,Male,51,4,1,1,,1,1,1,8.12,38.34,22012015,4,41,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,3, ,2, ,2, ,4
+1784,SNNP,GURAGE,MESKAN,MISRAK EMBOR,Meden,Removed,Male,55,None/Illiterate,1,1,,1,1,1,8.11,38.34,23072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,6,0,0,,,2,1,1,0,3, ,2, ,2, ,6
+1786,SNNP,GURAGE,MESKAN,MISRAK EMBOR,1,Removed,Male,52,5,1,1,,1,1,1,8.11,38.35,22072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,5,2,2,2,2,0,,,,3, ,2, ,2, ,5
+1787,SNNP,GURAGE,MESKAN,MISRAK EMBOR,Agella,Removed,Male,58,None/Illiterate,1,1,,1,1,1,8.11,38.34,22072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,9,0,0,,,0,,,,3, ,2, ,2, ,9
+1861,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Got-1,Removed,Male,50,8,1,1,,1,1,1,7.21,37.91,17072021,4,43,1,Removed,Removed,Removed,0,0, ,,1,5,0,3,,0,0,,,,4, ,1, ,1, ,5
+1862,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Oreta,Removed,Male,38,7,1,1,,1,1,1,7.23,37.92,17072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,4,1,2,1,1,0,,,,4, ,1, ,1, ,4
+1863,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Deketa,Removed,Male,65,8,1,1,,1,1,1,7.13,37.54,17072021,4,42,1,Removed,Removed,0,0,0, ,,1,3,2,0,2,,0,,,,4, ,1, ,1, ,3
+1864,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Amara,Removed,Female,45,6,1,1,,1,1,1,7.20,39.94,17072021,4,45,2, ,Removed,Removed,0,0, ,,1,2,0,1,,0,0,,,,4, ,, ,1, ,2
+1867,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,FULASA,Removed,Male,37,2,1,1,,1,1,1,7.22,37.92,17072021,4,43,1,Removed,Removed,Removed,Removed,0, ,,1,2,2,3,2,1,0,,,,4, ,1, ,1, ,2
+1868,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,3,Removed,Male,56,6,1,1,,1,1,1,7.26,38.97,17072021,4,45,1,Removed,Removed,Removed,Removed,0, ,,1,5,0,2,,0,0,,,,4, ,1, ,1, ,5
+1869,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Sote 23,Removed,Male,45,4,1,1,,1,1,1,7.24,37.92,17072021,4,44,1,Removed,Removed,0,0,0, ,,1,2,4,1,2,0,0,,,,4, ,1, ,1, ,2
+1870,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Liyo fualsa,Removed,Male,52,3,1,1,,1,1,1,7.21,37.91,17072021,4,46,1,Removed,Removed,Removed,Removed,0, ,,1,4,0,0,,,0,,,,4, ,1, ,1, ,4
+1873,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,SHODERA,Removed,Male,73,None/Illiterate,1,1,,1,1,1,7.21,37.91,18072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,5,0,3,,1,0,,,,4, ,1, ,1, ,5
+1874,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Got 5,Removed,Male,61,6,1,1,,1,1,1,7.12,37.54,17072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,4,2,2,2,2,0,,,,4, ,1, ,1, ,4
+1876,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Borara,Removed,Male,40,10,1,1,,1,1,1,7.21,37.91,17072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,5,1,0,0,,0,,,,4, ,1, ,1, ,5
+1877,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,Deketa,Removed,Male,60,None/Illiterate,1,1,,1,1,1,7.27,38.97,17072021,4,45,1,Removed,Removed,0,0,0, ,,1,5,2,0,0,,0,,,,4, ,1, ,1, ,5
+1905,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,Jilo,Removed,Male,50,8,1,1,,1,1,1,7.27,37.94,19072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,5,1,1,1,0,0,,,,4, ,1, ,1, ,5
+1907,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,Sigazo,Removed,Female,30,4,1,1,,1,1,1,7.30,37.93,20072021,4,46,2, ,Removed,Removed,Removed,0, ,,1,3,0,2,,2,0,,,,4, ,, ,1, ,3
+2040,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,MENDER 6,Removed,Male,60,12,1,1,,1,1,1,7.88,37.52,29072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,7,0,1,,1,0,,,,9,YEMIGNA,1, ,1, ,7
+2041,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Melisa,Removed,Male,40,9,1,1,,1,1,1,7.78,37.32,28072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,3,1,1,1,0,0,,,,9,YEMIGNA,1, ,1, ,3
+2042,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Soracho,Removed,Male,48,None/Illiterate,1,1,,1,1,1,7.88,37.54,29072021,4,43,1,Removed,Removed,0,0,0, ,,1,3,1,1,1,1,0,,,,9,YEMIGNA,1, ,1, ,3
+2043,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Melisa,Removed,Male,39,4,1,1,,1,1,1,7.86,37.52,28072021,4,44,1,Removed,Removed,Removed,0,0, ,,1,4,2,1,1,0,0,,,,9,YEMIGNA,1, ,1, ,4
+2044,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Golo,Removed,Male,46,10,1,1,,1,1,1,7.88,37.53,27072021,4,42,1,Removed,Removed,Removed,0,0, ,,1,4,0,0,,,0,,,,9,YAMIGNA,1, ,1, ,4
+2045,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Ediya Golo,Removed,Male,35,7,1,1,,1,1,1,7.88,37.52,28072021,4,43,1,Removed,Removed,0,0,0, ,,1,3,2,2,1,2,0,,,,9,YEMIGNA,1, ,1, ,3
+2046,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Duma,Removed,Male,45,7,1,1,,1,1,1,7.88,37.52,28072021,4,43,1,Removed,Removed,0,0,0, ,,1,4,1,1,1,1,0,,,,9,YEMIGNA,1, ,1, ,4
+2047,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Terusi,Removed,Male,40,8,1,1,,1,1,1,7.88,37.52,29072021,4,43,1,Removed,Removed,0,0,0, ,,1,4,1,3,1,3,0,,,,9,YEMIGNA,1, ,1, ,4
+2048,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Melisa,Removed,Male,40,8,1,1,,1,1,1,7.89,37.88,29072021,4,46,1,Removed,Removed,Removed,0,0, ,,1,4,0,1,,1,0,,,,9,YEMIGNA,1, ,1, ,4
+2049,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,DUMA,Removed,Male,70,6,1,1,,1,1,1,7.88,37.53,29072021,4,42,1,Removed,Removed,0,0,0, ,,1,2,2,1,2,1,0,,,,9,YAMIGNA,1, ,1, ,2
+2050,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,Mehal Edya No5,Removed,Male,48,9,1,1,,1,1,1,7.88,37.53,29072021,4,45,1,Removed,Removed,Removed,0,0, ,,1,5,0,0,,,0,,,,9,YEMIGNA,1, ,1, ,5
+5001,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,Gererto,Removed,Male,45,2,1,1,,2,1,1,7.43,38.24,16072021,4,43,1,Removed,Removed,0,0,0, ,,0,2,2,2,1,2,0,,,,9,HALABIGNA,2, ,2, ,2
+5002,SNNP,SPECIAL,HALABA S/DISTRICT,BUBESA,GALO,Removed,Male,40,5,1,1,,2,1,1,7.25,38.13,16072021,4,42,1,Removed,Removed,Removed,Removed,0, ,,0,2,2,4,1,4,0,,,,9,HALABIGNA,2, ,2, ,2
+5003,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,11,Removed,Male,45,7,1,1,,2,1,1,7.21,37.93,18072021,4,46,1,Removed,Removed,Removed,0,0, ,,0,7,1,1,1,1,0,,,,4, ,1, ,1, ,7
+5004,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,ABOMSA,ORTA,Removed,Male,53,6,1,1,,2,1,1,7.13,37.55,17072021,4,42,1,Removed,Removed,Removed,0,0, ,,0,4,0,1,,0,0,,,,4, ,1, ,1, ,4
+5005,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,JORE,Removed,Male,55,6,1,1,,2,1,1,7.12,37.82,18072021,4,44,1,Removed,Removed,0,0,0, ,,0,5,1,0,0,,0,,,,4, ,1, ,1, ,5
+5006,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,JORE,GOT 19,Removed,Male,40,4,1,1,,2,1,1,7.13,37.55,17072021,4,42,1,Removed,Removed,0,0,0, ,,0,3,3,0,3,,0,,,,4, ,1, ,1, ,3
+5007,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,HALELCHO LIMAT BUD 3,Removed,Male,37,7,1,1,,2,1,1,7.17,37.54,19072021,4,43,1,Removed,Removed,Removed,0,0, ,,0,3,0,0,,,0,,,,4, ,1, ,1, ,3
+5008,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,HARELICHO,Removed,Male,45,10,1,1,,2,1,1,7.30,37.90,19072021,4,44,1,Removed,Removed,Removed,0,0, ,,0,3,3,2,2,1,0,,,,4, ,1, ,1, ,3
+5009,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,HAREALICHO,Removed,Male,42,10,1,1,,2,1,1,7.30,37.92,19072021,4,45,1,Removed,Removed,Removed,0,0, ,,0,4,1,0,1,,0,,,,4, ,1, ,1, ,4
+5010,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,DOGA,Removed,Male,36,4,1,1,,2,1,1,7.30,37.90,19072021,4,43,1,Removed,Removed,Removed,Removed,0, ,,0,2,0,5,,3,0,,,,4, ,1, ,1, ,2
+5011,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,DOGO,Removed,Female,36,7,1,1,,2,1,1,7.17,37.54,19072021,4,42,2, ,Removed,Removed,Removed,0, ,,0,4,1,2,1,2,0,,,,4, ,, ,1, ,4
+5012,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,ARELICHO,Removed,Male,47,5,1,1,,2,1,1,7.30,37.90,19072021,4,44,1,Removed,Removed,Removed,0,0, ,,0,3,0,0,,,0,,,,4, ,1, ,1, ,3
+5013,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,HALELICO,Removed,Female,50,4,1,1,,2,1,1,7.30,37.90,19072021,4,4,2, ,Removed,Removed,Removed,0, ,,0,6,1,0,0,,0,,,,4, ,, ,1, ,6
+5014,SNNP,KAMBATA TEMBARO,KEDIDA GAMELA,DEGA KEDIDA,DOGO,Removed,Male,34,5,1,1,,2,1,1,7.17,37.54,19072021,4,42,1,Removed,Removed,Removed,0,0, ,,0,2,6,2,6,0,0,,,,4, ,1, ,1, ,2
+5015,SNNP,GURAGE,MESKAN,MISRAK EMBOR,MAMUJA,Removed,Male,35,5,1,1,,2,1,1,8.11,38.34,21072021,4,43,1,Removed,Removed,0,0,0, ,,0,4,1,1,1,1,0,,,,3, ,2, ,2, ,4
+5016,SNNP,GURAGE,MESKAN,MISRAK EMBOR,MAMULA,Removed,Male,40,8,1,1,,2,1,1,8.11,38.34,22072021,4,43,1,Removed,Removed,0,0,0, ,,0,3,1,3,1,3,0,,,,3, ,2, ,2, ,3
+5017,SNNP,GURAGE,MESKAN,MISRAK EMBOR,GOT1,Removed,Male,50,6,1,1,,2,1,1,8.11,38.35,21072021,4,41,1,Removed,Removed,0,0,0, ,,0,6,3,2,3,2,0,,,,3, ,2, ,2, ,6
+5018,SNNP,GURAGE,MESKAN,MISRAK EMBOR,GOTI1,Removed,Male,35,9,1,1,,2,1,1,8.12,38.35,21072021,4,41,1,Removed,Removed,Removed,0,0, ,,0,2,3,1,1,1,0,,,,3, ,2, ,2, ,2
+5019,SNNP,GURAGE,MESKAN,BATI FATO,GONDARE,Removed,Male,40,7,1,1,,2,1,1,8.09,38.48,21072021,4,44,1,Removed,Removed,0,0,0, ,,0,3,3,1,2,0,0,,,,3, ,2, ,2, ,3
+5020,SNNP,GURAGE,MESKAN,BATI FATO,YETABONUSE,Removed,Male,31,4,1,1,,2,1,1,8.08,38.47,22072021,4,44,1,Removed,Removed,Removed,0,0, ,,0,2,2,1,2,1,0,,,,3, ,2, ,2, ,2
+5021,SNNP,GURAGE,MESKAN,BATI FATO,FUTO,Removed,Male,42,5,1,1,,2,1,1,8.08,38.49,23072021,4,43,1,Removed,Removed,0,0,0, ,,0,4,1,1,1,1,0,,,,3, ,2, ,2, ,4
+5022,SNNP,GURAGE,MESKAN,BATI FATO,ABORATI,Removed,Male,55,None/Illiterate,1,1,,2,1,1,8.07,38.49,23072021,4,41,1,Removed,Removed,1,Removed,0, ,,0,8,2,0,2,,0,,,,3, ,2, ,2, ,8
+5023,SNNP,GURAGE,MESKAN,BATI FATO,GONDERE,Removed,Male,52,4,1,1,,2,1,1,8.08,38.47,22072021,4,44,1,Removed,Removed,Removed,0,0, ,,0,2,1,0,0,,0,,,,3, ,2, ,2, ,2
+5024,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,GARSEGNO,Removed,Male,45,3,1,1,,2,1,1,8.43,38.53,23072021,4,41,1,Removed,Removed,0,0,0, ,,0,3,4,1,2,0,0,,,,3, ,1, ,1, ,3
+5025,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,CHOCHIGA,Removed,Male,50,4,1,1,,2,1,1,8.28,38.31,24072021,4,45,1,Removed,Removed,Removed,0,0, ,,0,4,2,3,2,3,0,,,,3, ,1, ,1, ,4
+5026,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,CHOCHIGA,Removed,Male,40,None/Illiterate,1,1,,2,1,1,8.46,38.53,23072021,4,45,1,Removed,Removed,Removed,0,0, ,,0,4,0,2,,2,0,,,,3, ,1, ,1, ,4
+5027,SNNP,GURAGE,SODO,AMAWUTE GIFTIGE,GARJONI,Removed,Male,65,6,1,1,,2,1,1,8.43,38.53,23072021,4,43,1,Removed,Removed,Removed,0,0, ,,0,4,1,0,1,,0,,,,3, ,1, ,1, ,4
+5028,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Gilenesepi,Removed,Female,45,Adult education or 1 year of education,1,1,,2,1,1,8.31,38.61,25072021,4,46,2, ,Removed,Removed,Removed,0, ,,0,4,0,0,,,3,3,0,0,3, ,, ,1, ,4
+5029,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,TIBAY,Removed,Male,35,None/Illiterate,1,1,,2,1,1,8.18,38.36,25072021,4,42,1,Removed,Removed,Removed,0,0, ,,0,2,2,0,0,,0,,,,3, ,1, ,1, ,2
+5030,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,TIMRT BET ZURYA,Removed,Male,35,5,1,1,,1,1,1,8.19,38.36,25072021,4,42,1,Removed,Removed,Removed,0,0, ,,0,2,0,3,,3,0,,,,3, ,1, ,1, ,2
+5031,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Temhekat Bet Akebabe,Removed,Male,40,6,1,1,,2,1,1,8.31,38.61,25072021,4,46,1,Removed,Removed,Removed,0,0, ,,0,3,3,0,3,,0,,,,3, ,1, ,1, ,3
+5032,SNNP,GURAGE,SODO,WUDIGETNA GEFERSA,Seru,Removed,Male,45,None/Illiterate,1,1,,2,1,1,8.31,38.61,24072021,4,41,1,Removed,Removed,Removed,0,0, ,,0,5,1,1,1,1,0,,,,3, ,1, ,1, ,5
+5033,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,UMO,Removed,Male,38,5,1,1,,2,1,1,7.72,37.43,29072021,4,44,1,Removed,Removed,0,0,0, ,,0,2,2,1,2,0,0,,,,9,YEMIGNA,2, ,2, ,2
+5034,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,KADO,Removed,Male,60,6,1,1,,2,1,1,7.70,37.46,27072021,4,42,1,Removed,Removed,0,0,0, ,,0,4,2,3,2,2,0,,,,9,YAMIGNA,1, ,1, ,4
+5035,SNNP,SPECIAL,YEM SPECIAL DISTRICT,FIAYA,Soracho,Removed,Male,45,8,1,1,,2,1,1,7.71,37.42,29072021,4,44,1,Removed,Removed,0,0,0, ,,0,2,2,1,1,0,0,,,,9,YEMIGNA,1, ,1, ,2
+5036,SNNP,SPECIAL,YEM SPECIAL DISTRICT,EDIYA,MELESA,Removed,Male,35,5,1,1,,2,1,1,7.88,37.52,28072021,4,45,1,Removed,Removed,Removed,0,0, ,,0,4,1,3,0,3,0,,,,9,YEMIGNA,1, ,1, ,4
