@@ -1,0 +1,29 @@
+Variables,Variable Type,Definition of variables,Household_Mean,Household_Std,Men_Mean,Men_Std,Women_Mean,Women_Std
+High yield,Outcome variables,"High yielding trait varieties (1 = if the respondent agrees this trait is important, 0 otherwise)",0.81,0.4,0.81,0.39,0.81,0.4
+Good adaptation,Outcome variables,"Good adaptation trait varieties (1 = if the respondent agrees this trait is important, 0 otherwise)",0.74,0.44,0.75,0.43,0.73,0.45
+High straw yield,Outcome variables,"High straw yield trait varieties (1 = if the respondent agrees this trait is important, 0 otherwise)",0.53,0.5,0.54,0.5,0.45,0.5
+Disease resistance,Outcome variables,"Disease resistance trait varieties (1 = if the respondent agrees this trait is important, 0 otherwise)",0.68,0.47,0.68,0.47,0.64,0.5
+Bold grain,Outcome variables,"Bold grain trait varieties (1 = if the respondent agrees this trait is important, 0 otherwise)",0.49,0.5,0.49,0.5,0.47,0.5
+Good taste & cooking quality,Outcome variables,"Good taste & cooking quality trait varieties (1 = if the respondent agrees this trait is important, 0 otherwise)",0.27,0.44,0.26,0.44,0.32,0.47
+Gender head,Explanatory Variables,"Gender of the head of the household (1 = male head, zero otherwise)",90.44,29.42,NA,NA,NA,NA
+Age of respondent,Explanatory Variables,Age of the respondent in the household (in years),50.35,12.1,50.37,12.12,41.39,10.25
+Education of respondent,Explanatory Variables,Education level of the respondent (years of schooling),5.47,5.67,6.05,5.66,1.23,2.61
+Household size,Explanatory Variables,Household size: total of all household members who live and share meals together in the household (persons),6.06,2.14,NA,NA,NA,NA
+Farm size,Explanatory Variables,Total size of agricultural land cultivated by the household in hectares (ha),1.88,1.27,NA,NA,NA,NA
+Livestock owned,Explanatory Variables,"Tropical livestock unit (TLU) is used to normalize number of livestock to the equivalent of a cow whereby, cow = 1, sheep = 0.1, goat = 0.08, donkey = 0.5 respectively",6.99,4.7,NA,NA,NA,NA
+Assets owned,Explanatory Variables,Asset index calculated from twelve types of different assets owned by the household (index),0.27,0.16,NA,NA,NA,NA
+Mobile phone owned,Explanatory Variables,"Dummy variable. Self-reported = 1 if the household owned a mobile phone, 0 otherwise.",0.59,0.49,NA,NA,NA,NA
+Improved wheat variety use,Explanatory Variables,"Dummy variable (1 = if the respondent indicated that he has cultivated improved wheat verities at least once in the past five years, 0 otherwise",0.49,0.5,0.49,0.5,0.38,0.49
+Number of social networks in the village,Explanatory Variables,The number of people (network) that the respondent has in the village that he can count on for help (in persons),3.56,6.05,3.64,6.13,2.08,4.1
+Contact with government extension worker,Explanatory Variables,"Dummy variable (1 = if the respondent had any contact with government extension agents, 0 otherwise)",0.81,0.39,0.82,0.39,0.63,0.48
+Member of farmers’ group,Explanatory Variables,"Dummy variable (1 = if the respondent is a member of farmers’ group, 0 otherwise)",0.27,0.44,0.27,0.44,0.13,0.34
+Member of savings and credit group,Explanatory Variables,"Dummy variable (1 = self-reported ability to access credit finance or savings for any purpose including farming whenever needed by the respondent, 0 otherwise.",0.11,0.31,0.11,0.31,0.06,0.24
+Member of Eddir,Explanatory Variables,"Dummy variable (1 = if the respondent is a member of Eddir, 0 otherwise)",0.77,0.42,0.77,0.42,0.65,0.48
+Member of Equb,Explanatory Variables,"Dummy variable (1 = if the respondent is a member of Equb, 0 otherwise)",0.03,0.18,0.03,0.18,0.03,0.16
+Lagged rainfall amount received,Explanatory Variables,Total amount of rainfall that the household received in the lagged year prior to the survey year (mm/year),1235.34,214.39,NA,NA,NA,NA
+Rainfall shock (Index),Explanatory Variables,Rainfall shock (index) that the household experiences. This is calculated by taking the absolute value of the difference between total rainfall of the growing season and the historical average of the 21 years rainfall divided by the standard deviation of rainfall in the 21 years period (Equation (3),0.78,0.52,NA,NA,NA,NA
+Rainfall surplus,Explanatory Variables,"Dummy variable (1 = if the household is in rainfall surplus area, 0 otherwise)",0.88,0.32,NA,NA,NA,NA
+Oromia region,Explanatory Variables,"Dummy variable (1 = if the household is in Oromia region, 0 otherwise)",0.62,0.49,NA,NA,NA,NA
+Amhara region,Explanatory Variables,"Dummy variable (1 = if the household is in Amhara region, 0 otherwise)",0.23,0.42,NA,NA,NA,NA
+SNNP region,Explanatory Variables,"Dummy variable (1 = if the household is in SNNP region, 0 otherwise)",0.15,0.21,NA,NA,NA,NA
+Observation,Sample Size,Sample size,1088,,994,,1088,

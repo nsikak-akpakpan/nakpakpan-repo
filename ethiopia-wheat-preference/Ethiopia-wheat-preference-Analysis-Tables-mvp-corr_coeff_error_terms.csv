@@ -1,0 +1,16 @@
+Traits,Men_Correlation coefficient,Men_Std error,Men_std Error Significance level,Women_Correlation coefficient,Women_Std error,Women_Standard error significance level
+High yield and Good adaptation,0.448***,-0.066,0.01,0.422***,-0.062,0.01
+High yield and High straw yield,0.009,-0.06,,0.003,-0.057,
+High yield and Disease resistance,?0.025,-0.063,,?0.166**,-0.061,0.05
+High yield and Bold grain,0.076,-0.06,,0.007,-0.057,
+High yield and Good taste & cooking quality,0.083,-0.066,,0.118**,-0.065,0.05
+Good adaptation and High straw yield,0.002,-0.056,,0.098**,-0.055,0.05
+Good adaptation and Disease resistance,?0.025,-0.059,,?0.037,-0.058,
+Good adaptation and Bold grain,0.065,-0.056,,0.111**,-0.055,0.05
+Good adaptation and Good taste & cooking quality,0.122**,-0.059,0.05,0.057,-0.058,
+High straw yield and Disease resistance,0.019,-0.057,,?0.019,-0.056,
+High straw yield and Bold grain,0.351***,-0.055,0.01,0.146***,-0.053,0.01
+High straw yield and Good taste & cooking quality,0.287***,-0.061,0.01,?0.113**,-0.056,0.05
+Disease resistance and Bold grain,0.233***,-0.056,0.01,0.205***,-0.054,0.01
+Disease resistance and Good taste & cooking quality,0.02,-0.063,,0.197***,-0.058,0.01
+Bold grain and Good taste & cooking quality,0.325***,-0.059,0.01,0.346***,-0.056,0.01
