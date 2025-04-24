@@ -1,0 +1,13 @@
+dataset_type_id,name,description,is_subobs_type,is_obs_type
+1,STUDY,Study conditions,0,0
+2,MEANS,Means data for each trial instance,0,1
+3,SUMMARY,Environment conditions and summary data,0,0
+4,PLOT,Plot data,0,1
+5,PLANT,Plant Sub-Observation Dataset,1,1
+6,QUADRAT,Quadrats Sub-Observation Dataset,1,1
+7,TIMESERIES,Time Series Sub-Observation Dataset,1,1
+8,CUSTOM,Custom Sub-Observation Dataset,1,1
+9,SS,Sub-sample data,0,0
+10,WD,Weather data,0,0
+11,OM,Means over trial instances,0,0
+12,SUMMARY_STATISTICS,Summary Statistics Dataset,0,0

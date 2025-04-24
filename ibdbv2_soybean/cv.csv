@@ -1,0 +1,75 @@
+cv_id,name,definition
+1000,IBDB TERMS,CV of terms used to annotate relationships and identify objects in the ibdb database
+1010,Properties,Terms defining the factor or trait of a variable
+1011,CLASS,Property Class
+1020,Methods,Terms representing the methods or protocols by which variables are applied or observed
+1030,Scales,Terms defining the scale or units in which a variable is recorded
+1031,Data Type,Datatype of Scale
+1040,Variables,Standard variables recorded in the dataset defined by a combination of property,method and scale terms
+1041,Variable Type,Type of the variable
+2005,8006,Study status - Assigned (code
+2010,8070,Study type - assigned (type
+2020,8160,Dataset type -assigned (dstype
+2030,8130,Study release - assigned (date
+2040,8135,Experimental design - assigned (type
+2050,8255,Entry type - assigned (type
+2070,8371,Season - Assigned (Code
+3010,18050,Disease pressure - visual assessment (score
+3020,18080,Plant vigor - visual assessment at seedling stage (score
+3030,18090,Pest pressure - visual assessment at maturity (score
+3040,8065,Nursery type - assigned (type
+3050,8066,Nursery generation
+3060,8133,RMAP
+3070,8146,POIL
+3080,8413,CHECK_PLAN
+3090,8590,PDATE_TREAT
+4012,6050,Categorical values for Code for Project
+4013,17278,Categorical values for Name of Mega_Environment
+4014,17279,Categorical values for Code of FB_Type
+4015,17280,Categorical values for Code of Trial_Type
+20001,20011,BP_Est_1to5 : Bacterial Pustule -BY- Bacterial pustle assessment -IN- 1 to 5 infection score
+20002,20012,RUST_Est_1to5 : Soybean rust -BY- Rust assessment -IN- 1 to 5 infection score
+20003,20013,SMV_Est_1to5 : Soybean Mosaic Virus -BY- SMV assessment -IN- 1 to 5 infection score
+20004,20014,FROGEYE_Est_1to5 : Frogeye leafspot -BY- Frog eye assessment -IN- 1 to 5 infection score
+20005,20015,RtNod_Est_1to5 : Nodulation -BY- Nodulation observation -IN- 1 to 5 percentage scale
+20006,25046,ROOTKNOT_Est_1to5 : Root knot nematode -BY- Root knot assessment -IN- 1 to 5 infection score
+20007,20018,Lodg_Est_1to5 : Lodging -BY- Lodging estimation -IN- 1 to 5 percentage scale
+20008,20022,PodShat_EarlyEst_1to5 : Pod shattering -BY- Early pod shattering estimation -IN- 1 to 5 percentage scale
+20009,25032,PlntBrnch_Est_1to5 : Plant branching -BY- Plant branching observation -IN- 1 to 5 branching scale
+20010,25011,FlwCol_scale : Flower color -BY- Flower color observation -IN- 1 to 9 color scale
+20011,25033,PodCol_Est_1to4 : Pod color -BY- Pod color observation -IN- 1 to 4 color scale
+20012,25019,HilumCol_Est_1to12 : Hilum color -BY- Hilum color observation -IN- 1 to 12 color scale
+20013,25061,SdQual_Est_1to5 : Seed quality -BY- Seed quality visual assessment -IN- 1 to 5 quality scale
+20014,25067,StemTermTyp_Est_1or2 : Stem termination type -BY- Termination observation -IN- 1 or 2 type scale
+20015,25001,BAW_Est_1to5 : Beet armyworm -BY- Foliar feeding assessment -IN- 1 to 5 percentage scale
+20016,25005,DEFOL_Est_1to5 : Defoliation -BY- Defoliation assessment -IN- 1 to 5 percentage scale
+20017,25020,PodShat_LateEst_1to5 : Pod shattering -BY- Late pod shattering assessment -IN- 1 to 5 percentage scale
+20018,25039,PubCol_Est_1to4 : Pubescence Color -BY- Pubescence color assessment -IN- 1 to 4 color scale
+20019,25029,MatGroup_Est_1to13 : Maturity group -BY- Maturity group classification -IN- 1 to 13 maturity scale
+20020,25048,SdCoatMott_Est_1to10 : Seed coat mottling -BY- Seed coat color observation -IN- 1 to 10 percentage scale
+20021,25037,PRIROOTSHAPE : The shape of the primary root at a stipulated range of the root
+20022,25066,ANTHR_Est_1to5 : Soybean anthracnose -BY- Anthracnose assessment -IN- 1 to 5 infection score
+20023,25021,LATROOTSHAPE : The shape of the lateral root at a stipulated range of the roots
+20024,25025,LfletShp_Comp_1to4 : Leaflet shape -BY- Leaf shape method -IN- 1 to 4 shape scale
+20025,25040,PubescForm_Est_1to8 : Pubescence form -BY- Pubescence form observation -IN- 1 to 8 shape scale
+20026,25042,PubescTipTyp_Est_1or2 : Pubescence tip type -BY- Pubescence tip type observation -IN- 1 or 2 type scale
+20027,25012,FlwForm_Est_1or2 : Flower form -BY- Flower final form observation -IN- 1 or 2 form scale
+20028,25041,PubescPres_Est_1or2 : Pubescence presence -BY- Pubescence presence method -IN- 1 or 2 presence scale
+20029,25069,CercoLfS_Est_1to5 : Cercospora Leaf spot -BY- Leaf disease -IN- 1 to 5 infection score
+20030,25754,1 to 5 infection score of RUST at stage R3 - 1 to 5 infection score of RUST at stage R3
+20031,25762,1 to 5 infection score of RUST at stage R6 - 1 to 5 infection score of RUST at stage R6
+20032,25770,1 to 5 infection score of Bacterial Pustule infection at stage R3 - 1 to 5 infection score of Bacterial Pustule infection at stage R3
+20033,25778,1 to 5 infection score at stage R6 - 1 to 5 infection score at stage R6
+20034,25787,1 to 5 infection score of Bacterial blight infection at stage R3 - 1 to 5 infection score of Bacterial blight infection at stage R3
+20035,25795,1 to 5 infection score of Bacterial blight infection at stage R6 - 1 to 5 infection score of Bacterial blight infection at stage R6
+20036,25804,1 to 5 infection score of Brown leaf spot - 1 to 5 infection score of Brown leaf spot
+20037,25848,1 to 5 Cercospora infection score at stage R3 - 1 to 5 Cercospora infection score at stage R3
+20038,25856,1 to 5 Cersosport infection score at stage R6 - 1 to 5 Cersosport infection score at stage R6
+20039,25863,1 to 5 Frog Eye leaf spot score at stage R3 - 1 to 5 Frog Eye leaf spot score at stage R3
+20040,25870,1 to 5 Frog Eye Leaf spot score at stage R6 - 1 to 5 Frog Eye Leaf spot score at stage R6
+20041,25973,0 to 5 disease infection scale - 0 to 5 disease infection scale used to score diseases evaluated under the SIL-PAT program
+20042,26066,Growth_Stage - Soybean Growth stages according to Fehr et al.,1971
+20043,26089,1 to 5 leaf severity scale - 1 to 5 leaf severity scale
+20044,26096,1 to 5 disease severity score (SIL
+20045,26103,Rust reaction type (SIL
+20046,26163,1 to 5 podding at maturity - 

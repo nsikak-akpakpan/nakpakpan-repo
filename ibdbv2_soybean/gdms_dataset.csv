@@ -1,0 +1,4 @@
+dataset_id,dataset_name,dataset_desc,dataset_type,genus,species,upload_template_date,remarks,datatype,missing_data,method,score,institute,principal_investigator,email,purpose_of_study
+7,example,NULL,SNP,soybean,soybean,2019-07-16,,char,-,NULL,NULL,NULL,NULL,NULL,NULL
+8,example_genotyping_data,NULL,SNP,soybean,soybean,2019-10-12,,char,-,NULL,NULL,NULL,NULL,NULL,NULL
+9,SC_genotyping_data,NULL,SNP,soybean,soybean,2020-01-22,,char,-,NULL,NULL,NULL,NULL,NULL,NULL

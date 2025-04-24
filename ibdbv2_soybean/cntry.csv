@@ -1,0 +1,271 @@
+cntryid,isonum,isotwo,isothree,faothree,fips,wb,isofull,isoabbr,cont,scntry,ecntry,cchange
+1,4,AF,AFG,002,AF,AFG,Democratic Republic of Afghanistan,Afghanistan,Asia,19730000,0,0
+2,8,AL,ALB,003,AL,ALB,Peoples Socialist Republic of Albania,Albania,Europe,19121128,0,0
+3,12,DZ,DZA,004,AG,DZA,Peoples Democratic Republic of Algeria,Algeria,Africa,19620700,0,0
+4,16,AS,ASM,005,AQ,-,American Samoa,American Samoa,Oceania,19290000,0,0
+5,20,AD,AND,006,AN,-,Andorra,Andorra,Europe,0,0,0
+6,24,AO,AGO,007,AO,AGO,Peoples Republic of Angola,Angola,Africa,19750000,0,0
+7,10,AQ,ATA,030,AY,-,Antarctica,Antarctica,Antarctica,0,0,0
+8,28,AG,ATG,008,AC,-,Antigua and Barbuda,Antigua and Barbuda,N-America,19670000,0,0
+9,32,AR,ARG,009,AR,ARG,Argentine Republic,Argentina,S-America,0,0,0
+10,51,AM,ARM,001,AM,-,Armenia,Armenia,Asia,19910921,0,0
+11,36,AU,AUS,010,AS,AUS,Commonwealth of Australia,Australia,Oceania,19010000,0,0
+12,40,AT,AUT,011,AU,AUT,Republic of Austria,Austria,Europe,19180000,0,0
+13,31,AZ,AZE,052,AJ,-,Azerbaijan,Azerbaijan,Asia,19920000,0,0
+14,44,BS,BHS,012,BF,-,Commonwealth of the Bahamas,Bahamas,N-America,19730700,0,0
+15,48,BH,BHR,013,BA,-,State of Bahrain,Bahrain,Asia,19710000,0,0
+16,50,BD,BGD,016,BG,BGD,Peoples Republic of Bangladesh,Bangladesh,Asia,19710000,0,0
+17,52,BB,BRB,014,BB,-,Barbados,Barbados,N-America,19610000,0,0
+18,56,BE,BEL,255,BE,BEL,Kingdom of Belgium,Belgium,Europe,0,0,0
+19,0,-,-,015,-,-,Belgium And Luxembourg,Belgium-lux,Europe,0,0,0
+20,84,BZ,BLZ,023,BH,BLZ,Belize,Belize,N-America,19810900,0,0
+21,204,BJ,BEN,053,BN,BEN,Peoples Republic of Benin,Benin,Africa,19600800,0,0
+22,60,BM,BMU,017,BD,-,Bermuda,Bermuda,N-America,19680000,0,0
+23,64,BT,BTN,018,BT,BTN,Kingdom of Bhutan,Bhutan,Asia,19700000,0,0
+24,68,BO,BOL,019,BL,BOL,Republic of Bolivia,Bolivia,S-America,19670000,0,0
+25,70,BA,BIH,080,BK,-,Bosnia Hertzegovina,Bosnia and Herzegovina,Europe,19920520,0,0
+26,72,BW,BWA,020,BC,BWA,Republic of Botswana,Botswana,Africa,19660000,0,0
+27,0,AK,ALK,231,-,-,Alaska State Of The United States,Alaska,N-America,19590000,0,0
+28,74,BV,BVT,031,BV,-,Bouvet Island,Bouvet Island,Antarctica,0,0,0
+29,76,BR,BRA,021,BR,BRA,Federative Republic of Brazil,Brazil,S-America,0,0,0
+30,86,IO,IOT,024,IO,-,Brithish Indian Ocean Territory,British Indian Ocean Terr,Africa,19650000,0,0
+31,96,BN,BRN,026,BX,BRN,Brunei,Brunei Darussalam,Asia,19840000,0,0
+32,100,BG,BGR,027,BU,BGR,Peoples Republic of Bulgaria,Bulgaria,Europe,19460000,0,0
+33,104,MM,MMR,028,BM,-,Socialist Republic of the Union of Burma,Myanmar,Asia,19890000,0,0
+34,108,BI,BDI,029,BY,BDI,Republic of Burundi,Burundi,Africa,19620000,0,0
+35,112,BY,BLR,057,BO,-,Belarus,Belarus,Asia,19920000,0,0
+36,120,CM,CMR,032,CM,CMR,United Republic of Cameroon,Cameroon,Africa,19600000,0,0
+37,124,CA,CAN,033,CA,CAN,Canada,Canada,N-America,19820417,0,0
+38,128,CT,CTE,034,-,-,Canton And Enderbury Islands,Canton-end Is,Oceania,19790000,0,0
+39,132,CV,CPV,035,CV,-,Republic of Cape Verde,Cape Verde,Africa,19650000,0,0
+40,136,KY,CYM,036,CJ,-,Cayman Islands,Cayman Islands,N-America,0,0,0
+41,140,CF,CAF,037,CT,CAF,Central African Republic,Central African Republic,Africa,19600000,0,0
+42,148,TD,TCD,039,CD,TCD,Republic of Chad,Chad,Africa,19600000,0,0
+43,152,CL,CHL,040,CI,CHL,Republic of Chile,Chile,S-America,0,0,0
+44,156,CN,CHN,0,CH,CHN,Peoples Republic of China (Inc. Taiwan
+45,0,-,-,041,-,-,China (excluding Taiwan
+46,162,CX,CXR,042,KT,-,Christmas Island,Christmas Island,Oceania,0,0,0
+47,166,CC,CCK,043,CK,-,Cocos (Keeling
+48,170,CO,COL,044,CO,COL,Republic of Colombia,Colombia,S-America,0,0,0
+49,174,KM,COM,045,CN,-,Federal and Islamic Republic of Comoros,Comoros,Africa,19750706,0,0
+50,178,CG,COG,046,CF,COG,Peoples Republic of the Congo,Congo,Africa,19600000,0,0
+51,184,CK,COK,047,CW,-,Cook Islands,Cook Islands,Oceania,19010000,0,0
+52,188,CR,CRI,048,CS,CRI,Republic of Costa Rica,Costa Rica,N-America,0,0,0
+53,192,CU,CUB,049,CU,CUB,Republic of Cuba,Cuba,N-America,0,0,0
+54,196,CY,CYP,050,CY,CYP,Republic of Cyprus,Cyprus,Asia,19600000,0,0
+55,203,CZ,CZE,167,EZ,-,Czech Republic,Czech Republic,Europe,19930000,0,0
+56,0,CS,CSK,051,-,-,Czechoslovakia,Czechoslovakia,Europe,19921216,0,0
+57,208,DK,DNK,054,DA,DNK,Kingdom of Denmark,Denmark,Europe,0,0,0
+58,262,DJ,DJI,072,DJ,DJI,Republic of Djibouti,Djibouti,Africa,19770000,0,0
+59,212,DM,DMA,055,DO,-,Commonwealth of Dominica,Dominica,N-America,19780000,0,0
+60,214,DO,DOM,056,DR,DOM,Dominican Republic,Dominican Republic,N-America,0,0,0
+61,216,NQ,ATN,0,-,-,Dronning Maud Land,Dronning Maud La,-,0,0,0
+62,626,TL,TLS,176,TT,-,Timor-Leste,Timor-Leste,Asia,0,0,0
+63,218,EC,ECU,058,EC,ECU,Republic of Ecuador,Ecuador,S-America,0,0,0
+64,818,EG,EGY,059,EG,EGY,Arab Republic of Egypt,Egypt,Africa,19520000,0,0
+65,222,SV,SLV,060,ES,SLV,Republic of El Salvador,El Salvador,N-America,0,0,0
+66,226,GQ,GNQ,061,EK,GNQ,Republic of Equatorial Guinea,Equatorial Guinea,Africa,19680000,0,0
+67,232,ER,ERI,178,ER,-,Eritrea,Eritrea,Africa,19930400,0,0
+68,233,EE,EST,063,EN,-,Estonia Metropolitan,Estonia,Asia,19920628,0,0
+69,231,ET,ETH,238,ET,ETH,Ethiopia,Ethiopia,Africa,19420000,0,0
+70,234,FO,FRO,064,FO,-,Faeroe Islands,Faroe Islands,Europe,0,0,0
+71,238,FK,FLK,065,FK,-,Falkland Islands (Malvinas
+72,242,FJ,FJI,066,FJ,-,Fiji,Fiji,Oceania,19700000,0,0
+73,246,FI,FIN,067,FI,FIN,Republic of Finland,Finland,Europe,19190000,0,0
+74,250,FR,FRA,068,FR,FRA,France Republic,France,Europe,0,0,0
+75,254,GF,GUF,069,FG,GUF,French Guiana,French Guiana,S-America,0,0,0
+76,258,PF,PYF,070,FP,-,French Polynesia,French Polynesia,Oceania,0,0,0
+77,266,GA,GAB,074,GB,GAB,Gabonese Republic,Gabon,Africa,19600000,0,0
+78,270,GM,GMB,075,GA,GMB,Republic of the Gambia,Gambia,Africa,19650000,0,0
+79,0,-,-,076,-,-,Gaza Strip,Gaza Strip,Asia,0,0,0
+80,268,GE,GEO,073,GG,-,Georgia,Georgia,Asia,19920000,0,0
+81,278,DD,DDR,077,-,-,German Democratic Republic,Germany (East
+82,280,DE,DEU,078,-,-,German Federal Republic,Germany (West
+83,288,GH,GHA,081,GH,GHA,Republic of Ghana,Ghana,Africa,19570000,0,0
+84,292,GI,GIB,082,GI,-,Gibraltar,Gibraltar,Europe,0,0,0
+85,300,GR,GRC,084,GR,GRC,Greece Hellenic Republic,Greece,Europe,0,0,0
+86,304,GL,GRL,085,GL,-,Greenland,Greenland,N-America,0,0,0
+87,308,GD,GRD,086,GJ,-,Grenada,Grenada,N-America,19740207,0,0
+88,312,GP,GLP,087,GP,-,Guadeloupe,Guadeloupe,N-America,19460000,0,0
+89,316,GU,GUM,088,GQ,-,Guam,Guam,Oceania,0,0,0
+90,320,GT,GTM,089,GT,GTM,Republic of Guatemala,Guatemala,N-America,0,0,0
+91,324,GN,GIN,090,GV,GIN,Revolutionary Peoples Republic of Guinea,Guinea,Africa,19580000,0,0
+92,624,GW,GNB,175,PU,GNB,Republic of Guinea-Bissau,Guinea-Bissau,Africa,19740000,0,0
+93,328,GY,GUY,091,GY,GUY,Republic of Guyana,Guyana,S-America,0,0,0
+94,332,HT,HTI,093,HA,HTI,Republic of Haiti,Haiti,N-America,0,0,0
+95,334,HM,HMD,092,HM,-,Heard Island and McDonald Islands,Heard & McDonald Islands,Antarctica,0,0,0
+96,336,VA,VAT,094,VT,-,Vatican City State (Holy See
+97,340,HN,HND,095,HO,HND,Republic of Honduras,Honduras,N-America,0,0,0
+98,344,HK,HKG,096,HK,-,Hong Kong,Hong Kong,Asia,0,0,0
+99,348,HU,HUN,097,HU,HUN,Hungarian Peoples Republic,Hungary,Europe,19200000,0,0
+100,352,IS,ISL,099,IC,ISL,Republic of Iceland,Iceland,Europe,0,0,0
+101,356,IN,IND,100,IN,IND,Republic of India,India,Asia,19470000,0,0
+102,360,ID,IDN,101,ID,IDN,Republic of Indonesia,Indonesia,Asia,19490000,0,0
+103,364,IR,IRN,102,IR,IRN,Islamic Republic Iran,Iran,Islamic Republic Of,Asia,19250000,0,0
+104,368,IQ,IRQ,103,IZ,IRQ,Republic+K239 of Iraq,Iraq,Asia,19580714,0,0
+105,372,IE,IRL,104,EI,IRL,Ireland,Ireland,Europe,19480000,0,0
+106,376,IL,ISR,105,IS,ISR,State of Israel,Israel,Asia,19480000,0,0
+107,380,IT,ITA,106,IT,ITA,Italian Republic,Italy,Europe,0,0,0
+108,384,CI,CIV,107,IV,CIV,Republic of Ivory Coast,Côte D\'Ivoire,Africa,19600000,0,0
+109,388,JM,JAM,109,JM,JAM,Jamaica,Jamaica,N-America,19620000,0,0
+110,392,JP,JPN,110,JA,JPN,Japan,Japan,Asia,0,0,0
+111,396,JT,JTN,111,-,-,Johnston Island,Johnston Is,Oceania,0,0,0
+112,400,JO,JOR,112,JO,JOR,Hashemite Kingdom of Jordan,Jordan,Asia,19210000,0,0
+113,116,KH,KHM,115,CB,KHM,Kampuchea,Democratic,Cambodia,Asia,19530000,0,0
+114,404,KE,KEN,114,KE,KEN,Republic of Kenya,Kenya,Africa,19631212,0,0
+115,296,KI,KIR,083,KR,-,Kiribati,Kiribati,Oceania,19790700,0,0
+116,408,KP,PRK,116,KN,PRK,Democratic Peoples Republic of Korea,Korea,DPR,Asia,0,0,0
+117,410,KR,KOR,117,KS,KOR,Republic of Korea,Korea,Republic of,Asia,19480800,0,0
+118,414,KW,KWT,118,KU,KWT,State of Kuwait,Kuwait,Asia,19610000,0,0
+119,417,KG,KGZ,113,KG,-,Kyrgyzstan,Kyrgyzstan,Asia,19910000,0,0
+120,418,LA,LAO,120,LA,LAO,Lao Peoples Democratic Republic,Lao PDR,Asia,19540000,0,0
+121,428,LV,LVA,119,LG,-,Latvia,Latvia,Asia,19910821,0,0
+122,422,LB,LBN,121,LE,LBN,Lebanese Republic,Lebanon,Asia,19460000,0,0
+123,426,LS,LSO,122,LT,LSO,Kingdom of Lesotho,Lesotho,Africa,19660000,0,0
+124,430,LR,LBR,123,LI,LBR,Republic of Liberia,Liberia,Africa,0,0,0
+125,434,LY,LBY,124,LY,LBY,Socialist Peoples Libyan Arab Jamahiriya,Libya,Africa,19510000,0,0
+126,438,LI,LIE,125,LS,-,Principality of Liechtenstein,Liechtenstein,Europe,0,0,0
+127,442,LU,LUX,256,LU,LUX,Grand Duchy of Luxembourg,Luxembourg,Europe,0,0,0
+128,440,LT,LTU,126,LH,-,Lithuania,Lithuania,Asia,19920000,0,0
+129,446,MO,MAC,128,MC,-,Macau,Macao,Asia,0,0,0
+130,450,MG,MDG,129,MA,MDG,Democratic Republic of Madagascar,Madagascar,Africa,19750000,0,0
+131,454,MW,MWI,130,MI,MWI,Republic of Malawi,Malawi,Africa,19640706,0,0
+132,458,MY,MYS,131,MY,MYS,Malaysia,Malaysia,Asia,19570000,0,0
+133,462,MV,MDV,132,MV,-,Republic of Maldives,Maldives,Asia,19680000,0,0
+134,466,ML,MLI,133,ML,MLI,Republic of Mali,Mali,Africa,19600000,0,0
+135,470,MT,MLT,134,MT,-,Republic of Malta,Malta,Europe,19640000,0,0
+136,474,MQ,MTQ,135,MB,-,Martinique,Martinique,N-America,0,0,0
+137,807,MK,MKD,0,MK,-,Macedonia,the Former Yugoslav Republic Of,Macedonia,Europe,19920000,0,0
+138,478,MR,MRT,136,MR,MRT,Islamic Republic of Mauritania,Mauritania,Africa,19600000,0,0
+139,480,MU,MUS,137,MP,-,Mauritius,Mauritius,Africa,19680312,0,0
+140,484,MX,MEX,138,MX,MEX,United Mexican States,Mexico,N-America,0,0,0
+141,583,FM,FSM,145,FM,-,Federated States of Micronesia,Micronesia,Oceania,19910917,0,0
+142,488,MI,MID,139,-,-,Midway Islands,Midway Is,Oceania,0,0,0
+143,492,MC,MCO,140,MN,-,Principality of Monaco,Monaco,Europe,0,0,0
+144,496,MN,MNG,141,MG,MNG,State of Mongolia,Mongolia,Asia,19920000,0,0
+145,498,MD,MDA,146,MD,-,Moldova,Moldova,Republic of,Europe,19920000,0,0
+146,500,MS,MSR,142,MH,-,Montserrat,Montserrat,N-America,0,0,0
+147,504,MA,MAR,143,MO,MAR,Kingdom of Morocco,Morocco,Africa,19560000,0,0
+148,508,MZ,MOZ,144,MZ,MOZ,Peoples Republic of Mozambique,Mozambique,Africa,19750000,0,0
+149,516,NA,NAM,147,WA,NAM,Namibia,Namibia,Africa,19900000,0,0
+150,520,NR,NRU,148,NR,-,Republic of Nauru,Nauru,Oceania,19680000,0,0
+151,524,NP,NPL,149,NP,NPL,Kingdom of Nepal,Nepal,Asia,0,0,0
+152,528,NL,NLD,150,NL,NLD,Kingdom of the Netherlands,Netherlands,Europe,0,0,0
+153,530,AN,ANT,151,-,-,Netherlands Antilles,Antilles,N-America,0,0,0
+154,536,NT,NTZ,152,-,-,Neutral Zone,Neutral Zone,Asia,0,0,0
+155,540,NC,NCL,153,NC,-,New Caledonia,New Caledonia,Oceania,0,0,0
+156,554,NZ,NZL,156,NZ,NZL,New Zealand,New Zealand,Oceania,19070000,0,0
+157,558,NI,NIC,157,NU,NIC,Republic of Nicaragua,Nicaragua,N-America,0,0,0
+158,562,NE,NER,158,NG,NER,Republic of the Niger,Niger,Africa,19600000,0,0
+159,566,NG,NGA,159,NI,NGA,Federal Republic of Nigeria,Nigeria,Africa,19601000,0,0
+160,570,NU,NIU,160,NE,-,Niue,Niue,Oceania,0,0,0
+161,574,NF,NFK,161,NF,-,Norfolk Island,Norfolk Island,Oceania,0,0,0
+162,578,NO,NOR,162,NO,NOR,Kingdom of Norway,Norway,Europe,19050000,0,0
+163,512,OM,OMN,221,MU,OMN,Sultanate of Oman,Oman,Asia,0,0,0
+164,582,PC,PCI,164,-,-,Pacific Islands,Pacific Is,Oceania,0,0,0
+165,586,PK,PAK,165,PK,PAK,Islamic Republic of Pakistan,Pakistan,Asia,19470000,0,0
+166,275,PS,PSE,076,WE,-,Palestinian Territory,Occupied,Palestine,Asia,0,0,0
+167,591,PA,PAN,166,PM,PAN,Republic of Panama,Panama,N-America,19030000,0,0
+168,598,PG,PNG,168,PP,PNG,Papua New Guinea,Papua New Guinea,Oceania,19750000,0,0
+169,600,PY,PRY,169,PA,PRY,Republic of Paraguay,Paraguay,S-America,0,0,0
+170,604,PE,PER,170,PE,PER,Republic of Peru,Peru,S-America,19460000,0,0
+171,608,PH,PHL,171,RP,PHL,Republic of the Philippines,Philippines,Asia,0,0,0
+172,612,PN,PCN,172,PC,-,Pitcairn Island,Pitcairn,Oceania,0,0,0
+173,616,PL,POL,173,PL,POL,Polish Peoples Republic,Poland,Europe,19180000,0,0
+174,620,PT,PRT,174,PO,PRT,Portuguese Republic,Portugal,Europe,0,0,0
+175,630,PR,PRI,177,RQ,PRI,Puerto Rico,Puerto Rico,N-America,19470000,0,0
+176,634,QA,QAT,179,QA,QAT,State of Qatar,Qatar,Asia,19710000,0,0
+177,638,RE,REU,182,RE,-,Reunion,Réunion,Africa,0,0,0
+178,239,GS,SGS,073,SX,-,South Georgia and the South Sandwich Islands,South Georgia,-,0,0,0
+179,642,RO,ROM,183,RO,ROM,Socialist Republic of Romania,Romania,Europe,19480000,0,0
+180,643,RU,RUS,185,RS,-,Russia Federation,Russian Federation,-,19920000,0,0
+181,646,RW,RWA,184,RW,RWA,Rwandese Republic,Rwanda,Africa,19620000,0,0
+182,662,LC,LCA,189,ST,-,Saint Lucia,Saint Lucia,N-America,19790000,0,0
+183,882,WS,WSM,244,WS,-,Independent State of Western Samoa,Samoa,Oceania,19620000,0,0
+184,674,SM,SMR,192,SM,-,Republic of San Marino,San Marino,Europe,0,0,0
+185,678,ST,STP,193,TP,-,Democratic Republic of Sao Tome and Principe,Sao Tome and Principe,Africa,19750000,0,0
+186,682,SA,SAU,194,SA,SAU,Kingdom of Saudi Arabia,Saudi Arabia,Asia,19260000,0,0
+187,686,SN,SEN,195,SG,SEN,Republic of Senegal,Senegal,Africa,19600000,0,0
+188,690,SC,SYC,196,SE,-,Republic of Seychelles,Seychelles,Africa,19760000,0,0
+189,694,SL,SLE,197,SL,SLE,Republic of Sierra Leone,Sierra Leone,Africa,19610000,0,0
+190,702,SG,SGP,200,SN,-,Republic of Singapore,Singapore,Asia,19651222,0,0
+191,703,SK,SVK,199,LO,-,Slovakia,Slovakia,Europe,19930000,0,0
+192,705,SI,SVN,198,SI,-,Slovenia,Slovenia,Europe,19920000,0,0
+193,90,SB,SLB,025,BP,-,Solomon Islands,Solomon Islands,Oceania,19780000,0,0
+194,706,SO,SOM,201,SO,SOM,Somali Democratic Republic,Somalia,Africa,19600700,0,0
+195,710,ZA,ZAF,202,SF,ZAF,Republic of South Africa,South Africa,Africa,19610000,0,0
+196,724,ES,ESP,203,SP,ESP,Spanish State,Spain,Europe,0,0,0
+197,144,LK,LKA,038,CE,LKA,Democratic Socialist Republic of Sri Lanka,Sri Lanka,Asia,19480204,0,0
+198,654,SH,SHN,187,SH,-,St. Helena,St. Helena,Africa,0,0,0
+199,659,KN,KNA,188,SC,-,St. Kitts and Nevis,Saint Kitts And Nevis,N-America,19830919,0,0
+200,666,PM,SPM,190,SB,-,St. Pierre and Miquelon,Saint Pierre And Miquelon,N-America,0,0,0
+201,670,VC,VCT,191,VC,-,Saint Vincent and the Grenadines,St. Vincent,N-America,19790000,0,0
+202,729,SD,SDN,206,SU,SDN,Democratic Republic of the Sudan,Sudan,Africa,19540000,0,0
+203,740,SR,SUR,207,NS,SUR,Republic of Suriname,Suriname,S-America,19751100,0,0
+204,744,SJ,SJM,260,SV,-,Svalbard and Jan Mayan Islands,Svalbard And Jan Mayen,Europe,0,0,0
+205,748,SZ,SWZ,209,WZ,SWZ,Kingdom of Swaziland,Swaziland,Africa,19680000,0,0
+206,752,SE,SWE,210,SW,SWE,Kingdom of Sweden,Sweden,Europe,0,0,0
+207,756,CH,CHE,211,SZ,CHE,Swiss Confederation,Switzerland,Europe,0,0,0
+208,760,SY,SYR,212,SY,SYR,Syrian arab Republic,Syrian Arab Republic,Asia,19460000,0,0
+209,158,TW,TWN,214,TW,OAN,Chinese Taipei (Taiwan
+210,762,TJ,TJK,208,TI,-,Tajikistan,Tajikistan,Asia,19920000,0,0
+211,834,TZ,TZA,215,TZ,TZA,United Republic of Tanzania,Tanzania,Africa,19610000,0,0
+212,764,TH,THA,216,TH,THA,Kingdom of Thailand,Thailand,Asia,0,0,0
+213,768,TG,TGO,217,TO,TGO,Togolese Republic,Togo,Africa,19600427,0,0
+214,772,TK,TKL,218,TL,-,Tokelau,Tokelau,Oceania,0,0,0
+215,776,TO,TON,219,TN,-,Kingdom of Tonga,Tonga,Oceania,19700000,0,0
+216,0,TA,TRA,0,-,-,Transkei,Transkei,Africa,19760000,0,0
+217,780,TT,TTO,220,TD,TTO,Republic of Trinidad and Tobago,Trinidad and Tobago,N-America,19760000,0,0
+218,788,TN,TUN,222,TS,TUN,Republic of Tunisia,Tunisia,Africa,19560320,0,0
+219,792,TR,TUR,223,TU,TUR,Republic of Turkey,Turkey,Asia,19230000,0,0
+220,796,TC,TCA,224,TK,-,Turks and Caicos Islands,Turks and Caicos Islands,N-America,0,0,0
+221,795,TM,TKM,213,TX,-,Turkmenistan,Turkmenistan,Asia,19920000,0,0
+222,798,TV,TUV,227,TV,-,Tuvalu,Tuvalu,Africa,19780000,0,0
+223,810,SU,SUN,228,UR,-,Union Of Soviet Socialist Republic,Ussr,Asia,19171107,19911225,0
+224,860,UZ,UZB,235,UZ,-,Uzbekistan,Uzbekistan,Asia,19920000,0,0
+225,800,UG,UGA,226,UG,UGA,Republic of Uganda,Uganda,Africa,19620000,0,0
+226,804,UA,UKR,230,UP,-,Ukraine,Ukraine,Asia,19920000,0,0
+227,784,AE,ARE,225,AE,ARE,United Arab Emirates,United Arab Emirates,Asia,19710000,0,0
+228,826,GB,GBR,229,UK,GBR,United Kingdom of Great Britain & N Irland,United Kingdom,Europe,0,0,0
+229,840,US,USA,231,US,USA,United States of America,United States,N-America,0,0,0
+230,849,PU,PUS,164,-,-,United States Miscellaneous Pacific Islands,Us Pacific Is,Oceania,0,0,0
+231,854,BF,BFA,233,UV,-,Burkina Faso,Burkina Faso,Africa,19840000,0,0
+232,858,UY,URY,234,UY,URY,Eastern Republic of Uruguay,Uruguay,S-America,0,0,0
+233,548,VU,VUT,155,NH,-,Vanuatu,Vanuatu,Oceania,19800000,0,0
+234,862,VE,VEN,236,VE,VEN,Republic of Venezuela,Venezuela,S-America,0,0,0
+235,704,VN,VNM,237,VM,VNM,Socialist Republic of Vietnam,Viet Nam,Asia,19760425,0,0
+236,92,VG,VGB,239,VI,-,British Virgin Islands,Virgin Islands,British,N-America,0,0,0
+237,850,VI,VIR,240,VQ,-,United States Virgin Islands,Virgin Islands,U.S.,N-America,19170000,0,0
+238,872,WK,WAK,242,-,-,Wake Island,Wake Is,Oceania,0,0,0
+239,876,WF,WLF,243,WF,-,Wallis and Futuna Islands,Wallis and Futuna,Oceania,19700000,0,0
+240,732,EH,ESH,205,WI,-,Western Sahara,Western Sahara,Africa,0,0,0
+241,887,YE,YEM,249,YM,YEM,Yemen Arab Republic,Yemen,Asia,19180000,0,0
+242,720,YD,YMD,0,-,-,Peoples Democratic Republic Of Yemen,Yemen Democratic,Asia,19670000,0,0
+243,891,YU,YUG,248,-,-,Socialist Federal Republic Of Yugoslavia,Yugoslavia,Europe,0,0,0
+244,180,ZR,ZAR,250,CG,ZAR,Republic Of Zaire,Zaire,Africa,19600630,0,257
+245,894,ZM,ZMB,251,ZA,ZMB,Republic of Zambia,Zambia,Africa,19640000,0,0
+246,716,ZW,ZWE,181,ZI,ZWE,Zimbabwe,Zimbabwe,Africa,19650000,0,0
+247,191,HR,HRV,098,HR,-,Croatia,Croatia,Europe,19901222,0,0
+248,398,KZ,KAZ,108,KZ,-,Kazakhstan,Kazakhstan,Asia,19920000,0,0
+249,660,AI,AIA,258,AV,-,ANGUILLA,Anguilla,N-America,0,0,0
+250,533,AW,ABW,022,AA,-,Aruba,Aruba,N-America,19860000,0,0
+251,0,-,-,186,-,-,Yugoslavia Fr,Yugoslavia Fr,Europe,19920000,0,243
+252,0,-,-,0,-,-,Upper Volta,Upper Volta,Africa,19600000,0,231
+253,0,-,-,0,BM,BUR,Burma,Burma,Asia,19480000,19890000,33
+254,116,KH,KHM,115,CB,KHM,Cambodia,Cambodia,Asia,19530000,0,113
+255,499,ME,MNE,0,MJ,-,Montenegro,Montenegro,Europe,0,0,0
+256,496,MN,MNG,141,MG,MNG,Mongolian Peoples Republic,Mongolia,Asia,19240000,19920000,144
+257,180,CD,COD,0,CG,-,Democratic Republic of the Congo,Congo,Africa,0,0,0
+258,249,FX,FXX,0,-,-,Metropolitan France,MET FRANCE,-,0,0,0
+259,260,TF,ATF,0,FS,-,French Southern Territories,French Southern Terr,-,0,0,0
+260,276,DE,DEU,0,GM,-,Germany,Germany,Europe,19901003,0,0
+261,584,MH,MHL,0,RM,-,Marshall Islands,Marshall Islands,-,0,0,0
+262,175,YT,MYT,0,MF,-,Mayotte,Mayotte,-,0,0,0
+263,580,MP,MNP,0,CQ,-,Northern Mariana Islands,Northern Mariana Islands,-,0,0,0
+264,585,PW,PLW,0,PS,-,Palau,Palau,-,0,0,0
+265,581,UM,UMI,0,-,-,United States minor Outlying Islands,US Minor Outlying Islands,-,0,0,0
+266,0,-,-,0,PF,-,Paracel Islands,PARACEL IS,-,0,0,0
+267,0,-,-,0,PG,-,Spratly Islands,SPRATLY IS,-,0,0,0
+281,688,RS,SRB,-,-,-,Serbia,Serbia,-,20140716,0,0
+283,626,TP,TMP,-,-,-,East Timor,East Timor,-,20140716,0,0
+284,710,SS,SSD,-,-,-,South Sudan,South Sudan,-,20140716,0,0
