@@ -1,9 +1,218 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
   <diagram name="Page-1" id="xc-8jDURnHTBcUboGoLB">
-    <mxGraphModel>
+    <mxGraphModel dx="1162" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AGFt4FULUfX5j3itMPPV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="90" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="90" width="2960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-3" value="Define use case or assets of interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="111.25" y="120" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-4" value="Construct search of AgPile registry for assets or assets associated with the use case" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331.25" y="121" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-5" value="&lt;b&gt;Discover&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="31.25" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-3" target="AGFt4FULUfX5j3itMPPV-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391.25" y="210" as="sourcePoint" />
+            <mxPoint x="311.25" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="220" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="220" width="2960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-9" value="Evaluate the results of the search for relevance to the use case or asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345.25" y="250" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-11" target="AGFt4FULUfX5j3itMPPV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-11" value="Select the use case assets or specific asset explore further" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561.25" y="251" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-12" value="&lt;b&gt;Evaluate&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="31.25" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-9" target="AGFt4FULUfX5j3itMPPV-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="621.25" y="340" as="sourcePoint" />
+            <mxPoint x="541.25" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="350" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="350" width="2960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-16" value="Register and login to save or bookmark the use case assets or the specific assets for make subsequent retrieval easy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="541.25" y="380" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-17" value="Open the assets for inspection directly or Python / R notebook to enable the inspection as needed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="791.25" y="381" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-18" value="&lt;b&gt;Save / Bookmark / Inspect&amp;nbsp; (Optional)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="5.47" y="403.97" width="111.57" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-16" target="AGFt4FULUfX5j3itMPPV-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851.25" y="470" as="sourcePoint" />
+            <mxPoint x="771.25" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="480" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="480" width="2960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-22" value="Run experiments to derive new assets based on the use case assets or specific assets retrieved" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="801.25" y="510" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-24" target="AGFt4FULUfX5j3itMPPV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-24" value="Validate the experiments conducted, establishing statistical tests as needed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1081.25" y="511" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-25" value="&lt;b&gt;Experiment&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry y="532.25" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-22" target="AGFt4FULUfX5j3itMPPV-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1141.25" y="600" as="sourcePoint" />
+            <mxPoint x="1061.25" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AGFt4FULUfX5j3itMPPV-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2073.25" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-29" target="AGFt4FULUfX5j3itMPPV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-29" value="Generate results and reports as needed for publication or sharing with others in the community" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1371.25" y="511" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="610" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="610" width="2960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-32" value="Register the new asset on the AgPile Registry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1377.25" y="640" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-35" value="&lt;b&gt;Register new assets created&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="3.75" y="658.5" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-32" target="AGFt4FULUfX5j3itMPPV-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1687.25" y="730" as="sourcePoint" />
+            <mxPoint x="1627.25" y="671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="740" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="740" width="2960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-39" value="Define test user stories and test cases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1924.25" y="770" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-41" target="AGFt4FULUfX5j3itMPPV-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-41" value="Execute test user stories and test cases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2174.25" y="771" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-42" value="&lt;b&gt;Post-Registration testing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="8.75" y="787.5" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-39" target="AGFt4FULUfX5j3itMPPV-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2234.25" y="860" as="sourcePoint" />
+            <mxPoint x="2154.25" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-44" value="Report results, if bugs identified log bugs for resolution&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2426.75" y="771" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="870" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="870" width="2960" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-47" value="Release notification to the requester and/or contributors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2399.25" y="903.5" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-49" target="AGFt4FULUfX5j3itMPPV-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-49" value="Execute test user stories and test cases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2649.25" y="901.5" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-50" value="&lt;b&gt;Release notification to requester or Research&amp;nbsp; Community&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="941.25" width="152.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-47" target="AGFt4FULUfX5j3itMPPV-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2709.25" y="990.5" as="sourcePoint" />
+            <mxPoint x="2629.25" y="940.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-53" target="AGFt4FULUfX5j3itMPPV-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-53" value="Report results, if bugs identified log bugs for resolution&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2901.75" y="901.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-55" target="AGFt4FULUfX5j3itMPPV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-55" value="Indexing in the master registry" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1939.75" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.386;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-4" target="AGFt4FULUfX5j3itMPPV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-17" target="AGFt4FULUfX5j3itMPPV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-44" target="AGFt4FULUfX5j3itMPPV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-59" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1f1f1f, #ededed);fontColor=light-dark(#f7f2f2, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3091.25" y="926" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-61" target="AGFt4FULUfX5j3itMPPV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-61" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=light-dark(#fafafa, #ededed);fillColor=light-dark(#1a1a1a, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="131.25" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Research Contributors Journey&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1311.25" y="40" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGFt4FULUfX5j3itMPPV-63" target="AGFt4FULUfX5j3itMPPV-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGFt4FULUfX5j3itMPPV-63" value="Submit request to index new asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
